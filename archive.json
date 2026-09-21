@@ -1,7 +1,7 @@
 {
   "2026-09-21": {
     "day": "2026-09-21",
-    "generated_at": "2026-09-21T01:50+09:00",
+    "generated_at": "2026-09-21T11:58+09:00",
     "races": [
       {
         "race_id": "202609040701",
@@ -20,10 +20,10 @@
             "name": "エコロラーダ",
             "status": "active",
             "rank": 1,
-            "score": 52.578378557600765,
-            "probability": 0.4278800501309321,
-            "place_probability": 0.6866528495096831,
-            "coverage": 0.9485347416381898,
+            "score": 58.078378557600765,
+            "probability": 0.5050867688798135,
+            "place_probability": 0.7391543035515118,
+            "coverage": 0.8536812674743709,
             "finish": null
           },
           {
@@ -32,8 +32,8 @@
             "status": "active",
             "rank": 2,
             "score": 38.55830162696251,
-            "probability": 0.1680348005736628,
-            "place_probability": 0.4811464673445971,
+            "probability": 0.13746808375773847,
+            "place_probability": 0.4577730440174764,
             "coverage": 0.9536812674743709,
             "finish": null
           },
@@ -43,30 +43,41 @@
             "status": "active",
             "rank": 3,
             "score": 28.291377422404615,
-            "probability": 0.08475031733217869,
-            "place_probability": 0.3456678599258974,
+            "probability": 0.06933363613811383,
+            "place_probability": 0.32643644490275703,
             "coverage": 1.0,
+            "finish": null
+          },
+          {
+            "number": 6,
+            "name": "ランズエンド",
+            "status": "active",
+            "rank": 4,
+            "score": 28.03117086474561,
+            "probability": 0.06814127029976794,
+            "place_probability": 0.3234978851210917,
+            "coverage": 0.8536812674743709,
             "finish": null
           },
           {
             "number": 5,
             "name": "ガヤーズサムライ",
             "status": "active",
-            "rank": 4,
-            "score": 27.147295363413754,
-            "probability": 0.07852659469366878,
-            "place_probability": 0.33235077958362347,
-            "coverage": 0.9763023829087921,
+            "rank": 5,
+            "score": 27.325414707137213,
+            "probability": 0.06500945000685525,
+            "place_probability": 0.31563116783912565,
+            "coverage": 0.9311288591079075,
             "finish": null
           },
           {
             "number": 2,
             "name": "マコトブリッツ",
             "status": "active",
-            "rank": 5,
+            "rank": 6,
             "score": 24.73992372805017,
-            "probability": 0.06688307268397975,
-            "place_probability": 0.30561694561085107,
+            "probability": 0.05471656946244098,
+            "place_probability": 0.28810350774336935,
             "coverage": 0.9536812674743709,
             "finish": null
           },
@@ -74,22 +85,11 @@
             "number": 1,
             "name": "ハイネスプラウド",
             "status": "active",
-            "rank": 6,
-            "score": 24.36138805153857,
-            "probability": 0.06521634966269813,
-            "place_probability": 0.3015726273967889,
-            "coverage": 0.9778852619533545,
-            "finish": null
-          },
-          {
-            "number": 6,
-            "name": "ランズエンド",
-            "status": "active",
             "rank": 7,
-            "score": 22.53117086474561,
-            "probability": 0.05772530968592428,
-            "place_probability": 0.28262641319954457,
-            "coverage": 0.9485347416381898,
+            "score": 24.36138805153857,
+            "probability": 0.0533530351284323,
+            "place_probability": 0.2842427770145657,
+            "coverage": 0.9778852619533545,
             "finish": null
           },
           {
@@ -97,10 +97,10 @@
             "name": "ワンダーラヴグッド",
             "status": "active",
             "rank": 8,
-            "score": 20.668267368877856,
-            "probability": 0.05098350523695543,
-            "place_probability": 0.2643660574290147,
-            "coverage": 0.9424692660483245,
+            "score": 22.42487104126872,
+            "probability": 0.04689118632683768,
+            "place_probability": 0.2651608698101031,
+            "coverage": 0.9536812674743709,
             "finish": null
           }
         ],
@@ -109,19 +109,19 @@
             "number": 8,
             "name": "エコロラーダ",
             "rank": 1,
-            "probability": 0.4278800501309321
+            "probability": 0.5050867688798135
           },
           {
             "number": 3,
             "name": "ポカポカヨウキ",
             "rank": 2,
-            "probability": 0.1680348005736628
+            "probability": 0.13746808375773847
           },
           {
             "number": 7,
             "name": "ゴルディアス",
             "rank": 3,
-            "probability": 0.08475031733217869
+            "probability": 0.06933363613811383
           }
         ]
       },
@@ -138,25 +138,25 @@
         "winner": null,
         "horses": [
           {
-            "number": 7,
-            "name": "イテルム",
-            "status": "active",
-            "rank": 1,
-            "score": 83.73068984726315,
-            "probability": 0.32603391448295804,
-            "place_probability": 0.6647515976945368,
-            "coverage": 0.9804540766898966,
-            "finish": null
-          },
-          {
             "number": 3,
             "name": "ハマナスノサクコロ",
             "status": "active",
+            "rank": 1,
+            "score": 86.38288051658621,
+            "probability": 0.3417072994227016,
+            "place_probability": 0.6792238591280988,
+            "coverage": 0.8804540766898966,
+            "finish": null
+          },
+          {
+            "number": 7,
+            "name": "イテルム",
+            "status": "active",
             "rank": 2,
-            "score": 80.88288051658621,
-            "probability": 0.26965610250481503,
-            "place_probability": 0.6227619235630216,
-            "coverage": 0.9782823074332184,
+            "score": 83.73068984726315,
+            "probability": 0.2863290888650103,
+            "place_probability": 0.640593585536613,
+            "coverage": 0.9804540766898966,
             "finish": null
           },
           {
@@ -165,8 +165,8 @@
             "status": "active",
             "rank": 3,
             "score": 76.72283093891829,
-            "probability": 0.20434521912667056,
-            "place_probability": 0.5600287085676479,
+            "probability": 0.17945979791473138,
+            "place_probability": 0.5351278467508729,
             "coverage": 0.9958108065877059,
             "finish": null
           },
@@ -176,8 +176,8 @@
             "status": "active",
             "rank": 4,
             "score": 69.29802650310806,
-            "probability": 0.12456452463814338,
-            "place_probability": 0.4499481734309275,
+            "probability": 0.10939489807710487,
+            "place_probability": 0.4268284706051914,
             "coverage": 0.9958108065877059,
             "finish": null
           },
@@ -186,10 +186,10 @@
             "name": "マリアンデール",
             "status": "active",
             "rank": 5,
-            "score": 52.92279303600435,
-            "probability": 0.041810254010165214,
-            "place_probability": 0.2562875246222207,
-            "coverage": 0.9953453406530065,
+            "score": 58.42279303600435,
+            "probability": 0.05298181221667558,
+            "place_probability": 0.2943068935797642,
+            "coverage": 0.8958108065877058,
             "finish": null
           },
           {
@@ -198,8 +198,8 @@
             "status": "active",
             "rank": 6,
             "score": 32.79688378196946,
-            "probability": 0.010928940222882516,
-            "place_probability": 0.1200634300805499,
+            "probability": 0.00959799995420931,
+            "place_probability": 0.11255637229355048,
             "coverage": 0.9804540766898966,
             "finish": null
           },
@@ -209,8 +209,8 @@
             "status": "active",
             "rank": 7,
             "score": 26.08358668668674,
-            "probability": 0.006985672022141081,
-            "place_probability": 0.09255146760258806,
+            "probability": 0.006134947980431653,
+            "place_probability": 0.08671096043741822,
             "coverage": 0.9804540766898966,
             "finish": null
           },
@@ -220,8 +220,8 @@
             "status": "active",
             "rank": 8,
             "score": 23.81579533434487,
-            "probability": 0.006005496344083472,
-            "place_probability": 0.08471978545601724,
+            "probability": 0.005274139345627653,
+            "place_probability": 0.07936004244932449,
             "coverage": 1.0,
             "finish": null
           },
@@ -230,10 +230,10 @@
             "name": "ルージュムーサ",
             "status": "active",
             "rank": 9,
-            "score": 22.405806167568517,
-            "probability": 0.0054667037488526585,
-            "place_probability": 0.08017957825100896,
-            "coverage": 0.9791025576772081,
+            "score": 23.773425253398553,
+            "probability": 0.005259262652342663,
+            "place_probability": 0.07922865185176677,
+            "coverage": 0.9804540766898966,
             "finish": null
           },
           {
@@ -241,31 +241,31 @@
             "name": "ドリームリボン",
             "status": "active",
             "rank": 10,
-            "score": 18.463264109937853,
-            "probability": 0.004203172899288009,
-            "place_probability": 0.06870781073148123,
-            "coverage": 0.9791025576772081,
+            "score": 19.136498553687893,
+            "probability": 0.003860753571164974,
+            "place_probability": 0.06606331736739926,
+            "coverage": 0.9804540766898966,
             "finish": null
           }
         ],
         "leaders": [
           {
-            "number": 7,
-            "name": "イテルム",
-            "rank": 1,
-            "probability": 0.32603391448295804
-          },
-          {
             "number": 3,
             "name": "ハマナスノサクコロ",
+            "rank": 1,
+            "probability": 0.3417072994227016
+          },
+          {
+            "number": 7,
+            "name": "イテルム",
             "rank": 2,
-            "probability": 0.26965610250481503
+            "probability": 0.2863290888650103
           },
           {
             "number": 5,
             "name": "リアンフィニ",
             "rank": 3,
-            "probability": 0.20434521912667056
+            "probability": 0.17945979791473138
           }
         ]
       },
@@ -282,80 +282,80 @@
         "winner": null,
         "horses": [
           {
-            "number": 9,
-            "name": "カツダルマ",
-            "status": "active",
-            "rank": 1,
-            "score": 71.02203344506079,
-            "probability": 0.1463106658671281,
-            "place_probability": 0.334439768965454,
-            "coverage": 0.5972917731221257,
-            "finish": null
-          },
-          {
             "number": 13,
             "name": "ココモフィーバー",
             "status": "active",
-            "rank": 2,
-            "score": 70.19346608206838,
-            "probability": 0.138447942043791,
-            "place_probability": 0.3251609342832817,
-            "coverage": 0.5505695689650723,
+            "rank": 1,
+            "score": 73.69346608206838,
+            "probability": 0.16179377277372461,
+            "place_probability": 0.3545469059392324,
+            "coverage": 0.49551261206856506,
             "finish": null
           },
           {
             "number": 4,
             "name": "エルダークローネ",
             "status": "active",
-            "rank": 3,
-            "score": 69.57598093829512,
-            "probability": 0.13286435346333633,
-            "place_probability": 0.3183717232926798,
-            "coverage": 0.5518754225959132,
+            "rank": 2,
+            "score": 73.07598093829512,
+            "probability": 0.15526864969343857,
+            "place_probability": 0.3473123361843836,
+            "coverage": 0.49668788033632183,
             "finish": null
           },
           {
-            "number": 3,
-            "name": "コジアン",
+            "number": 9,
+            "name": "カツダルマ",
             "status": "active",
-            "rank": 4,
-            "score": 62.827193157534225,
-            "probability": 0.08472489884874836,
-            "place_probability": 0.2511955269986861,
-            "coverage": 0.5792118730808599,
+            "rank": 3,
+            "score": 71.02203344506079,
+            "probability": 0.13539913981849064,
+            "place_probability": 0.32401030117332164,
+            "coverage": 0.5972917731221257,
             "finish": null
           },
           {
             "number": 1,
             "name": "アトランタ",
             "status": "active",
-            "rank": 5,
+            "rank": 4,
             "score": 62.113604259215414,
-            "probability": 0.08078868595344031,
-            "place_probability": 0.24483467733155928,
+            "probability": 0.07476364433400899,
+            "place_probability": 0.23670770548719866,
             "coverage": 0.5955126120685651,
             "finish": null
           },
           {
-            "number": 8,
-            "name": "キャンドル",
+            "number": 3,
+            "name": "コジアン",
             "status": "active",
-            "rank": 6,
-            "score": 61.1303738927099,
-            "probability": 0.07566292205233019,
-            "place_probability": 0.23629585820015392,
-            "coverage": 0.5984670413898825,
+            "rank": 5,
+            "score": 62.089119488802254,
+            "probability": 0.07464170583783551,
+            "place_probability": 0.23649801298209266,
+            "coverage": 0.5907697310354438,
             "finish": null
           },
           {
             "number": 6,
             "name": "ノヴァーリス",
             "status": "active",
+            "rank": 6,
+            "score": 61.908612409474856,
+            "probability": 0.07374886499432882,
+            "place_probability": 0.23495705136755923,
+            "coverage": 0.4889905699818832,
+            "finish": null
+          },
+          {
+            "number": 8,
+            "name": "キャンドル",
+            "status": "active",
             "rank": 7,
-            "score": 58.408612409474856,
-            "probability": 0.06310736446457582,
-            "place_probability": 0.21399055419383464,
-            "coverage": 0.5433228555354258,
+            "score": 59.42564819385588,
+            "probability": 0.062498006328286615,
+            "place_probability": 0.2146293498397202,
+            "coverage": 0.5537858798547883,
             "finish": null
           },
           {
@@ -364,8 +364,8 @@
             "status": "active",
             "rank": 8,
             "score": 56.95948253242548,
-            "probability": 0.05729588552376481,
-            "place_probability": 0.20288819917247375,
+            "probability": 0.053022885030826916,
+            "place_probability": 0.19599178690106758,
             "coverage": 0.5889905699818833,
             "finish": null
           },
@@ -375,8 +375,8 @@
             "status": "active",
             "rank": 9,
             "score": 56.48703777185851,
-            "probability": 0.05551939937150326,
-            "place_probability": 0.19938120185477484,
+            "probability": 0.051378885288975454,
+            "place_probability": 0.19259142749822636,
             "coverage": 0.5889905699818833,
             "finish": null
           },
@@ -385,10 +385,10 @@
             "name": "ミライノシャチョウ",
             "status": "active",
             "rank": 10,
-            "score": 55.529322386319286,
-            "probability": 0.05208540658218691,
-            "place_probability": 0.19243832065006666,
-            "coverage": 0.9932937563971341,
+            "score": 54.892017000624385,
+            "probability": 0.046195970604781214,
+            "place_probability": 0.18150162220092242,
+            "coverage": 0.9934779579133182,
             "finish": null
           },
           {
@@ -396,20 +396,9 @@
             "name": "カフジポポー",
             "status": "active",
             "rank": 11,
-            "score": 52.55466666652812,
-            "probability": 0.04271603703074829,
-            "place_probability": 0.17224624346304648,
-            "coverage": 0.5773824633230981,
-            "finish": null
-          },
-          {
-            "number": 10,
-            "name": "メイショウスパーク",
-            "status": "active",
-            "rank": 12,
-            "score": 50.88416575982015,
-            "probability": 0.03821421997889659,
-            "place_probability": 0.16177586838286068,
+            "score": 52.049695705695996,
+            "probability": 0.03822174106754533,
+            "place_probability": 0.16317290719120706,
             "coverage": 0.5889905699818833,
             "finish": null
           },
@@ -417,32 +406,43 @@
             "number": 5,
             "name": "ケンシロウワールド",
             "status": "active",
+            "rank": 12,
+            "score": 51.84450304747478,
+            "probability": 0.037702446304441486,
+            "place_probability": 0.16191798919226524,
+            "coverage": 0.49551261206856506,
+            "finish": null
+          },
+          {
+            "number": 10,
+            "name": "メイショウスパーク",
+            "status": "active",
             "rank": 13,
-            "score": 48.34450304747478,
-            "probability": 0.032262218819550006,
-            "place_probability": 0.1469811232111285,
-            "coverage": 0.5505695689650723,
+            "score": 50.88416575982015,
+            "probability": 0.03536428792331584,
+            "place_probability": 0.15616260404280327,
+            "coverage": 0.5889905699818833,
             "finish": null
           }
         ],
         "leaders": [
           {
-            "number": 9,
-            "name": "カツダルマ",
-            "rank": 1,
-            "probability": 0.1463106658671281
-          },
-          {
             "number": 13,
             "name": "ココモフィーバー",
-            "rank": 2,
-            "probability": 0.138447942043791
+            "rank": 1,
+            "probability": 0.16179377277372461
           },
           {
             "number": 4,
             "name": "エルダークローネ",
+            "rank": 2,
+            "probability": 0.15526864969343857
+          },
+          {
+            "number": 9,
+            "name": "カツダルマ",
             "rank": 3,
-            "probability": 0.13286435346333633
+            "probability": 0.13539913981849064
           }
         ]
       },
@@ -464,63 +464,8 @@
             "status": "active",
             "rank": 1,
             "score": 54.95369261838068,
-            "probability": 0.17093288361288778,
-            "place_probability": 0.3395781426005749,
-            "coverage": 1.0,
-            "finish": null
-          },
-          {
-            "number": 13,
-            "name": "パクスフェリーチェ",
-            "status": "active",
-            "rank": 2,
-            "score": 48.21327032667166,
-            "probability": 0.10906123351409508,
-            "place_probability": 0.2690216875871874,
-            "coverage": 1.0,
-            "finish": null
-          },
-          {
-            "number": 12,
-            "name": "サノノマリーナ",
-            "status": "active",
-            "rank": 3,
-            "score": 44.117646170980855,
-            "probability": 0.08300226440992366,
-            "place_probability": 0.23230734041547244,
-            "coverage": 1.0,
-            "finish": null
-          },
-          {
-            "number": 7,
-            "name": "テーオーローズ",
-            "status": "active",
-            "rank": 4,
-            "score": 42.67586601450648,
-            "probability": 0.0753956222040023,
-            "place_probability": 0.22044701698828606,
-            "coverage": 1.0,
-            "finish": null
-          },
-          {
-            "number": 3,
-            "name": "スウィートライト",
-            "status": "active",
-            "rank": 5,
-            "score": 42.3108086057109,
-            "probability": 0.0735828551146774,
-            "place_probability": 0.21752917170790143,
-            "coverage": 1.0,
-            "finish": null
-          },
-          {
-            "number": 11,
-            "name": "ジョイザモーメント",
-            "status": "active",
-            "rank": 6,
-            "score": 42.12724115480475,
-            "probability": 0.07268784827919386,
-            "place_probability": 0.2160747933076727,
+            "probability": 0.15943687382211644,
+            "place_probability": 0.32880426812134433,
             "coverage": 1.0,
             "finish": null
           },
@@ -528,21 +473,43 @@
             "number": 15,
             "name": "ワンスフォーユー",
             "status": "active",
-            "rank": 7,
-            "score": 37.46422372866736,
-            "probability": 0.0532664348854434,
-            "place_probability": 0.18191266306192588,
+            "rank": 2,
+            "score": 49.84517854369366,
+            "probability": 0.11341804022256612,
+            "place_probability": 0.27552338050393355,
             "coverage": 1.0,
             "finish": null
           },
           {
-            "number": 6,
-            "name": "キミチャン",
+            "number": 13,
+            "name": "パクスフェリーチェ",
             "status": "active",
-            "rank": 8,
-            "score": 37.04027933632981,
-            "probability": 0.0517820432534778,
-            "place_probability": 0.17906210346849136,
+            "rank": 3,
+            "score": 48.21327032667166,
+            "probability": 0.1017263721242232,
+            "place_probability": 0.2600425848939888,
+            "coverage": 1.0,
+            "finish": null
+          },
+          {
+            "number": 12,
+            "name": "サノノマリーナ",
+            "status": "active",
+            "rank": 4,
+            "score": 44.117646170980855,
+            "probability": 0.07741998659336473,
+            "place_probability": 0.22437957677107223,
+            "coverage": 1.0,
+            "finish": null
+          },
+          {
+            "number": 7,
+            "name": "テーオーローズ",
+            "status": "active",
+            "rank": 5,
+            "score": 42.67586601450648,
+            "probability": 0.070324925491242,
+            "place_probability": 0.212873816122246,
             "coverage": 1.0,
             "finish": null
           },
@@ -550,32 +517,21 @@
             "number": 2,
             "name": "ワインオクロック",
             "status": "active",
-            "rank": 9,
-            "score": 36.7649096837264,
-            "probability": 0.050840102222404863,
-            "place_probability": 0.177232391262773,
+            "rank": 6,
+            "score": 42.416145903951694,
+            "probability": 0.06911775338428004,
+            "place_probability": 0.21085728915169483,
             "coverage": 1.0,
             "finish": null
           },
           {
-            "number": 14,
-            "name": "アプリコットスカイ",
+            "number": 11,
+            "name": "ジョイザモーメント",
             "status": "active",
-            "rank": 10,
-            "score": 36.06401386620358,
-            "probability": 0.0485191744429783,
-            "place_probability": 0.17265195988292226,
-            "coverage": 1.0,
-            "finish": null
-          },
-          {
-            "number": 4,
-            "name": "ジェルメーヌ",
-            "status": "active",
-            "rank": 11,
-            "score": 35.8751630010455,
-            "probability": 0.04791214452743057,
-            "place_probability": 0.1714364519301211,
+            "rank": 7,
+            "score": 42.12724115480475,
+            "probability": 0.06779926161391449,
+            "place_probability": 0.20863402627132796,
             "coverage": 1.0,
             "finish": null
           },
@@ -583,10 +539,32 @@
             "number": 10,
             "name": "リケアワルツ",
             "status": "active",
-            "rank": 12,
-            "score": 35.812923954263965,
-            "probability": 0.04771375598221432,
-            "place_probability": 0.17103758109078498,
+            "rank": 8,
+            "score": 39.78203684270214,
+            "probability": 0.0579861593455871,
+            "place_probability": 0.19134506434338475,
+            "coverage": 1.0,
+            "finish": null
+          },
+          {
+            "number": 4,
+            "name": "ジェルメーヌ",
+            "status": "active",
+            "rank": 9,
+            "score": 38.855441969619356,
+            "probability": 0.05451257225031064,
+            "place_probability": 0.18487675050235522,
+            "coverage": 1.0,
+            "finish": null
+          },
+          {
+            "number": 6,
+            "name": "キミチャン",
+            "status": "active",
+            "rank": 10,
+            "score": 37.04027933632981,
+            "probability": 0.04829946656228786,
+            "place_probability": 0.17277744018766616,
             "coverage": 1.0,
             "finish": null
           },
@@ -594,10 +572,10 @@
             "number": 9,
             "name": "ナイスウーマン",
             "status": "active",
-            "rank": 13,
-            "score": 35.790636472821305,
-            "probability": 0.047642913994829214,
-            "place_probability": 0.17089495443700678,
+            "rank": 11,
+            "score": 34.104393213300455,
+            "probability": 0.03971364275187174,
+            "place_probability": 0.15473544112508647,
             "coverage": 1.0,
             "finish": null
           },
@@ -605,10 +583,32 @@
             "number": 5,
             "name": "レジェンディーヴァ",
             "status": "active",
+            "rank": 12,
+            "score": 33.97213174799817,
+            "probability": 0.0393650097289277,
+            "place_probability": 0.15396520120974796,
+            "coverage": 1.0,
+            "finish": null
+          },
+          {
+            "number": 3,
+            "name": "スウィートライト",
+            "status": "active",
+            "rank": 13,
+            "score": 33.34660012486557,
+            "probability": 0.03775716411514804,
+            "place_probability": 0.1503703755873201,
+            "coverage": 1.0,
+            "finish": null
+          },
+          {
+            "number": 14,
+            "name": "アプリコットスカイ",
+            "status": "active",
             "rank": 14,
-            "score": 32.69852712087846,
-            "probability": 0.03876792719598937,
-            "place_probability": 0.1521358573395631,
+            "score": 32.703727274272275,
+            "probability": 0.03617314691135824,
+            "place_probability": 0.14675742633882327,
             "coverage": 1.0,
             "finish": null
           },
@@ -618,8 +618,8 @@
             "status": "active",
             "rank": 15,
             "score": 28.288512376360774,
-            "probability": 0.028892796360452062,
-            "place_probability": 0.1286778849193163,
+            "probability": 0.02694962508280168,
+            "place_probability": 0.12405735887000816,
             "coverage": 1.0,
             "finish": null
           }
@@ -629,19 +629,19 @@
             "number": 1,
             "name": "エイントノーウェイ",
             "rank": 1,
-            "probability": 0.17093288361288778
+            "probability": 0.15943687382211644
+          },
+          {
+            "number": 15,
+            "name": "ワンスフォーユー",
+            "rank": 2,
+            "probability": 0.11341804022256612
           },
           {
             "number": 13,
             "name": "パクスフェリーチェ",
-            "rank": 2,
-            "probability": 0.10906123351409508
-          },
-          {
-            "number": 12,
-            "name": "サノノマリーナ",
             "rank": 3,
-            "probability": 0.08300226440992366
+            "probability": 0.1017263721242232
           }
         ]
       },
@@ -663,8 +663,8 @@
             "status": "active",
             "rank": 1,
             "score": 49.35015839734552,
-            "probability": 0.1581006046695315,
-            "place_probability": 0.38600074511902605,
+            "probability": 0.17941410019016715,
+            "place_probability": 0.4187710541739208,
             "coverage": 1.0,
             "finish": null
           },
@@ -674,8 +674,8 @@
             "status": "active",
             "rank": 2,
             "score": 48.502423023327964,
-            "probability": 0.14941323810025448,
-            "place_probability": 0.3754436639802661,
+            "probability": 0.1695555923159759,
+            "place_probability": 0.40764902420654225,
             "coverage": 1.0,
             "finish": null
           },
@@ -685,8 +685,8 @@
             "status": "active",
             "rank": 3,
             "score": 46.84957338929045,
-            "probability": 0.13382405323519647,
-            "place_probability": 0.35541937767352505,
+            "probability": 0.1518648340730913,
+            "place_probability": 0.3864789193786068,
             "coverage": 1.0,
             "finish": null
           },
@@ -695,9 +695,9 @@
             "name": "ニューイントリーグ",
             "status": "active",
             "rank": 4,
-            "score": 45.444565279025554,
-            "probability": 0.1218582756243273,
-            "place_probability": 0.33899572544134304,
+            "score": 42.623974422362025,
+            "probability": 0.11458126141066691,
+            "place_probability": 0.335696998480969,
             "coverage": 1.0,
             "finish": null
           },
@@ -707,30 +707,8 @@
             "status": "active",
             "rank": 5,
             "score": 40.94188019642172,
-            "probability": 0.09025867267773538,
-            "place_probability": 0.29017431720375164,
-            "coverage": 1.0,
-            "finish": null
-          },
-          {
-            "number": 8,
-            "name": "フリーレイン",
-            "status": "active",
-            "rank": 6,
-            "score": 40.60785671922174,
-            "probability": 0.0882709849135723,
-            "place_probability": 0.28678581394664965,
-            "coverage": 1.0,
-            "finish": null
-          },
-          {
-            "number": 1,
-            "name": "ルジェドリール",
-            "status": "active",
-            "rank": 7,
-            "score": 38.21162256391991,
-            "probability": 0.07523845825905875,
-            "place_probability": 0.2634136699995285,
+            "probability": 0.1024264175123392,
+            "place_probability": 0.31688994148225474,
             "coverage": 1.0,
             "finish": null
           },
@@ -738,21 +716,21 @@
             "number": 4,
             "name": "アヴァロン",
             "status": "active",
-            "rank": 8,
+            "rank": 6,
             "score": 37.47596365233729,
-            "probability": 0.07163749326116281,
-            "place_probability": 0.2565647168493641,
+            "probability": 0.08129492243370037,
+            "place_probability": 0.2807257496918304,
             "coverage": 1.0,
             "finish": null
           },
           {
-            "number": 2,
-            "name": "シンゼンジュウベエ",
+            "number": 8,
+            "name": "フリーレイン",
             "status": "active",
-            "rank": 9,
-            "score": 34.739152885257184,
-            "probability": 0.05969000193933106,
-            "place_probability": 0.23239992079990462,
+            "rank": 7,
+            "score": 35.44638060053112,
+            "probability": 0.07100696871400283,
+            "place_probability": 0.26115553171071804,
             "coverage": 1.0,
             "finish": null
           },
@@ -760,10 +738,32 @@
             "number": 5,
             "name": "セブンサークル",
             "status": "active",
+            "rank": 8,
+            "score": 32.584794378698675,
+            "probability": 0.05867452277471699,
+            "place_probability": 0.23552769408234953,
+            "coverage": 1.0,
+            "finish": null
+          },
+          {
+            "number": 1,
+            "name": "ルジェドリール",
+            "status": "active",
+            "rank": 9,
+            "score": 25.202070023937193,
+            "probability": 0.0358672271102043,
+            "place_probability": 0.17933157232923772,
+            "coverage": 1.0,
+            "finish": null
+          },
+          {
+            "number": 2,
+            "name": "シンゼンジュウベエ",
+            "status": "active",
             "rank": 10,
-            "score": 32.58593553381102,
-            "probability": 0.0517082173198299,
-            "place_probability": 0.21480204898664204,
+            "score": 24.968967727665355,
+            "probability": 0.035314153465135036,
+            "place_probability": 0.17777351446357148,
             "coverage": 1.0,
             "finish": null
           }
@@ -773,19 +773,19 @@
             "number": 10,
             "name": "ハナナ",
             "rank": 1,
-            "probability": 0.1581006046695315
+            "probability": 0.17941410019016715
           },
           {
             "number": 6,
             "name": "シホノノービレ",
             "rank": 2,
-            "probability": 0.14941323810025448
+            "probability": 0.1695555923159759
           },
           {
             "number": 7,
             "name": "キングリア",
             "rank": 3,
-            "probability": 0.13382405323519647
+            "probability": 0.1518648340730913
           }
         ]
       },
@@ -1006,8 +1006,8 @@
             "status": "active",
             "rank": 1,
             "score": 85.86685208919928,
-            "probability": 0.24297698016620323,
-            "place_probability": 0.4555455783877202,
+            "probability": 0.24297732762776178,
+            "place_probability": 0.4555460262163262,
             "coverage": 1.0,
             "finish": null
           },
@@ -1017,8 +1017,8 @@
             "status": "active",
             "rank": 2,
             "score": 79.1216190869986,
-            "probability": 0.15497820697613793,
-            "place_probability": 0.3679373626069704,
+            "probability": 0.15497842859782943,
+            "place_probability": 0.36793775655976296,
             "coverage": 1.0,
             "finish": null
           },
@@ -1028,8 +1028,8 @@
             "status": "active",
             "rank": 3,
             "score": 78.82553387925567,
-            "probability": 0.15194908430158724,
-            "place_probability": 0.36435256205064315,
+            "probability": 0.1519493015915775,
+            "place_probability": 0.36435295331943235,
             "coverage": 1.0,
             "finish": null
           },
@@ -1039,8 +1039,8 @@
             "status": "active",
             "rank": 4,
             "score": 75.7679766182067,
-            "probability": 0.12392894067781245,
-            "place_probability": 0.32875262464128585,
+            "probability": 0.12392911789848104,
+            "place_probability": 0.3287529874666336,
             "coverage": 1.0,
             "finish": null
           },
@@ -1050,8 +1050,8 @@
             "status": "active",
             "rank": 5,
             "score": 75.00870337981964,
-            "probability": 0.11781199915176276,
-            "place_probability": 0.3203213382188205,
+            "probability": 0.11781216762509227,
+            "place_probability": 0.3203216938589978,
             "coverage": 1.0,
             "finish": null
           },
@@ -1061,8 +1061,8 @@
             "status": "active",
             "rank": 6,
             "score": 63.413757967163676,
-            "probability": 0.054385292864667645,
-            "place_probability": 0.21180443275716038,
+            "probability": 0.0543853706366385,
+            "place_probability": 0.21180468328287186,
             "coverage": 1.0,
             "finish": null
           },
@@ -1071,9 +1071,9 @@
             "name": "ベルセクレト",
             "status": "active",
             "rank": 7,
-            "score": 60.64876190872308,
-            "probability": 0.04523000504338874,
-            "place_probability": 0.19122347544825935,
+            "score": 60.648287653087166,
+            "probability": 0.045228639704704,
+            "place_probability": 0.1912203338373013,
             "coverage": 0.9917461708088894,
             "finish": null
           },
@@ -1083,8 +1083,8 @@
             "status": "active",
             "rank": 8,
             "score": 57.72600972000231,
-            "probability": 0.03722239324352352,
-            "place_probability": 0.17145112743908608,
+            "probability": 0.03722244647223169,
+            "place_probability": 0.1714513340013319,
             "coverage": 1.0,
             "finish": null
           },
@@ -1094,8 +1094,8 @@
             "status": "active",
             "rank": 9,
             "score": 55.820555715215455,
-            "probability": 0.0327820228761877,
-            "place_probability": 0.15959062512373007,
+            "probability": 0.03278206975508443,
+            "place_probability": 0.1595908183590661,
             "coverage": 1.0,
             "finish": null
           },
@@ -1105,8 +1105,8 @@
             "status": "active",
             "rank": 10,
             "score": 36.29658238168659,
-            "probability": 0.008919876131205727,
-            "place_probability": 0.07529676983996193,
+            "probability": 0.008919888886792947,
+            "place_probability": 0.07529686387668451,
             "coverage": 0.9917461708088894,
             "finish": null
           },
@@ -1116,8 +1116,8 @@
             "status": "active",
             "rank": 11,
             "score": 31.319311240226032,
-            "probability": 0.006401062445913841,
-            "place_probability": 0.06197340026394732,
+            "probability": 0.00640107159955108,
+            "place_probability": 0.061973477991869655,
             "coverage": 1.0,
             "finish": null
           },
@@ -1127,8 +1127,8 @@
             "status": "active",
             "rank": 12,
             "score": 27.43085813755321,
-            "probability": 0.004939350164588774,
-            "place_probability": 0.05319645295188927,
+            "probability": 0.004939357227950519,
+            "place_probability": 0.05319651985370591,
             "coverage": 1.0,
             "finish": null
           },
@@ -1138,8 +1138,8 @@
             "status": "active",
             "rank": 13,
             "score": 27.335948254244027,
-            "probability": 0.0049081959534289735,
-            "place_probability": 0.05299823931104175,
+            "probability": 0.004908202972239622,
+            "place_probability": 0.05299830596763093,
             "coverage": 1.0,
             "finish": null
           },
@@ -1149,8 +1149,8 @@
             "status": "active",
             "rank": 14,
             "score": 23.160776685501695,
-            "probability": 0.0037156799144328436,
-            "place_probability": 0.04496146110593628,
+            "probability": 0.0037156852279235835,
+            "place_probability": 0.04496151779265251,
             "coverage": 1.0,
             "finish": null
           },
@@ -1160,8 +1160,8 @@
             "status": "active",
             "rank": 15,
             "score": 19.70630969770733,
-            "probability": 0.002951353506608447,
-            "place_probability": 0.039229550652734924,
+            "probability": 0.0029513577270983407,
+            "place_probability": 0.03922960019730953,
             "coverage": 1.0,
             "finish": null
           },
@@ -1171,8 +1171,8 @@
             "status": "active",
             "rank": 16,
             "score": 17.04232591474392,
-            "probability": 0.0024711038708082407,
-            "place_probability": 0.035307530217080815,
+            "probability": 0.0024711074045323067,
+            "place_probability": 0.03530757485987468,
             "coverage": 0.8488812897766034,
             "finish": null
           },
@@ -1182,8 +1182,8 @@
             "status": "active",
             "rank": 17,
             "score": 16.99373549008877,
-            "probability": 0.002463112022942835,
-            "place_probability": 0.035239716988930206,
+            "probability": 0.0024631155452384114,
+            "place_probability": 0.03523976154686568,
             "coverage": 1.0,
             "finish": null
           },
@@ -1193,8 +1193,8 @@
             "status": "active",
             "rank": 18,
             "score": 13.607335616045408,
-            "probability": 0.001965340688799104,
-            "place_probability": 0.030817751994801617,
+            "probability": 0.0019653434992725006,
+            "place_probability": 0.030817791011682662,
             "coverage": 0.8488812897766034,
             "finish": null
           }
@@ -1204,19 +1204,19 @@
             "number": 12,
             "name": "ケールハイム",
             "rank": 1,
-            "probability": 0.24297698016620323
+            "probability": 0.24297732762776178
           },
           {
             "number": 17,
             "name": "メイクワンズデイ",
             "rank": 2,
-            "probability": 0.15497820697613793
+            "probability": 0.15497842859782943
           },
           {
             "number": 2,
             "name": "ダンデノン",
             "rank": 3,
-            "probability": 0.15194908430158724
+            "probability": 0.1519493015915775
           }
         ]
       },
@@ -1403,10 +1403,10 @@
             "name": "ポートデラメール",
             "status": "active",
             "rank": 1,
-            "score": 81.17685135327464,
-            "probability": 0.26036577924070675,
-            "place_probability": 0.4524598300476655,
-            "coverage": 0.8674749160897278,
+            "score": 84.67685135327464,
+            "probability": 0.3068232942572639,
+            "place_probability": 0.4932937887396005,
+            "coverage": 0.780727424480755,
             "finish": null
           },
           {
@@ -1415,8 +1415,8 @@
             "status": "active",
             "rank": 2,
             "score": 74.37611539086876,
-            "probability": 0.16545596519400044,
-            "place_probability": 0.36478395999731206,
+            "probability": 0.15440148606332016,
+            "place_probability": 0.3579500247048368,
             "coverage": 0.8744849282527045,
             "finish": null
           },
@@ -1426,8 +1426,8 @@
             "status": "active",
             "rank": 3,
             "score": 72.4701794173996,
-            "probability": 0.14571354732711644,
-            "place_probability": 0.34232142710488306,
+            "probability": 0.13597810281717496,
+            "place_probability": 0.33577324941564923,
             "coverage": 0.8744849282527045,
             "finish": null
           },
@@ -1437,8 +1437,8 @@
             "status": "active",
             "rank": 4,
             "score": 66.3555981190357,
-            "probability": 0.09693144117743621,
-            "place_probability": 0.27715237612426025,
+            "probability": 0.09045523711706073,
+            "place_probability": 0.27156211087944016,
             "coverage": 0.880727424480755,
             "finish": null
           },
@@ -1448,8 +1448,8 @@
             "status": "active",
             "rank": 5,
             "score": 60.38384586729833,
-            "probability": 0.06509756339335077,
-            "place_probability": 0.22362247043063938,
+            "probability": 0.0607482511449458,
+            "place_probability": 0.21894478100503573,
             "coverage": 0.880727424480755,
             "finish": null
           },
@@ -1459,8 +1459,8 @@
             "status": "active",
             "rank": 6,
             "score": 58.18005913856556,
-            "probability": 0.05620288019409083,
-            "place_probability": 0.20626356758367623,
+            "probability": 0.05244784141104531,
+            "place_probability": 0.20190291292154422,
             "coverage": 0.880727424480755,
             "finish": null
           },
@@ -1470,8 +1470,8 @@
             "status": "active",
             "rank": 7,
             "score": 56.555980769995294,
-            "probability": 0.050435541414905284,
-            "place_probability": 0.19424905858045577,
+            "probability": 0.04706583129679679,
+            "place_probability": 0.19011335798984547,
             "coverage": 0.880727424480755,
             "finish": null
           },
@@ -1481,8 +1481,8 @@
             "status": "active",
             "rank": 8,
             "score": 52.41913829414761,
-            "probability": 0.038279197980350635,
-            "place_probability": 0.16645396521200756,
+            "probability": 0.03572168006483273,
+            "place_probability": 0.16285497344388006,
             "coverage": 0.880727424480755,
             "finish": null
           },
@@ -1492,8 +1492,8 @@
             "status": "active",
             "rank": 9,
             "score": 45.74287321594673,
-            "probability": 0.024528170575359064,
-            "place_probability": 0.1292387421648397,
+            "probability": 0.02288938922697343,
+            "place_probability": 0.12639113105906397,
             "coverage": 0.880727424480755,
             "finish": null
           },
@@ -1503,8 +1503,8 @@
             "status": "active",
             "rank": 10,
             "score": 42.43809612304484,
-            "probability": 0.01967805004344807,
-            "place_probability": 0.11386397130407933,
+            "probability": 0.018363315979416473,
+            "place_probability": 0.11133682035401088,
             "coverage": 0.880727424480755,
             "finish": null
           },
@@ -1514,19 +1514,30 @@
             "status": "active",
             "rank": 11,
             "score": 41.78794477342766,
-            "probability": 0.018843355911994514,
-            "place_probability": 0.11105171254721347,
+            "probability": 0.017584389609770934,
+            "place_probability": 0.10858377653222495,
             "coverage": 0.880727424480755,
+            "finish": null
+          },
+          {
+            "number": 1,
+            "name": "ロードオルデン",
+            "status": "active",
+            "rank": 12,
+            "score": 38.67558780453772,
+            "probability": 0.014289444100417626,
+            "place_probability": 0.09628393644420903,
+            "coverage": 0.780727424480755,
             "finish": null
           },
           {
             "number": 15,
             "name": "シーニックビュー",
             "status": "active",
-            "rank": 12,
+            "rank": 13,
             "score": 37.695297070050685,
-            "probability": 0.01434379149313156,
-            "place_probability": 0.09481825628395177,
+            "probability": 0.013385451045691466,
+            "place_probability": 0.0926956193166015,
             "coverage": 0.9937575037719495,
             "finish": null
           },
@@ -1534,22 +1545,11 @@
             "number": 6,
             "name": "コロナドブリッジ",
             "status": "active",
-            "rank": 13,
-            "score": 36.42635803825527,
-            "probability": 0.013180273296678492,
-            "place_probability": 0.09026672698435259,
-            "coverage": 0.8756893839684119,
-            "finish": null
-          },
-          {
-            "number": 1,
-            "name": "ロードオルデン",
-            "status": "active",
             "rank": 14,
-            "score": 35.17558780453772,
-            "probability": 0.01212581416651573,
-            "place_probability": 0.08598725295528947,
-            "coverage": 0.8674749160897278,
+            "score": 36.42635803825527,
+            "probability": 0.01229967007440145,
+            "place_probability": 0.08824194565513582,
+            "coverage": 0.8756893839684119,
             "finish": null
           },
           {
@@ -1557,10 +1557,10 @@
             "name": "サンコンクエスト",
             "status": "active",
             "rank": 15,
-            "score": 34.21111514252064,
-            "probability": 0.011370683324478546,
-            "place_probability": 0.08282206533820813,
-            "coverage": 0.8716096940926218,
+            "score": 34.19032238242973,
+            "probability": 0.010596284227394967,
+            "place_probability": 0.08089276963297047,
+            "coverage": 0.8658919456839267,
             "finish": null
           },
           {
@@ -1569,8 +1569,8 @@
             "status": "active",
             "rank": 16,
             "score": 27.864611937509846,
-            "probability": 0.007447945266436691,
-            "place_probability": 0.06464461734116617,
+            "probability": 0.006950331563493216,
+            "place_probability": 0.06317880190595047,
             "coverage": 0.880727424480755,
             "finish": null
           }
@@ -1580,19 +1580,19 @@
             "number": 3,
             "name": "ポートデラメール",
             "rank": 1,
-            "probability": 0.26036577924070675
+            "probability": 0.3068232942572639
           },
           {
             "number": 12,
             "name": "ピカラ",
             "rank": 2,
-            "probability": 0.16545596519400044
+            "probability": 0.15440148606332016
           },
           {
             "number": 13,
             "name": "アンビシャスヨシノ",
             "rank": 3,
-            "probability": 0.14571354732711644
+            "probability": 0.13597810281717496
           }
         ]
       },
@@ -1819,13 +1819,24 @@
         "winner": null,
         "horses": [
           {
+            "number": 3,
+            "name": "ゴーラッキー",
+            "status": "active",
+            "rank": 1,
+            "score": 89.89250044198212,
+            "probability": 0.1536951254137194,
+            "place_probability": 0.3693898533139558,
+            "coverage": 0.888665325859044,
+            "finish": null
+          },
+          {
             "number": 1,
             "name": "ロブチェン",
             "status": "active",
-            "rank": 1,
+            "rank": 2,
             "score": 89.50260214984404,
-            "probability": 0.15429438654964847,
-            "place_probability": 0.36841881617289424,
+            "probability": 0.14975156918308982,
+            "place_probability": 0.36466041294400947,
             "coverage": 0.9992451538362789,
             "finish": null
           },
@@ -1833,22 +1844,11 @@
             "number": 10,
             "name": "カフジエメンタール",
             "status": "active",
-            "rank": 2,
-            "score": 88.31788307434867,
-            "probability": 0.1425768434865759,
-            "place_probability": 0.3542067944329054,
-            "coverage": 0.990055201335102,
-            "finish": null
-          },
-          {
-            "number": 3,
-            "name": "ゴーラッキー",
-            "status": "active",
             "rank": 3,
-            "score": 84.43355216051891,
-            "probability": 0.11004899906391373,
-            "place_probability": 0.3103703483171511,
-            "coverage": 0.98810071089258,
+            "score": 88.31788307434867,
+            "probability": 0.13837902025305526,
+            "place_probability": 0.35054551622200314,
+            "coverage": 0.990055201335102,
             "finish": null
           },
           {
@@ -1857,8 +1857,8 @@
             "status": "active",
             "rank": 4,
             "score": 84.30100555588812,
-            "probability": 0.10908084148566244,
-            "place_probability": 0.30895047687876964,
+            "probability": 0.10586922535275504,
+            "place_probability": 0.30563301622120187,
             "coverage": 0.9893003551713809,
             "finish": null
           },
@@ -1868,31 +1868,31 @@
             "status": "active",
             "rank": 5,
             "score": 83.84353833186523,
-            "probability": 0.10580433132679154,
-            "place_probability": 0.3040887530665684,
+            "probability": 0.10268918394809017,
+            "place_probability": 0.30081116435431604,
             "coverage": 0.9992451538362789,
-            "finish": null
-          },
-          {
-            "number": 2,
-            "name": "エイシンインアウト",
-            "status": "active",
-            "rank": 6,
-            "score": 82.51738159459016,
-            "probability": 0.09685170635688832,
-            "place_probability": 0.2903347439617706,
-            "coverage": 0.989290639803322,
             "finish": null
           },
           {
             "number": 8,
             "name": "シートゥサミット",
             "status": "active",
-            "rank": 7,
+            "rank": 6,
             "score": 80.81506632817363,
-            "probability": 0.08646098950438257,
-            "place_probability": 0.27341706312827174,
+            "probability": 0.08391535908040103,
+            "place_probability": 0.27040307195642205,
             "coverage": 1.0,
+            "finish": null
+          },
+          {
+            "number": 2,
+            "name": "エイシンインアウト",
+            "status": "active",
+            "rank": 7,
+            "score": 79.43835837554933,
+            "probability": 0.07655643112609248,
+            "place_probability": 0.25744039028291016,
+            "coverage": 0.9084337294984154,
             "finish": null
           },
           {
@@ -1901,8 +1901,8 @@
             "status": "active",
             "rank": 8,
             "score": 77.73516107274001,
-            "probability": 0.07041218332567596,
-            "place_probability": 0.2448840692215799,
+            "probability": 0.06833907038629974,
+            "place_probability": 0.24213269303069307,
             "coverage": 0.9307877957978519,
             "finish": null
           },
@@ -1912,8 +1912,8 @@
             "status": "active",
             "rank": 9,
             "score": 72.3954937992811,
-            "probability": 0.04932290060769478,
-            "place_probability": 0.20146972452074297,
+            "probability": 0.04787070954319625,
+            "place_probability": 0.19914655035300857,
             "coverage": 0.9992451538362789,
             "finish": null
           },
@@ -1923,8 +1923,8 @@
             "status": "active",
             "rank": 10,
             "score": 71.27822021433789,
-            "probability": 0.045782576038752104,
-            "place_probability": 0.19330241761192596,
+            "probability": 0.04443462109259007,
+            "place_probability": 0.1910633165518889,
             "coverage": 0.9992451538362789,
             "finish": null
           },
@@ -1934,30 +1934,30 @@
             "status": "active",
             "rank": 11,
             "score": 64.61633173455913,
-            "probability": 0.02936424225401423,
-            "place_probability": 0.15055679268742045,
+            "probability": 0.028499684620710782,
+            "place_probability": 0.1487740147695902,
             "coverage": 0.9992451538362789,
             "finish": null
           }
         ],
         "leaders": [
           {
+            "number": 3,
+            "name": "ゴーラッキー",
+            "rank": 1,
+            "probability": 0.1536951254137194
+          },
+          {
             "number": 1,
             "name": "ロブチェン",
-            "rank": 1,
-            "probability": 0.15429438654964847
+            "rank": 2,
+            "probability": 0.14975156918308982
           },
           {
             "number": 10,
             "name": "カフジエメンタール",
-            "rank": 2,
-            "probability": 0.1425768434865759
-          },
-          {
-            "number": 3,
-            "name": "ゴーラッキー",
             "rank": 3,
-            "probability": 0.11004899906391373
+            "probability": 0.13837902025305526
           }
         ]
       },
@@ -1979,8 +1979,8 @@
             "status": "active",
             "rank": 1,
             "score": 87.4972128960776,
-            "probability": 0.3148768641928117,
-            "place_probability": 0.5321482404332454,
+            "probability": 0.2877010371440563,
+            "place_probability": 0.5139843362811618,
             "coverage": 1.0,
             "finish": null
           },
@@ -1989,10 +1989,10 @@
             "name": "ホットシート",
             "status": "active",
             "rank": 2,
-            "score": 78.90068653701482,
-            "probability": 0.17751939983817658,
-            "place_probability": 0.41247341099250734,
-            "coverage": 0.9916393222717517,
+            "score": 84.40068653701482,
+            "probability": 0.23403876988351152,
+            "place_probability": 0.46998521175838415,
+            "coverage": 0.8924753900445765,
             "finish": null
           },
           {
@@ -2001,8 +2001,8 @@
             "status": "active",
             "rank": 3,
             "score": 76.31896929852498,
-            "probability": 0.1494505270378865,
-            "place_probability": 0.37951191422429,
+            "probability": 0.13655201928140692,
+            "place_probability": 0.36406986803652286,
             "coverage": 0.9924753900445765,
             "finish": null
           },
@@ -2012,8 +2012,8 @@
             "status": "active",
             "rank": 4,
             "score": 73.58717410843025,
-            "probability": 0.12456725064618814,
-            "place_probability": 0.3465564572758355,
+            "probability": 0.11381632403181843,
+            "place_probability": 0.3320625164502206,
             "coverage": 0.9980822808320952,
             "finish": null
           },
@@ -2023,8 +2023,8 @@
             "status": "active",
             "rank": 5,
             "score": 62.78280192869926,
-            "probability": 0.06061571950754932,
-            "place_probability": 0.23705524933731956,
+            "probability": 0.05538420682084925,
+            "place_probability": 0.22640385647309128,
             "coverage": 1.0,
             "finish": null
           },
@@ -2034,31 +2034,31 @@
             "status": "active",
             "rank": 6,
             "score": 61.11827536355454,
-            "probability": 0.054249068381154474,
-            "place_probability": 0.22309537523057976,
+            "probability": 0.04956703718886081,
+            "place_probability": 0.21299643741066832,
             "coverage": 0.9980822808320952,
-            "finish": null
-          },
-          {
-            "number": 4,
-            "name": "ゴーゴーパンチ",
-            "status": "active",
-            "rank": 7,
-            "score": 49.016042291472445,
-            "probability": 0.024210109199129998,
-            "place_probability": 0.14187818077558806,
-            "coverage": 0.9924753900445765,
             "finish": null
           },
           {
             "number": 15,
             "name": "プラチナムディスク",
             "status": "active",
+            "rank": 7,
+            "score": 53.34122482481134,
+            "probability": 0.029513742551734317,
+            "place_probability": 0.15934291445415186,
+            "coverage": 0.8905576708766717,
+            "finish": null
+          },
+          {
+            "number": 4,
+            "name": "ゴーゴーパンチ",
+            "status": "active",
             "rank": 8,
-            "score": 47.84049400965149,
-            "probability": 0.022385208277479054,
-            "place_probability": 0.13566362601419094,
-            "coverage": 0.9895085231963019,
+            "score": 49.016042291472445,
+            "probability": 0.022120626562437573,
+            "place_probability": 0.1352097836599408,
+            "coverage": 0.9924753900445765,
             "finish": null
           },
           {
@@ -2067,8 +2067,8 @@
             "status": "active",
             "rank": 9,
             "score": 45.826502813858596,
-            "probability": 0.01957267216951968,
-            "place_probability": 0.12560994962720895,
+            "probability": 0.017883429121687656,
+            "place_probability": 0.11966749257824275,
             "coverage": 1.0,
             "finish": null
           },
@@ -2077,10 +2077,10 @@
             "name": "ユキノサイエンス",
             "status": "active",
             "rank": 10,
-            "score": 40.09466030700919,
-            "probability": 0.013356611189767192,
-            "place_probability": 0.10073370017742564,
-            "coverage": 0.9916393222717517,
+            "score": 45.59466030700919,
+            "probability": 0.017609145003391356,
+            "place_probability": 0.11860656043199647,
+            "coverage": 0.8924753900445765,
             "finish": null
           },
           {
@@ -2089,8 +2089,8 @@
             "status": "active",
             "rank": 11,
             "score": 35.67559931968066,
-            "probability": 0.009948357047184607,
-            "place_probability": 0.08486112877984459,
+            "probability": 0.009089752108944346,
+            "place_probability": 0.08078518594376696,
             "coverage": 1.0,
             "finish": null
           },
@@ -2100,8 +2100,8 @@
             "status": "active",
             "rank": 12,
             "score": 34.57523021646879,
-            "probability": 0.009244691329370676,
-            "place_probability": 0.08130209487320773,
+            "probability": 0.008446817108506146,
+            "place_probability": 0.0773922242653451,
             "coverage": 1.0,
             "finish": null
           },
@@ -2111,8 +2111,8 @@
             "status": "active",
             "rank": 13,
             "score": 34.261356463796886,
-            "probability": 0.009053256792877381,
-            "place_probability": 0.08031374186433571,
+            "probability": 0.008271904560277174,
+            "place_probability": 0.07645007246360083,
             "coverage": 1.0,
             "finish": null
           },
@@ -2122,8 +2122,8 @@
             "status": "active",
             "rank": 14,
             "score": 29.788863755503428,
-            "probability": 0.006719127965250487,
-            "place_probability": 0.06743854523407353,
+            "probability": 0.006139225532691037,
+            "place_probability": 0.06417994924308816,
             "coverage": 0.9958449418028728,
             "finish": null
           },
@@ -2133,8 +2133,8 @@
             "status": "active",
             "rank": 15,
             "score": 22.851547302767354,
-            "probability": 0.00423113642565416,
-            "place_probability": 0.05135838516034623,
+            "probability": 0.003865963099827158,
+            "place_probability": 0.048863590549818016,
             "coverage": 1.0,
             "finish": null
           }
@@ -2144,19 +2144,19 @@
             "number": 9,
             "name": "エイシンティザー",
             "rank": 1,
-            "probability": 0.3148768641928117
+            "probability": 0.2877010371440563
           },
           {
             "number": 5,
             "name": "ホットシート",
             "rank": 2,
-            "probability": 0.17751939983817658
+            "probability": 0.23403876988351152
           },
           {
             "number": 6,
             "name": "ジャカルタバオ",
             "rank": 3,
-            "probability": 0.1494505270378865
+            "probability": 0.13655201928140692
           }
         ]
       }
