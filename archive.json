@@ -1,7 +1,7 @@
 {
   "2026-09-21": {
     "day": "2026-09-21",
-    "generated_at": "2026-09-21T11:58+09:00",
+    "generated_at": "2026-09-21T16:08+09:00",
     "races": [
       {
         "race_id": "202609040701",
@@ -1978,10 +1978,10 @@
             "name": "エイシンティザー",
             "status": "active",
             "rank": 1,
-            "score": 87.4972128960776,
-            "probability": 0.2877010371440563,
-            "place_probability": 0.5139843362811618,
-            "coverage": 1.0,
+            "score": 65.16455730669983,
+            "probability": 0.1813071426313465,
+            "place_probability": 0.3509156936585477,
+            "coverage": 0.8034329681914898,
             "finish": null
           },
           {
@@ -1989,76 +1989,76 @@
             "name": "ホットシート",
             "status": "active",
             "rank": 2,
-            "score": 84.40068653701482,
-            "probability": 0.23403876988351152,
-            "place_probability": 0.46998521175838415,
-            "coverage": 0.8924753900445765,
-            "finish": null
-          },
-          {
-            "number": 6,
-            "name": "ジャカルタバオ",
-            "status": "active",
-            "rank": 3,
-            "score": 76.31896929852498,
-            "probability": 0.13655201928140692,
-            "place_probability": 0.36406986803652286,
-            "coverage": 0.9924753900445765,
-            "finish": null
-          },
-          {
-            "number": 14,
-            "name": "ファイブタンゴ",
-            "status": "active",
-            "rank": 4,
-            "score": 73.58717410843025,
-            "probability": 0.11381632403181843,
-            "place_probability": 0.3320625164502206,
-            "coverage": 0.9980822808320952,
-            "finish": null
-          },
-          {
-            "number": 7,
-            "name": "ディーエストッキー",
-            "status": "active",
-            "rank": 5,
-            "score": 62.78280192869926,
-            "probability": 0.05538420682084925,
-            "place_probability": 0.22640385647309128,
-            "coverage": 1.0,
+            "score": 57.67910776518302,
+            "probability": 0.1100750652372509,
+            "place_probability": 0.271278556243837,
+            "coverage": 0.6931450294152729,
             "finish": null
           },
           {
             "number": 10,
             "name": "リン",
             "status": "active",
-            "rank": 6,
-            "score": 61.11827536355454,
-            "probability": 0.04956703718886081,
-            "place_probability": 0.21299643741066832,
-            "coverage": 0.9980822808320952,
+            "rank": 3,
+            "score": 56.29855348725993,
+            "probability": 0.10039632393980363,
+            "place_probability": 0.25830219640229035,
+            "coverage": 0.8008109881146137,
             "finish": null
           },
           {
-            "number": 15,
-            "name": "プラチナムディスク",
+            "number": 7,
+            "name": "ディーエストッキー",
+            "status": "active",
+            "rank": 4,
+            "score": 50.63657365775775,
+            "probability": 0.06883141612745117,
+            "place_probability": 0.21044514911740472,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 6,
+            "name": "ジャカルタバオ",
+            "status": "active",
+            "rank": 5,
+            "score": 49.859477090457126,
+            "probability": 0.06535629955903031,
+            "place_probability": 0.2045224728910583,
+            "coverage": 0.7931450294152729,
+            "finish": null
+          },
+          {
+            "number": 14,
+            "name": "ファイブタンゴ",
+            "status": "active",
+            "rank": 6,
+            "score": 49.727319728565284,
+            "probability": 0.06478300768337569,
+            "place_probability": 0.20353009924215942,
+            "coverage": 0.8008109881146137,
+            "finish": null
+          },
+          {
+            "number": 12,
+            "name": "クリノセーラーマン",
             "status": "active",
             "rank": 7,
-            "score": 53.34122482481134,
-            "probability": 0.029513742551734317,
-            "place_probability": 0.15934291445415186,
-            "coverage": 0.8905576708766717,
+            "score": 47.07861748994628,
+            "probability": 0.05429668593762231,
+            "place_probability": 0.1845290827820284,
+            "coverage": 0.8034329681914898,
             "finish": null
           },
           {
-            "number": 4,
-            "name": "ゴーゴーパンチ",
+            "number": 3,
+            "name": "メイショウサトノヒ",
             "status": "active",
             "rank": 8,
-            "score": 49.016042291472445,
-            "probability": 0.022120626562437573,
-            "place_probability": 0.1352097836599408,
-            "coverage": 0.9924753900445765,
+            "score": 46.07800060136262,
+            "probability": 0.05079284001421667,
+            "place_probability": 0.17777863407187214,
+            "coverage": 0.8034329681914898,
             "finish": null
           },
           {
@@ -2066,76 +2066,76 @@
             "name": "シャープインサイト",
             "status": "active",
             "rank": 9,
-            "score": 45.826502813858596,
-            "probability": 0.017883429121687656,
-            "place_probability": 0.11966749257824275,
-            "coverage": 1.0,
+            "score": 45.303383368815986,
+            "probability": 0.04823641584294915,
+            "place_probability": 0.17270822115013534,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 4,
+            "name": "ゴーゴーパンチ",
+            "status": "active",
+            "rank": 10,
+            "score": 44.63200006142067,
+            "probability": 0.046125012070543106,
+            "place_probability": 0.1684209863739653,
+            "coverage": 0.7931450294152729,
             "finish": null
           },
           {
             "number": 11,
             "name": "ユキノサイエンス",
             "status": "active",
-            "rank": 10,
-            "score": 45.59466030700919,
-            "probability": 0.017609145003391356,
-            "place_probability": 0.11860656043199647,
-            "coverage": 0.8924753900445765,
-            "finish": null
-          },
-          {
-            "number": 3,
-            "name": "メイショウサトノヒ",
-            "status": "active",
             "rank": 11,
-            "score": 35.67559931968066,
-            "probability": 0.009089752108944346,
-            "place_probability": 0.08078518594376696,
-            "coverage": 1.0,
-            "finish": null
-          },
-          {
-            "number": 8,
-            "name": "フリッシュ",
-            "status": "active",
-            "rank": 12,
-            "score": 34.57523021646879,
-            "probability": 0.008446817108506146,
-            "place_probability": 0.0773922242653451,
-            "coverage": 1.0,
-            "finish": null
-          },
-          {
-            "number": 12,
-            "name": "クリノセーラーマン",
-            "status": "active",
-            "rank": 13,
-            "score": 34.261356463796886,
-            "probability": 0.008271904560277174,
-            "place_probability": 0.07645007246360083,
-            "coverage": 1.0,
-            "finish": null
-          },
-          {
-            "number": 13,
-            "name": "テイクイットオール",
-            "status": "active",
-            "rank": 14,
-            "score": 29.788863755503428,
-            "probability": 0.006139225532691037,
-            "place_probability": 0.06417994924308816,
-            "coverage": 0.9958449418028728,
+            "score": 44.61717046473744,
+            "probability": 0.04607943358287414,
+            "place_probability": 0.16832740142749933,
+            "coverage": 0.6931450294152729,
             "finish": null
           },
           {
             "number": 1,
             "name": "シュネーグロッケン",
             "status": "active",
+            "rank": 12,
+            "score": 44.503876394443054,
+            "probability": 0.04573270951802118,
+            "place_probability": 0.16761401310496046,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 13,
+            "name": "テイクイットオール",
+            "status": "active",
+            "rank": 13,
+            "score": 42.83263542604787,
+            "probability": 0.04091094870380162,
+            "place_probability": 0.15740905638785888,
+            "coverage": 0.7977520113582584,
+            "finish": null
+          },
+          {
+            "number": 8,
+            "name": "フリッシュ",
+            "status": "active",
+            "rank": 14,
+            "score": 42.775009084622624,
+            "probability": 0.04075408033520761,
+            "place_probability": 0.15706764101507198,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 15,
+            "name": "プラチナムディスク",
+            "status": "active",
             "rank": 15,
-            "score": 22.851547302767354,
-            "probability": 0.003865963099827158,
-            "place_probability": 0.048863590549818016,
-            "coverage": 1.0,
+            "score": 41.04827942731719,
+            "probability": 0.03632261881650605,
+            "place_probability": 0.1471507961313107,
+            "coverage": 0.6905230493383968,
             "finish": null
           }
         ],
@@ -2144,19 +2144,19 @@
             "number": 9,
             "name": "エイシンティザー",
             "rank": 1,
-            "probability": 0.2877010371440563
+            "probability": 0.1813071426313465
           },
           {
             "number": 5,
             "name": "ホットシート",
             "rank": 2,
-            "probability": 0.23403876988351152
+            "probability": 0.1100750652372509
           },
           {
-            "number": 6,
-            "name": "ジャカルタバオ",
+            "number": 10,
+            "name": "リン",
             "rank": 3,
-            "probability": 0.13655201928140692
+            "probability": 0.10039632393980363
           }
         ]
       }
