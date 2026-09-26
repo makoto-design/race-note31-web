@@ -8846,14 +8846,14 @@
         "start_time": "09:45",
         "course": "障",
         "distance": 2880,
+        "track_condition": "重",
         "fixed": false,
         "retrospective": false,
         "winner": "2",
         "horses": [],
-        "leaders": [],
-        "track_condition": "重",
         "betting": null,
-        "going_note": null
+        "going_note": null,
+        "leaders": []
       },
       {
         "race_id": "202606040702",
@@ -8863,6 +8863,7 @@
         "start_time": "10:20",
         "course": "芝",
         "distance": 1200,
+        "track_condition": "重",
         "fixed": true,
         "retrospective": true,
         "winner": "8",
@@ -9022,6 +9023,12 @@
             "finish": 13
           }
         ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計41.7%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": "重馬場ですが、A5馬場適性は全14頭で補完値です。馬場適性による馬ごとの差は評価できていません。",
         "leaders": [
           {
             "number": 13,
@@ -9041,14 +9048,7 @@
             "rank": 3,
             "probability": 0.09762519076373417
           }
-        ],
-        "track_condition": "重",
-        "betting": {
-          "label": "見送り",
-          "reason": "上位4頭の勝率合計41.7%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
-          "tickets": []
-        },
-        "going_note": "重馬場ですが、A5馬場適性は全14頭で補完値です。馬場適性による馬ごとの差は評価できていません。"
+        ]
       },
       {
         "race_id": "202606040703",
@@ -9058,6 +9058,7 @@
         "start_time": "10:50",
         "course": "ダート",
         "distance": 1200,
+        "track_condition": "重",
         "fixed": true,
         "retrospective": true,
         "winner": "2",
@@ -9184,6 +9185,12 @@
             "finish": 10
           }
         ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計50.1%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": "重馬場ですが、A5馬場適性は全11頭で補完値です。馬場適性による馬ごとの差は評価できていません。",
         "leaders": [
           {
             "number": 8,
@@ -9203,14 +9210,7 @@
             "rank": 3,
             "probability": 0.10590850991510319
           }
-        ],
-        "track_condition": "重",
-        "betting": {
-          "label": "見送り",
-          "reason": "上位4頭の勝率合計50.1%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
-          "tickets": []
-        },
-        "going_note": "重馬場ですが、A5馬場適性は全11頭で補完値です。馬場適性による馬ごとの差は評価できていません。"
+        ]
       },
       {
         "race_id": "202606040704",
@@ -9220,6 +9220,7 @@
         "start_time": "11:20",
         "course": "芝",
         "distance": 1800,
+        "track_condition": "重",
         "fixed": true,
         "retrospective": true,
         "winner": "4",
@@ -9335,27 +9336,6 @@
             "finish": 6
           }
         ],
-        "leaders": [
-          {
-            "number": 6,
-            "name": "クシェドゥソレイユ",
-            "rank": 1,
-            "probability": 0.16302314469233925
-          },
-          {
-            "number": 4,
-            "name": "キャピタルストーン",
-            "rank": 2,
-            "probability": 0.1570646415227761
-          },
-          {
-            "number": 7,
-            "name": "ドナリー",
-            "rank": 3,
-            "probability": 0.13413490722259386
-          }
-        ],
-        "track_condition": "重",
         "betting": {
           "label": "上位4頭BOX・馬連＋3連複",
           "reason": "上位4頭の勝率合計55.6%（基準55%以上）、明確な軸なし",
@@ -9446,7 +9426,27 @@
             }
           ]
         },
-        "going_note": "重馬場ですが、A5馬場適性は全10頭で補完値です。馬場適性による馬ごとの差は評価できていません。"
+        "going_note": "重馬場ですが、A5馬場適性は全10頭で補完値です。馬場適性による馬ごとの差は評価できていません。",
+        "leaders": [
+          {
+            "number": 6,
+            "name": "クシェドゥソレイユ",
+            "rank": 1,
+            "probability": 0.16302314469233925
+          },
+          {
+            "number": 4,
+            "name": "キャピタルストーン",
+            "rank": 2,
+            "probability": 0.1570646415227761
+          },
+          {
+            "number": 7,
+            "name": "ドナリー",
+            "rank": 3,
+            "probability": 0.13413490722259386
+          }
+        ]
       },
       {
         "race_id": "202606040705",
@@ -9456,6 +9456,7 @@
         "start_time": "12:10",
         "course": "芝",
         "distance": 1600,
+        "track_condition": "重",
         "fixed": true,
         "retrospective": true,
         "winner": "2",
@@ -9626,6 +9627,12 @@
             "finish": 13
           }
         ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計32.4%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": "重馬場ですが、A5馬場適性は全15頭で補完値です。馬場適性による馬ごとの差は評価できていません。",
         "leaders": [
           {
             "number": 6,
@@ -9645,14 +9652,7 @@
             "rank": 3,
             "probability": 0.07669070958175173
           }
-        ],
-        "track_condition": "重",
-        "betting": {
-          "label": "見送り",
-          "reason": "上位4頭の勝率合計32.4%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
-          "tickets": []
-        },
-        "going_note": "重馬場ですが、A5馬場適性は全15頭で補完値です。馬場適性による馬ごとの差は評価できていません。"
+        ]
       },
       {
         "race_id": "202606040706",
@@ -9662,6 +9662,7 @@
         "start_time": "12:40",
         "course": "芝",
         "distance": 2000,
+        "track_condition": "重",
         "fixed": true,
         "retrospective": true,
         "winner": "1",
@@ -9755,6 +9756,12 @@
             "finish": 7
           }
         ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計54.6%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": "重馬場ですが、A5馬場適性は全8頭で補完値です。馬場適性による馬ごとの差は評価できていません。",
         "leaders": [
           {
             "number": 8,
@@ -9774,14 +9781,7 @@
             "rank": 3,
             "probability": 0.1346153758833724
           }
-        ],
-        "track_condition": "重",
-        "betting": {
-          "label": "見送り",
-          "reason": "上位4頭の勝率合計54.6%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
-          "tickets": []
-        },
-        "going_note": "重馬場ですが、A5馬場適性は全8頭で補完値です。馬場適性による馬ごとの差は評価できていません。"
+        ]
       },
       {
         "race_id": "202606040707",
@@ -9791,6 +9791,7 @@
         "start_time": "13:10",
         "course": "ダート",
         "distance": 1800,
+        "track_condition": "重",
         "fixed": true,
         "retrospective": true,
         "winner": "7",
@@ -9950,6 +9951,12 @@
             "finish": 14
           }
         ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計40.3%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": null,
         "leaders": [
           {
             "number": 3,
@@ -9969,14 +9976,7 @@
             "rank": 3,
             "probability": 0.10016540055922489
           }
-        ],
-        "track_condition": "重",
-        "betting": {
-          "label": "見送り",
-          "reason": "上位4頭の勝率合計40.3%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
-          "tickets": []
-        },
-        "going_note": null
+        ]
       },
       {
         "race_id": "202606040708",
@@ -9986,6 +9986,7 @@
         "start_time": "13:40",
         "course": "芝",
         "distance": 2200,
+        "track_condition": "重",
         "fixed": true,
         "retrospective": true,
         "winner": "7",
@@ -10167,6 +10168,12 @@
             "finish": 6
           }
         ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計49.2%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": null,
         "leaders": [
           {
             "number": 12,
@@ -10186,14 +10193,7 @@
             "rank": 3,
             "probability": 0.10494084481086319
           }
-        ],
-        "track_condition": "重",
-        "betting": {
-          "label": "見送り",
-          "reason": "上位4頭の勝率合計49.2%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
-          "tickets": []
-        },
-        "going_note": null
+        ]
       },
       {
         "race_id": "202606040709",
@@ -10203,6 +10203,7 @@
         "start_time": "14:10",
         "course": "ダート",
         "distance": 1800,
+        "track_condition": "稍",
         "fixed": true,
         "retrospective": true,
         "winner": "4",
@@ -10384,6 +10385,12 @@
             "finish": 13
           }
         ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計38.0%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": null,
         "leaders": [
           {
             "number": 2,
@@ -10403,14 +10410,7 @@
             "rank": 3,
             "probability": 0.09187673776505992
           }
-        ],
-        "track_condition": "稍",
-        "betting": {
-          "label": "見送り",
-          "reason": "上位4頭の勝率合計38.0%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
-          "tickets": []
-        },
-        "going_note": null
+        ]
       },
       {
         "race_id": "202606040710",
@@ -10420,6 +10420,7 @@
         "start_time": "14:50",
         "course": "芝",
         "distance": 1600,
+        "track_condition": "重",
         "fixed": true,
         "retrospective": true,
         "winner": "9",
@@ -10546,27 +10547,6 @@
             "finish": 11
           }
         ],
-        "leaders": [
-          {
-            "number": 11,
-            "name": "プリムツァール",
-            "rank": 1,
-            "probability": 0.18689313612816896
-          },
-          {
-            "number": 5,
-            "name": "デイトナチャンプ",
-            "rank": 2,
-            "probability": 0.18526261568290386
-          },
-          {
-            "number": 9,
-            "name": "アルデトップガン",
-            "rank": 3,
-            "probability": 0.10696382412169587
-          }
-        ],
-        "track_condition": "重",
         "betting": {
           "label": "上位4頭BOX・馬連＋3連複",
           "reason": "上位4頭の勝率合計58.0%（基準55%以上）、明確な軸なし",
@@ -10657,7 +10637,27 @@
             }
           ]
         },
-        "going_note": null
+        "going_note": null,
+        "leaders": [
+          {
+            "number": 11,
+            "name": "プリムツァール",
+            "rank": 1,
+            "probability": 0.18689313612816896
+          },
+          {
+            "number": 5,
+            "name": "デイトナチャンプ",
+            "rank": 2,
+            "probability": 0.18526261568290386
+          },
+          {
+            "number": 9,
+            "name": "アルデトップガン",
+            "rank": 3,
+            "probability": 0.10696382412169587
+          }
+        ]
       },
       {
         "race_id": "202606040711",
@@ -10667,6 +10667,7 @@
         "start_time": "15:30",
         "course": "ダート",
         "distance": 1800,
+        "track_condition": "稍",
         "fixed": true,
         "retrospective": true,
         "winner": "14",
@@ -10848,6 +10849,12 @@
             "finish": 15
           }
         ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計36.5%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": null,
         "leaders": [
           {
             "number": 12,
@@ -10867,14 +10874,7 @@
             "rank": 3,
             "probability": 0.08131102839677995
           }
-        ],
-        "track_condition": "稍",
-        "betting": {
-          "label": "見送り",
-          "reason": "上位4頭の勝率合計36.5%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
-          "tickets": []
-        },
-        "going_note": null
+        ]
       },
       {
         "race_id": "202606040712",
@@ -10884,6 +10884,7 @@
         "start_time": "16:10",
         "course": "ダート",
         "distance": 1200,
+        "track_condition": "稍",
         "fixed": true,
         "retrospective": true,
         "winner": "13",
@@ -11065,6 +11066,12 @@
             "finish": 13
           }
         ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計36.4%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": null,
         "leaders": [
           {
             "number": 8,
@@ -11084,14 +11091,7 @@
             "rank": 3,
             "probability": 0.0892655675180278
           }
-        ],
-        "track_condition": "稍",
-        "betting": {
-          "label": "見送り",
-          "reason": "上位4頭の勝率合計36.4%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
-          "tickets": []
-        },
-        "going_note": null
+        ]
       }
     ]
   },
