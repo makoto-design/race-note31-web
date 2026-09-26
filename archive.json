@@ -1,7 +1,7 @@
 {
   "2026-09-26": {
     "day": "2026-09-26",
-    "generated_at": "2026-09-26T10:39+09:00",
+    "generated_at": "2026-09-26T11:02+09:00",
     "races": [
       {
         "race_id": "202606040801",
@@ -11,10 +11,13 @@
         "start_time": "09:45",
         "course": "ダート",
         "distance": 1200,
+        "track_condition": "重",
         "fixed": false,
         "retrospective": false,
         "winner": null,
         "horses": [],
+        "betting": null,
+        "going_note": null,
         "leaders": []
       },
       {
@@ -25,10 +28,13 @@
         "start_time": "10:15",
         "course": "芝",
         "distance": 1600,
+        "track_condition": "重",
         "fixed": false,
         "retrospective": false,
         "winner": null,
         "horses": [],
+        "betting": null,
+        "going_note": null,
         "leaders": []
       },
       {
@@ -39,6 +45,7 @@
         "start_time": "10:45",
         "course": "ダート",
         "distance": 1800,
+        "track_condition": "重",
         "fixed": true,
         "retrospective": false,
         "winner": null,
@@ -220,6 +227,12 @@
             "finish": null
           }
         ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計34.9%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": "重馬場ですが、A5馬場適性は全16頭で補完値です。馬場適性による馬ごとの差は評価できていません。",
         "leaders": [
           {
             "number": 5,
@@ -249,10 +262,13 @@
         "start_time": "11:20",
         "course": "障",
         "distance": 3210,
+        "track_condition": "重",
         "fixed": false,
         "retrospective": false,
         "winner": null,
         "horses": [],
+        "betting": null,
+        "going_note": null,
         "leaders": []
       },
       {
@@ -263,6 +279,7 @@
         "start_time": "12:10",
         "course": "芝",
         "distance": 1800,
+        "track_condition": "重",
         "fixed": true,
         "retrospective": false,
         "winner": null,
@@ -422,6 +439,12 @@
             "finish": null
           }
         ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計37.7%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": "重馬場ですが、A5馬場適性は全14頭で補完値です。馬場適性による馬ごとの差は評価できていません。",
         "leaders": [
           {
             "number": 12,
@@ -451,6 +474,7 @@
         "start_time": "12:40",
         "course": "ダート",
         "distance": 1800,
+        "track_condition": "重",
         "fixed": true,
         "retrospective": false,
         "winner": null,
@@ -533,6 +557,97 @@
             "finish": null
           }
         ],
+        "betting": {
+          "label": "上位4頭BOX・馬連＋3連複",
+          "reason": "上位4頭の勝率合計69.0%（基準55%以上）、明確な軸なし",
+          "tickets": [
+            {
+              "kind": "quinella",
+              "numbers": [
+                4,
+                5
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                2,
+                5
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                1,
+                5
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                2,
+                4
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                1,
+                4
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                1,
+                2
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "trio",
+              "numbers": [
+                2,
+                4,
+                5
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "trio",
+              "numbers": [
+                1,
+                4,
+                5
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "trio",
+              "numbers": [
+                1,
+                2,
+                5
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "trio",
+              "numbers": [
+                1,
+                2,
+                4
+              ],
+              "amount": 100
+            }
+          ]
+        },
+        "going_note": null,
         "leaders": [
           {
             "number": 5,
@@ -562,6 +677,7 @@
         "start_time": "13:10",
         "course": "芝",
         "distance": 2000,
+        "track_condition": "重",
         "fixed": true,
         "retrospective": false,
         "winner": null,
@@ -765,6 +881,12 @@
             "finish": null
           }
         ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計43.6%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": null,
         "leaders": [
           {
             "number": 6,
@@ -794,6 +916,7 @@
         "start_time": "13:40",
         "course": "ダート",
         "distance": 1200,
+        "track_condition": "重",
         "fixed": true,
         "retrospective": false,
         "winner": null,
@@ -975,6 +1098,12 @@
             "finish": null
           }
         ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計42.7%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": null,
         "leaders": [
           {
             "number": 12,
@@ -1004,6 +1133,7 @@
         "start_time": "14:10",
         "course": "芝",
         "distance": 2000,
+        "track_condition": "重",
         "fixed": true,
         "retrospective": false,
         "winner": null,
@@ -1097,6 +1227,97 @@
             "finish": null
           }
         ],
+        "betting": {
+          "label": "上位4頭BOX・馬連＋3連複",
+          "reason": "上位4頭の勝率合計66.6%（基準55%以上）、明確な軸なし",
+          "tickets": [
+            {
+              "kind": "quinella",
+              "numbers": [
+                2,
+                8
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                3,
+                8
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                4,
+                8
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                2,
+                3
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                2,
+                4
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                3,
+                4
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "trio",
+              "numbers": [
+                2,
+                3,
+                8
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "trio",
+              "numbers": [
+                2,
+                4,
+                8
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "trio",
+              "numbers": [
+                3,
+                4,
+                8
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "trio",
+              "numbers": [
+                2,
+                3,
+                4
+              ],
+              "amount": 100
+            }
+          ]
+        },
+        "going_note": "重馬場ですが、A5馬場適性は全8頭で補完値です。馬場適性による馬ごとの差は評価できていません。",
         "leaders": [
           {
             "number": 8,
@@ -1126,6 +1347,7 @@
         "start_time": "14:50",
         "course": "芝",
         "distance": 1200,
+        "track_condition": "重",
         "fixed": true,
         "retrospective": false,
         "winner": null,
@@ -1307,6 +1529,12 @@
             "finish": null
           }
         ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計38.9%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": null,
         "leaders": [
           {
             "number": 1,
@@ -1336,6 +1564,7 @@
         "start_time": "15:30",
         "course": "芝",
         "distance": 1600,
+        "track_condition": "重",
         "fixed": true,
         "retrospective": false,
         "winner": null,
@@ -1495,6 +1724,12 @@
             "finish": null
           }
         ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計44.7%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": null,
         "leaders": [
           {
             "number": 4,
@@ -1524,6 +1759,7 @@
         "start_time": "16:10",
         "course": "ダート",
         "distance": 1200,
+        "track_condition": "重",
         "fixed": true,
         "retrospective": false,
         "winner": null,
@@ -1705,6 +1941,12 @@
             "finish": null
           }
         ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計42.1%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": null,
         "leaders": [
           {
             "number": 10,
@@ -1734,10 +1976,13 @@
         "start_time": "10:01",
         "course": "ダート",
         "distance": 1400,
+        "track_condition": "良",
         "fixed": false,
         "retrospective": false,
         "winner": null,
         "horses": [],
+        "betting": null,
+        "going_note": null,
         "leaders": []
       },
       {
@@ -1748,10 +1993,13 @@
         "start_time": "10:30",
         "course": "ダート",
         "distance": 1800,
+        "track_condition": "良",
         "fixed": false,
         "retrospective": false,
         "winner": null,
         "horses": [],
+        "betting": null,
+        "going_note": null,
         "leaders": []
       },
       {
@@ -1762,6 +2010,7 @@
         "start_time": "11:00",
         "course": "芝",
         "distance": 1400,
+        "track_condition": "良",
         "fixed": true,
         "retrospective": false,
         "winner": null,
@@ -1932,6 +2181,12 @@
             "finish": null
           }
         ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計44.3%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": null,
         "leaders": [
           {
             "number": 3,
@@ -1961,6 +2216,7 @@
         "start_time": "11:35",
         "course": "芝",
         "distance": 1600,
+        "track_condition": "良",
         "fixed": true,
         "retrospective": false,
         "winner": null,
@@ -2131,6 +2387,12 @@
             "finish": null
           }
         ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計34.2%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": null,
         "leaders": [
           {
             "number": 4,
@@ -2160,6 +2422,7 @@
         "start_time": "12:25",
         "course": "芝",
         "distance": 2000,
+        "track_condition": "良",
         "fixed": true,
         "retrospective": false,
         "winner": null,
@@ -2330,6 +2593,12 @@
             "finish": null
           }
         ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計37.9%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": null,
         "leaders": [
           {
             "number": 10,
@@ -2359,6 +2628,7 @@
         "start_time": "12:55",
         "course": "ダート",
         "distance": 1800,
+        "track_condition": "良",
         "fixed": true,
         "retrospective": false,
         "winner": null,
@@ -2540,6 +2810,12 @@
             "finish": null
           }
         ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計40.5%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": null,
         "leaders": [
           {
             "number": 9,
@@ -2569,6 +2845,7 @@
         "start_time": "13:25",
         "course": "芝",
         "distance": 1600,
+        "track_condition": "良",
         "fixed": true,
         "retrospective": false,
         "winner": null,
@@ -2717,6 +2994,12 @@
             "finish": null
           }
         ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計54.5%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": null,
         "leaders": [
           {
             "number": 5,
@@ -2746,6 +3029,7 @@
         "start_time": "13:55",
         "course": "芝",
         "distance": 2200,
+        "track_condition": "良",
         "fixed": true,
         "retrospective": false,
         "winner": null,
@@ -2872,6 +3156,97 @@
             "finish": null
           }
         ],
+        "betting": {
+          "label": "上位4頭BOX・馬連＋3連複",
+          "reason": "上位4頭の勝率合計60.3%（基準55%以上）、明確な軸なし",
+          "tickets": [
+            {
+              "kind": "quinella",
+              "numbers": [
+                4,
+                10
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                3,
+                4
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                4,
+                6
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                3,
+                10
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                6,
+                10
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                3,
+                6
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "trio",
+              "numbers": [
+                3,
+                4,
+                10
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "trio",
+              "numbers": [
+                4,
+                6,
+                10
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "trio",
+              "numbers": [
+                3,
+                4,
+                6
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "trio",
+              "numbers": [
+                3,
+                6,
+                10
+              ],
+              "amount": 100
+            }
+          ]
+        },
+        "going_note": null,
         "leaders": [
           {
             "number": 4,
@@ -2901,6 +3276,7 @@
         "start_time": "14:25",
         "course": "ダート",
         "distance": 1400,
+        "track_condition": "良",
         "fixed": true,
         "retrospective": false,
         "winner": null,
@@ -2994,6 +3370,97 @@
             "finish": null
           }
         ],
+        "betting": {
+          "label": "上位4頭BOX・馬連＋3連複",
+          "reason": "上位4頭の勝率合計57.8%（基準55%以上）、明確な軸なし",
+          "tickets": [
+            {
+              "kind": "quinella",
+              "numbers": [
+                3,
+                5
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                3,
+                8
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                3,
+                6
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                5,
+                8
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                5,
+                6
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                6,
+                8
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "trio",
+              "numbers": [
+                3,
+                5,
+                8
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "trio",
+              "numbers": [
+                3,
+                5,
+                6
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "trio",
+              "numbers": [
+                3,
+                6,
+                8
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "trio",
+              "numbers": [
+                5,
+                6,
+                8
+              ],
+              "amount": 100
+            }
+          ]
+        },
+        "going_note": null,
         "leaders": [
           {
             "number": 3,
@@ -3023,6 +3490,7 @@
         "start_time": "15:05",
         "course": "芝",
         "distance": 1600,
+        "track_condition": "良",
         "fixed": true,
         "retrospective": false,
         "winner": null,
@@ -3182,6 +3650,12 @@
             "finish": null
           }
         ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計39.1%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": null,
         "leaders": [
           {
             "number": 8,
@@ -3211,6 +3685,7 @@
         "start_time": "15:45",
         "course": "ダート",
         "distance": 2000,
+        "track_condition": "良",
         "fixed": true,
         "retrospective": false,
         "winner": null,
@@ -3392,6 +3867,12 @@
             "finish": null
           }
         ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計39.3%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": null,
         "leaders": [
           {
             "number": 10,
@@ -3421,6 +3902,7 @@
         "start_time": "16:30",
         "course": "ダート",
         "distance": 1200,
+        "track_condition": "良",
         "fixed": true,
         "retrospective": false,
         "winner": null,
@@ -3602,6 +4084,12 @@
             "finish": null
           }
         ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計41.3%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": null,
         "leaders": [
           {
             "number": 7,
