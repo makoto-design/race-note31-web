@@ -1,4 +1,4706 @@
 {
+  "2026-10-10": {
+    "day": "2026-10-10",
+    "generated_at": "2026-10-09T23:15+09:00",
+    "races": [
+      {
+        "race_id": "202605040301",
+        "venue": "東京",
+        "number": 1,
+        "name": "2歳未勝利",
+        "start_time": "10:05",
+        "course": "ダート",
+        "distance": 1300,
+        "track_condition": "良",
+        "fixed": true,
+        "retrospective": false,
+        "winner": null,
+        "horses": [
+          {
+            "number": 9,
+            "name": "ラフエルガ",
+            "status": "active",
+            "rank": 1,
+            "score": 47.578260620142004,
+            "probability": 0.1232666532634052,
+            "place_probability": 0.27547993845006796,
+            "coverage": 0.6396081567243342,
+            "finish": null
+          },
+          {
+            "number": 12,
+            "name": "ポッドエステラ",
+            "status": "active",
+            "rank": 2,
+            "score": 40.79660150723293,
+            "probability": 0.07843257307946781,
+            "place_probability": 0.21593666306694925,
+            "coverage": 0.645457366755228,
+            "finish": null
+          },
+          {
+            "number": 7,
+            "name": "サイモンオリエント",
+            "status": "active",
+            "rank": 3,
+            "score": 40.11562805750671,
+            "probability": 0.07495148848381165,
+            "place_probability": 0.21062316933045488,
+            "coverage": 0.6396081567243342,
+            "finish": null
+          },
+          {
+            "number": 6,
+            "name": "ヴィンチェローズ",
+            "status": "active",
+            "rank": 4,
+            "score": 40.09900839726089,
+            "probability": 0.07486848992099836,
+            "place_probability": 0.21049494370340557,
+            "coverage": 0.741473242912121,
+            "finish": null
+          },
+          {
+            "number": 16,
+            "name": "ルスデルカミーノ",
+            "status": "active",
+            "rank": 5,
+            "score": 39.92873499132115,
+            "probability": 0.0740234212344845,
+            "place_probability": 0.20918520196277615,
+            "coverage": 0.745457366755228,
+            "finish": null
+          },
+          {
+            "number": 8,
+            "name": "セイカタカキヤチク",
+            "status": "active",
+            "rank": 6,
+            "score": 39.594256430981375,
+            "probability": 0.0723910719085241,
+            "place_probability": 0.20663337386707153,
+            "coverage": 0.6396081567243342,
+            "finish": null
+          },
+          {
+            "number": 10,
+            "name": "ノヴェルアレイア",
+            "status": "active",
+            "rank": 7,
+            "score": 39.56450327332409,
+            "probability": 0.07224762335876894,
+            "place_probability": 0.20640772059798185,
+            "coverage": 0.6396081567243342,
+            "finish": null
+          },
+          {
+            "number": 11,
+            "name": "ルスカーレット",
+            "status": "active",
+            "rank": 8,
+            "score": 37.125600740278706,
+            "probability": 0.06140590048009036,
+            "place_probability": 0.1886413432458709,
+            "coverage": 0.6396081567243342,
+            "finish": null
+          },
+          {
+            "number": 1,
+            "name": "ソットマツモト",
+            "status": "active",
+            "rank": 9,
+            "score": 36.28138109626108,
+            "probability": 0.058045351067030106,
+            "place_probability": 0.18281971577139566,
+            "coverage": 0.6396081567243342,
+            "finish": null
+          },
+          {
+            "number": 4,
+            "name": "ソラティオ",
+            "status": "active",
+            "rank": 10,
+            "score": 35.644529869132874,
+            "probability": 0.0556325171696181,
+            "place_probability": 0.17853636300187015,
+            "coverage": 0.645457366755228,
+            "finish": null
+          },
+          {
+            "number": 5,
+            "name": "ゲンロクコイモヨウ",
+            "status": "active",
+            "rank": 11,
+            "score": 35.009308636921595,
+            "probability": 0.05332577455012674,
+            "place_probability": 0.17435514737269472,
+            "coverage": 0.6396081567243342,
+            "finish": null
+          },
+          {
+            "number": 14,
+            "name": "リアスブルー",
+            "status": "active",
+            "rank": 12,
+            "score": 34.97074629095788,
+            "probability": 0.05318885948660342,
+            "place_probability": 0.1741042182067904,
+            "coverage": 0.7274059968662919,
+            "finish": null
+          },
+          {
+            "number": 13,
+            "name": "ホシノサミダレ",
+            "status": "active",
+            "rank": 13,
+            "score": 31.37532154972967,
+            "probability": 0.04185260258963287,
+            "place_probability": 0.15211372125524,
+            "coverage": 0.6234010573291248,
+            "finish": null
+          },
+          {
+            "number": 15,
+            "name": "クラウンロムパイア",
+            "status": "active",
+            "rank": 14,
+            "score": 30.9689050894011,
+            "probability": 0.04073385451011941,
+            "place_probability": 0.14979666515471834,
+            "coverage": 0.687401461891705,
+            "finish": null
+          },
+          {
+            "number": 2,
+            "name": "ディアファザー",
+            "status": "active",
+            "rank": 15,
+            "score": 28.279378149577667,
+            "probability": 0.03404753909968718,
+            "place_probability": 0.1352740388931788,
+            "coverage": 0.6274059968662918,
+            "finish": null
+          },
+          {
+            "number": 3,
+            "name": "リングスター",
+            "status": "active",
+            "rank": 16,
+            "score": 27.153854437205407,
+            "probability": 0.03158627979763122,
+            "place_probability": 0.12959777611953407,
+            "coverage": 0.6396081567243342,
+            "finish": null
+          }
+        ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計35.2%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": null,
+        "leaders": [
+          {
+            "number": 9,
+            "name": "ラフエルガ",
+            "rank": 1,
+            "probability": 0.1232666532634052
+          },
+          {
+            "number": 12,
+            "name": "ポッドエステラ",
+            "rank": 2,
+            "probability": 0.07843257307946781
+          },
+          {
+            "number": 7,
+            "name": "サイモンオリエント",
+            "rank": 3,
+            "probability": 0.07495148848381165
+          }
+        ]
+      },
+      {
+        "race_id": "202605040302",
+        "venue": "東京",
+        "number": 2,
+        "name": "2歳未勝利",
+        "start_time": "10:35",
+        "course": "芝",
+        "distance": 1600,
+        "track_condition": "良",
+        "fixed": true,
+        "retrospective": false,
+        "winner": null,
+        "horses": [
+          {
+            "number": 12,
+            "name": "ゴールデンハニビー",
+            "status": "active",
+            "rank": 1,
+            "score": 55.09883475017121,
+            "probability": 0.1699585290826097,
+            "place_probability": 0.36086230593972163,
+            "coverage": 0.5534333372685595,
+            "finish": null
+          },
+          {
+            "number": 4,
+            "name": "ラッパースヴィル",
+            "status": "active",
+            "rank": 2,
+            "score": 50.39647897644404,
+            "probability": 0.12422122837681876,
+            "place_probability": 0.3077707476402112,
+            "coverage": 0.5534333372685595,
+            "finish": null
+          },
+          {
+            "number": 6,
+            "name": "フェリスセンダ",
+            "status": "active",
+            "rank": 3,
+            "score": 48.8227854394898,
+            "probability": 0.11184915949544705,
+            "place_probability": 0.2913957337337387,
+            "coverage": 0.5534333372685595,
+            "finish": null
+          },
+          {
+            "number": 10,
+            "name": "ヴァルフォース",
+            "status": "active",
+            "rank": 4,
+            "score": 47.26701901927089,
+            "probability": 0.100829746068612,
+            "place_probability": 0.275896913492608,
+            "coverage": 0.5587512051630168,
+            "finish": null
+          },
+          {
+            "number": 8,
+            "name": "ソプラノクイーン",
+            "status": "active",
+            "rank": 5,
+            "score": 44.45209595387422,
+            "probability": 0.08357729349591779,
+            "place_probability": 0.2495758857415184,
+            "coverage": 0.5534333372685595,
+            "finish": null
+          },
+          {
+            "number": 2,
+            "name": "マーズワース",
+            "status": "active",
+            "rank": 6,
+            "score": 42.16345206468882,
+            "probability": 0.07175055680935494,
+            "place_probability": 0.22977148929969646,
+            "coverage": 0.563637280365189,
+            "finish": null
+          },
+          {
+            "number": 9,
+            "name": "ルーチェルナーレ",
+            "status": "active",
+            "rank": 7,
+            "score": 39.71904337504565,
+            "probability": 0.060961043908144344,
+            "place_probability": 0.2101404934757849,
+            "coverage": 0.6587512051630168,
+            "finish": null
+          },
+          {
+            "number": 11,
+            "name": "ホワイトホール",
+            "status": "active",
+            "rank": 8,
+            "score": 39.08919253419874,
+            "probability": 0.05845428405888223,
+            "place_probability": 0.20532850631811778,
+            "coverage": 0.6602018771028865,
+            "finish": null
+          },
+          {
+            "number": 7,
+            "name": "ローズファミリー",
+            "status": "active",
+            "rank": 9,
+            "score": 37.74797283293622,
+            "probability": 0.05345447370799092,
+            "place_probability": 0.19540794201909872,
+            "coverage": 0.6140700436279226,
+            "finish": null
+          },
+          {
+            "number": 13,
+            "name": "リアスハート",
+            "status": "active",
+            "rank": 10,
+            "score": 37.10605546121142,
+            "probability": 0.051215173289579176,
+            "place_probability": 0.19081395415204674,
+            "coverage": 0.6602018771028865,
+            "finish": null
+          },
+          {
+            "number": 1,
+            "name": "セレネリオン",
+            "status": "active",
+            "rank": 11,
+            "score": 34.27123097210483,
+            "probability": 0.04239572544502071,
+            "place_probability": 0.17167454751081393,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          },
+          {
+            "number": 5,
+            "name": "マイサマーガール",
+            "status": "active",
+            "rank": 12,
+            "score": 32.37956208414031,
+            "probability": 0.03737254272204825,
+            "place_probability": 0.1598988878579061,
+            "coverage": 0.5534333372685595,
+            "finish": null
+          },
+          {
+            "number": 3,
+            "name": "エバーラスティング",
+            "status": "active",
+            "rank": 13,
+            "score": 30.943375831152352,
+            "probability": 0.033960243539574074,
+            "place_probability": 0.15146259281873772,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          }
+        ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計50.7%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": null,
+        "leaders": [
+          {
+            "number": 12,
+            "name": "ゴールデンハニビー",
+            "rank": 1,
+            "probability": 0.1699585290826097
+          },
+          {
+            "number": 4,
+            "name": "ラッパースヴィル",
+            "rank": 2,
+            "probability": 0.12422122837681876
+          },
+          {
+            "number": 6,
+            "name": "フェリスセンダ",
+            "rank": 3,
+            "probability": 0.11184915949544705
+          }
+        ]
+      },
+      {
+        "race_id": "202605040303",
+        "venue": "東京",
+        "number": 3,
+        "name": "2歳未勝利",
+        "start_time": "11:05",
+        "course": "ダート",
+        "distance": 1600,
+        "track_condition": "良",
+        "fixed": true,
+        "retrospective": false,
+        "winner": null,
+        "horses": [
+          {
+            "number": 8,
+            "name": "レッジェランツァ",
+            "status": "active",
+            "rank": 1,
+            "score": 47.3742826169435,
+            "probability": 0.11853637211804491,
+            "place_probability": 0.2716087358741268,
+            "coverage": 0.6274059968662918,
+            "finish": null
+          },
+          {
+            "number": 13,
+            "name": "フレイムオブキング",
+            "status": "active",
+            "rank": 2,
+            "score": 43.89118494499316,
+            "probability": 0.09397354812292034,
+            "place_probability": 0.23986713864516257,
+            "coverage": 0.5858786872163524,
+            "finish": null
+          },
+          {
+            "number": 11,
+            "name": "ノシェリー",
+            "status": "active",
+            "rank": 3,
+            "score": 42.76590077944557,
+            "probability": 0.08718169554029429,
+            "place_probability": 0.23030955221934263,
+            "coverage": 0.7385548826048922,
+            "finish": null
+          },
+          {
+            "number": 2,
+            "name": "マーゴットパラディ",
+            "status": "active",
+            "rank": 4,
+            "score": 42.55240876131912,
+            "probability": 0.08594964436662249,
+            "place_probability": 0.2285338072908923,
+            "coverage": 0.6111988974710824,
+            "finish": null
+          },
+          {
+            "number": 6,
+            "name": "タイセイリッター",
+            "status": "active",
+            "rank": 5,
+            "score": 42.41934328778802,
+            "probability": 0.08519055429218673,
+            "place_probability": 0.22743302870609994,
+            "coverage": 0.7274059968662919,
+            "finish": null
+          },
+          {
+            "number": 7,
+            "name": "サイモントレノ",
+            "status": "active",
+            "rank": 6,
+            "score": 39.69991142362379,
+            "probability": 0.07106501092782054,
+            "place_probability": 0.20592907250650364,
+            "coverage": 0.7332552068971856,
+            "finish": null
+          },
+          {
+            "number": 15,
+            "name": "ディスクリートサム",
+            "status": "active",
+            "rank": 7,
+            "score": 39.34764779235947,
+            "probability": 0.0694155470195728,
+            "place_probability": 0.20327916350603867,
+            "coverage": 0.6274059968662918,
+            "finish": null
+          },
+          {
+            "number": 3,
+            "name": "エコロガレル",
+            "status": "active",
+            "rank": 8,
+            "score": 36.977610937990704,
+            "probability": 0.059270304063063384,
+            "place_probability": 0.18622898566270588,
+            "coverage": 0.6274059968662918,
+            "finish": null
+          },
+          {
+            "number": 5,
+            "name": "フジサンインフレ",
+            "status": "active",
+            "rank": 9,
+            "score": 36.25827024263478,
+            "probability": 0.056495012479897966,
+            "place_probability": 0.18131524039832736,
+            "coverage": 0.6274059968662918,
+            "finish": null
+          },
+          {
+            "number": 10,
+            "name": "ゴルトシェーン",
+            "status": "active",
+            "rank": 10,
+            "score": 33.83961158720403,
+            "probability": 0.04808202704624112,
+            "place_probability": 0.16564700183707323,
+            "coverage": 0.7332552068971856,
+            "finish": null
+          },
+          {
+            "number": 12,
+            "name": "プラチナリーフ",
+            "status": "active",
+            "rank": 11,
+            "score": 33.0973857868052,
+            "probability": 0.04576074965120585,
+            "place_probability": 0.1610939996852799,
+            "coverage": 0.27679742166540694,
+            "finish": null
+          },
+          {
+            "number": 16,
+            "name": "サスケソルトバーン",
+            "status": "active",
+            "rank": 12,
+            "score": 32.725786088418715,
+            "probability": 0.04464103110111165,
+            "place_probability": 0.15885814285051567,
+            "coverage": 0.7425390064479992,
+            "finish": null
+          },
+          {
+            "number": 1,
+            "name": "アンドレイア",
+            "status": "active",
+            "rank": 13,
+            "score": 30.056691212231936,
+            "probability": 0.03736422730557277,
+            "place_probability": 0.14362494238359572,
+            "coverage": 0.6234010573291248,
+            "finish": null
+          },
+          {
+            "number": 4,
+            "name": "トパーズヘッド",
+            "status": "active",
+            "rank": 14,
+            "score": 29.166577844610103,
+            "probability": 0.03521150466795513,
+            "place_probability": 0.13885561258119802,
+            "coverage": 0.6274059968662918,
+            "finish": null
+          },
+          {
+            "number": 9,
+            "name": "ナムラアラバイ",
+            "status": "active",
+            "rank": 15,
+            "score": 28.916909974803865,
+            "probability": 0.03463027646258027,
+            "place_probability": 0.1375447591423563,
+            "coverage": 0.6094503791700323,
+            "finish": null
+          },
+          {
+            "number": 14,
+            "name": "コックコート",
+            "status": "active",
+            "rank": 16,
+            "score": 25.312148698797202,
+            "probability": 0.027232494834909762,
+            "place_probability": 0.11987081671078112,
+            "coverage": 0.27679742166540694,
+            "finish": null
+          }
+        ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計38.6%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": null,
+        "leaders": [
+          {
+            "number": 8,
+            "name": "レッジェランツァ",
+            "rank": 1,
+            "probability": 0.11853637211804491
+          },
+          {
+            "number": 13,
+            "name": "フレイムオブキング",
+            "rank": 2,
+            "probability": 0.09397354812292034
+          },
+          {
+            "number": 11,
+            "name": "ノシェリー",
+            "rank": 3,
+            "probability": 0.08718169554029429
+          }
+        ]
+      },
+      {
+        "race_id": "202605040304",
+        "venue": "東京",
+        "number": 4,
+        "name": "2歳新馬",
+        "start_time": "11:35",
+        "course": "ダート",
+        "distance": 1400,
+        "track_condition": "良",
+        "fixed": true,
+        "retrospective": false,
+        "winner": null,
+        "horses": [
+          {
+            "number": 3,
+            "name": "トーアレオン",
+            "status": "active",
+            "rank": 1,
+            "score": 54.11280236389058,
+            "probability": 0.09312590019325627,
+            "place_probability": 0.23503427910749974,
+            "coverage": 0.27679742166540694,
+            "finish": null
+          },
+          {
+            "number": 2,
+            "name": "ポッドトリガー",
+            "status": "active",
+            "rank": 2,
+            "score": 52.686061061616336,
+            "probability": 0.08467634275594511,
+            "place_probability": 0.22318746290420707,
+            "coverage": 0.27679742166540694,
+            "finish": null
+          },
+          {
+            "number": 6,
+            "name": "ジャムセッション",
+            "status": "active",
+            "rank": 3,
+            "score": 51.247758232338,
+            "probability": 0.07693411460210335,
+            "place_probability": 0.21177453921557965,
+            "coverage": 0.27679742166540694,
+            "finish": null
+          },
+          {
+            "number": 11,
+            "name": "ツイストリフト",
+            "status": "active",
+            "rank": 4,
+            "score": 49.872865509860326,
+            "probability": 0.07019589869819388,
+            "place_probability": 0.20134903559578327,
+            "coverage": 0.26575677753591925,
+            "finish": null
+          },
+          {
+            "number": 9,
+            "name": "フィルモアイースト",
+            "status": "active",
+            "rank": 5,
+            "score": 49.86937135886111,
+            "probability": 0.07017954893124782,
+            "place_probability": 0.20132313182695627,
+            "coverage": 0.27679742166540694,
+            "finish": null
+          },
+          {
+            "number": 4,
+            "name": "エコロヴォルグ",
+            "status": "active",
+            "rank": 6,
+            "score": 49.420314453719584,
+            "probability": 0.06810971193343773,
+            "place_probability": 0.19801870346052275,
+            "coverage": 0.2080223684907703,
+            "finish": null
+          },
+          {
+            "number": 7,
+            "name": "タマモチーキー",
+            "status": "active",
+            "rank": 7,
+            "score": 49.148823119596635,
+            "probability": 0.0668880544930347,
+            "place_probability": 0.19604450164238227,
+            "coverage": 0.27679742166540694,
+            "finish": null
+          },
+          {
+            "number": 13,
+            "name": "ヴァルガルデーナ",
+            "status": "active",
+            "rank": 8,
+            "score": 47.82618996682744,
+            "probability": 0.06124271172012671,
+            "place_probability": 0.18667715099292706,
+            "coverage": 0.27679742166540694,
+            "finish": null
+          },
+          {
+            "number": 12,
+            "name": "コペルニクス",
+            "status": "active",
+            "rank": 9,
+            "score": 47.560801335605625,
+            "probability": 0.06016869946195948,
+            "place_probability": 0.18484692166356437,
+            "coverage": 0.27679742166540694,
+            "finish": null
+          },
+          {
+            "number": 10,
+            "name": "ドナラクシュミー",
+            "status": "active",
+            "rank": 10,
+            "score": 46.33899214979955,
+            "probability": 0.05546201260767512,
+            "place_probability": 0.1766288738215333,
+            "coverage": 0.26059032227019746,
+            "finish": null
+          },
+          {
+            "number": 16,
+            "name": "ヴァーヴヴァーヴ",
+            "status": "active",
+            "rank": 11,
+            "score": 46.0984417496922,
+            "probability": 0.05457967908497171,
+            "place_probability": 0.17505061096047936,
+            "coverage": 0.24954967814070977,
+            "finish": null
+          },
+          {
+            "number": 5,
+            "name": "クールランナー",
+            "status": "active",
+            "rank": 12,
+            "score": 45.464490323642515,
+            "probability": 0.05232102024954388,
+            "place_probability": 0.17095271753743613,
+            "coverage": 0.27679742166540694,
+            "finish": null
+          },
+          {
+            "number": 15,
+            "name": "カラメーロ",
+            "status": "active",
+            "rank": 13,
+            "score": 45.38377292810187,
+            "probability": 0.052040228653553365,
+            "place_probability": 0.17043730281052583,
+            "coverage": 0.24954967814070977,
+            "finish": null
+          },
+          {
+            "number": 1,
+            "name": "プルメリアビーチ",
+            "status": "active",
+            "rank": 14,
+            "score": 45.10197598492905,
+            "probability": 0.051071702901403386,
+            "place_probability": 0.1686490527579687,
+            "coverage": 0.27679742166540694,
+            "finish": null
+          },
+          {
+            "number": 14,
+            "name": "ファイティングボス",
+            "status": "active",
+            "rank": 15,
+            "score": 42.185705773125555,
+            "probability": 0.042048031434169596,
+            "place_probability": 0.15113101511686972,
+            "coverage": 0.27679742166540694,
+            "finish": null
+          },
+          {
+            "number": 8,
+            "name": "ジェラシックパーク",
+            "status": "active",
+            "rank": 16,
+            "score": 41.79111737038273,
+            "probability": 0.04095634227937795,
+            "place_probability": 0.14889470058576487,
+            "coverage": 0.20838362743756828,
+            "finish": null
+          }
+        ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計32.5%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": null,
+        "leaders": [
+          {
+            "number": 3,
+            "name": "トーアレオン",
+            "rank": 1,
+            "probability": 0.09312590019325627
+          },
+          {
+            "number": 2,
+            "name": "ポッドトリガー",
+            "rank": 2,
+            "probability": 0.08467634275594511
+          },
+          {
+            "number": 6,
+            "name": "ジャムセッション",
+            "rank": 3,
+            "probability": 0.07693411460210335
+          }
+        ]
+      },
+      {
+        "race_id": "202605040305",
+        "venue": "東京",
+        "number": 5,
+        "name": "2歳新馬",
+        "start_time": "12:25",
+        "course": "芝",
+        "distance": 1800,
+        "track_condition": "良",
+        "fixed": true,
+        "retrospective": false,
+        "winner": null,
+        "horses": [
+          {
+            "number": 1,
+            "name": "サトノカグラ",
+            "status": "active",
+            "rank": 1,
+            "score": 58.20844220271559,
+            "probability": 0.1456904534806604,
+            "place_probability": 0.3387524363095248,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          },
+          {
+            "number": 2,
+            "name": "カーラベッリーナ",
+            "status": "active",
+            "rank": 2,
+            "score": 53.08687454003868,
+            "probability": 0.10354914647006459,
+            "place_probability": 0.2839299333673711,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          },
+          {
+            "number": 10,
+            "name": "アスクゴクジョウ",
+            "status": "active",
+            "rank": 3,
+            "score": 52.594435883333425,
+            "probability": 0.10020490117164603,
+            "place_probability": 0.27905109326548766,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          },
+          {
+            "number": 4,
+            "name": "スノーヴァ",
+            "status": "active",
+            "rank": 4,
+            "score": 51.68852785577889,
+            "probability": 0.09433226019064947,
+            "place_probability": 0.2702543724077875,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          },
+          {
+            "number": 7,
+            "name": "ルナトレイル",
+            "status": "active",
+            "rank": 5,
+            "score": 51.464921708082315,
+            "probability": 0.09293647138330184,
+            "place_probability": 0.2681185245689855,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          },
+          {
+            "number": 6,
+            "name": "リカジョンファンク",
+            "status": "active",
+            "rank": 6,
+            "score": 48.5786165894754,
+            "probability": 0.07666887430215423,
+            "place_probability": 0.2417919974513758,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          },
+          {
+            "number": 12,
+            "name": "チャリンコリン",
+            "status": "active",
+            "rank": 7,
+            "score": 47.26905153360121,
+            "probability": 0.07025921528379439,
+            "place_probability": 0.2305937676210368,
+            "coverage": 0.1681589895775911,
+            "finish": null
+          },
+          {
+            "number": 11,
+            "name": "リュウゴリーベ",
+            "status": "active",
+            "rank": 8,
+            "score": 47.10290709988034,
+            "probability": 0.06948529743171998,
+            "place_probability": 0.2292056387968306,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          },
+          {
+            "number": 3,
+            "name": "ゲームアビリティー",
+            "status": "active",
+            "rank": 9,
+            "score": 46.66067873421598,
+            "probability": 0.067466642557919,
+            "place_probability": 0.22554621513749845,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          },
+          {
+            "number": 8,
+            "name": "アラヤシキ",
+            "status": "active",
+            "rank": 10,
+            "score": 46.09826367995177,
+            "probability": 0.0649838614999069,
+            "place_probability": 0.22096602120327877,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          },
+          {
+            "number": 5,
+            "name": "ルミエールノット",
+            "status": "active",
+            "rank": 11,
+            "score": 45.10734854194338,
+            "probability": 0.060829687147121496,
+            "place_probability": 0.21309468098817236,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          },
+          {
+            "number": 9,
+            "name": "チリチョウズ",
+            "status": "active",
+            "rank": 12,
+            "score": 43.20750922247908,
+            "probability": 0.053593189081061615,
+            "place_probability": 0.19869531888265118,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          }
+        ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計44.4%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": null,
+        "leaders": [
+          {
+            "number": 1,
+            "name": "サトノカグラ",
+            "rank": 1,
+            "probability": 0.1456904534806604
+          },
+          {
+            "number": 2,
+            "name": "カーラベッリーナ",
+            "rank": 2,
+            "probability": 0.10354914647006459
+          },
+          {
+            "number": 10,
+            "name": "アスクゴクジョウ",
+            "rank": 3,
+            "probability": 0.10020490117164603
+          }
+        ]
+      },
+      {
+        "race_id": "202605040306",
+        "venue": "東京",
+        "number": 6,
+        "name": "2歳新馬",
+        "start_time": "12:55",
+        "course": "芝",
+        "distance": 1600,
+        "track_condition": "良",
+        "fixed": true,
+        "retrospective": false,
+        "winner": null,
+        "horses": [
+          {
+            "number": 13,
+            "name": "ランギヌイ",
+            "status": "active",
+            "rank": 1,
+            "score": 59.128812247478415,
+            "probability": 0.13463690640916462,
+            "place_probability": 0.3042772308265717,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          },
+          {
+            "number": 12,
+            "name": "キャンディリヒト",
+            "status": "active",
+            "rank": 2,
+            "score": 52.82413693421839,
+            "probability": 0.08843518274422975,
+            "place_probability": 0.24354781546740606,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          },
+          {
+            "number": 9,
+            "name": "ブレイクソロ",
+            "status": "active",
+            "rank": 3,
+            "score": 51.68698930306286,
+            "probability": 0.08197874802376091,
+            "place_probability": 0.23375381915262364,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          },
+          {
+            "number": 6,
+            "name": "ルーチェカーロ",
+            "status": "active",
+            "rank": 4,
+            "score": 51.51021452886211,
+            "probability": 0.08101830025959782,
+            "place_probability": 0.23226213313887228,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          },
+          {
+            "number": 7,
+            "name": "カゼノロマン",
+            "status": "active",
+            "rank": 5,
+            "score": 50.816545253242495,
+            "probability": 0.07735695120697425,
+            "place_probability": 0.22648800709558245,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          },
+          {
+            "number": 3,
+            "name": "セラフィムコード",
+            "status": "active",
+            "rank": 6,
+            "score": 50.505965476574126,
+            "probability": 0.0757717189015484,
+            "place_probability": 0.2239434147396051,
+            "coverage": 0.17154515332235232,
+            "finish": null
+          },
+          {
+            "number": 8,
+            "name": "フェロックス",
+            "status": "active",
+            "rank": 7,
+            "score": 49.541754832844454,
+            "probability": 0.07105430272934678,
+            "place_probability": 0.21620205507798584,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          },
+          {
+            "number": 14,
+            "name": "キセキノアスク",
+            "status": "active",
+            "rank": 8,
+            "score": 48.60594725934739,
+            "probability": 0.06675687180142419,
+            "place_probability": 0.20891477142908915,
+            "coverage": 0.18266437118314321,
+            "finish": null
+          },
+          {
+            "number": 2,
+            "name": "メノルカ",
+            "status": "active",
+            "rank": 9,
+            "score": 48.281143530478104,
+            "probability": 0.0653268844565532,
+            "place_probability": 0.20643676418256665,
+            "coverage": 0.2142605218109911,
+            "finish": null
+          },
+          {
+            "number": 10,
+            "name": "ポートマンロード",
+            "status": "active",
+            "rank": 10,
+            "score": 46.2437726779717,
+            "probability": 0.057030084959022544,
+            "place_probability": 0.1914822068499803,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          },
+          {
+            "number": 11,
+            "name": "ジーティーストーム",
+            "status": "active",
+            "rank": 11,
+            "score": 45.66785346203512,
+            "probability": 0.05488193933316257,
+            "place_probability": 0.18743512691183362,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          },
+          {
+            "number": 5,
+            "name": "レイロウレンズ",
+            "status": "active",
+            "rank": 12,
+            "score": 44.2663768752873,
+            "probability": 0.04998647895944837,
+            "place_probability": 0.17790834595069954,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          },
+          {
+            "number": 4,
+            "name": "ナムラマシュー",
+            "status": "active",
+            "rank": 13,
+            "score": 43.639152278404545,
+            "probability": 0.04793939336700606,
+            "place_probability": 0.17378924004875693,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          },
+          {
+            "number": 1,
+            "name": "クラウンスティーズ",
+            "status": "active",
+            "rank": 14,
+            "score": 43.603704309027826,
+            "probability": 0.04782623684876051,
+            "place_probability": 0.17355906912842717,
+            "coverage": 0.17154515332235232,
+            "finish": null
+          }
+        ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計38.6%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": null,
+        "leaders": [
+          {
+            "number": 13,
+            "name": "ランギヌイ",
+            "rank": 1,
+            "probability": 0.13463690640916462
+          },
+          {
+            "number": 12,
+            "name": "キャンディリヒト",
+            "rank": 2,
+            "probability": 0.08843518274422975
+          },
+          {
+            "number": 9,
+            "name": "ブレイクソロ",
+            "rank": 3,
+            "probability": 0.08197874802376091
+          }
+        ]
+      },
+      {
+        "race_id": "202605040307",
+        "venue": "東京",
+        "number": 7,
+        "name": "3歳以上1勝クラス",
+        "start_time": "13:25",
+        "course": "ダート",
+        "distance": 1600,
+        "track_condition": "良",
+        "fixed": true,
+        "retrospective": false,
+        "winner": null,
+        "horses": [
+          {
+            "number": 5,
+            "name": "ケープウィッカム",
+            "status": "active",
+            "rank": 1,
+            "score": 62.01298900308239,
+            "probability": 0.20958283052571283,
+            "place_probability": 0.3985221611223804,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 8,
+            "name": "グロリアス",
+            "status": "active",
+            "rank": 2,
+            "score": 49.4883846074888,
+            "probability": 0.09093504016681572,
+            "place_probability": 0.2603019413939903,
+            "coverage": 0.7931450294152729,
+            "finish": null
+          },
+          {
+            "number": 2,
+            "name": "ショコラプリン",
+            "status": "active",
+            "rank": 3,
+            "score": 49.19854300957336,
+            "probability": 0.08919479038221843,
+            "place_probability": 0.2576226124094775,
+            "coverage": 0.7931450294152729,
+            "finish": null
+          },
+          {
+            "number": 1,
+            "name": "サーロー",
+            "status": "active",
+            "rank": 4,
+            "score": 46.82310130337935,
+            "probability": 0.07613132835542988,
+            "place_probability": 0.23652899095015953,
+            "coverage": 0.8007813612210897,
+            "finish": null
+          },
+          {
+            "number": 3,
+            "name": "アンディラメナ",
+            "status": "active",
+            "rank": 5,
+            "score": 46.820365902026055,
+            "probability": 0.07611744630532684,
+            "place_probability": 0.23650557910725445,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 10,
+            "name": "ブルーサーマル",
+            "status": "active",
+            "rank": 6,
+            "score": 46.22597607047221,
+            "probability": 0.07316019616399042,
+            "place_probability": 0.2314654886519972,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 13,
+            "name": "ミライヘノティアラ",
+            "status": "active",
+            "rank": 7,
+            "score": 45.93343399754185,
+            "probability": 0.07174719070659709,
+            "place_probability": 0.22901922721514423,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 11,
+            "name": "デルマザオウ",
+            "status": "active",
+            "rank": 8,
+            "score": 44.20084545213955,
+            "probability": 0.06392067087417606,
+            "place_probability": 0.21498834567823596,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 6,
+            "name": "クレマチス",
+            "status": "active",
+            "rank": 9,
+            "score": 43.12606807846251,
+            "probability": 0.0595008722447373,
+            "place_probability": 0.20667009071178344,
+            "coverage": 0.7931450294152729,
+            "finish": null
+          },
+          {
+            "number": 4,
+            "name": "カルネヴァーレ",
+            "status": "active",
+            "rank": 10,
+            "score": 41.10154100335892,
+            "probability": 0.051988497924037994,
+            "place_probability": 0.19177678965323122,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 7,
+            "name": "ビスケットマリー",
+            "status": "active",
+            "rank": 11,
+            "score": 40.1358116744337,
+            "probability": 0.048746848299354995,
+            "place_probability": 0.18501875799730758,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 12,
+            "name": "ペイトー",
+            "status": "active",
+            "rank": 12,
+            "score": 38.894577148790425,
+            "probability": 0.044875481506829386,
+            "place_probability": 0.1766504438505966,
+            "coverage": 0.6878714423679968,
+            "finish": null
+          },
+          {
+            "number": 9,
+            "name": "スーパーチャンド",
+            "status": "active",
+            "rank": 13,
+            "score": 38.63269429231631,
+            "probability": 0.04409880654477306,
+            "place_probability": 0.17492957125844122,
+            "coverage": 0.7931450294152729,
+            "finish": null
+          }
+        ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計46.6%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": null,
+        "leaders": [
+          {
+            "number": 5,
+            "name": "ケープウィッカム",
+            "rank": 1,
+            "probability": 0.20958283052571283
+          },
+          {
+            "number": 8,
+            "name": "グロリアス",
+            "rank": 2,
+            "probability": 0.09093504016681572
+          },
+          {
+            "number": 2,
+            "name": "ショコラプリン",
+            "rank": 3,
+            "probability": 0.08919479038221843
+          }
+        ]
+      },
+      {
+        "race_id": "202605040308",
+        "venue": "東京",
+        "number": 8,
+        "name": "3歳以上1勝クラス",
+        "start_time": "14:00",
+        "course": "芝",
+        "distance": 2000,
+        "track_condition": "良",
+        "fixed": true,
+        "retrospective": false,
+        "winner": null,
+        "horses": [
+          {
+            "number": 4,
+            "name": "アローメタル",
+            "status": "active",
+            "rank": 1,
+            "score": 64.36501528219247,
+            "probability": 0.21967471541705055,
+            "place_probability": 0.4591958657887782,
+            "coverage": 0.8721794210799177,
+            "finish": null
+          },
+          {
+            "number": 6,
+            "name": "ウップヘリーア",
+            "status": "active",
+            "rank": 2,
+            "score": 64.30120512413139,
+            "probability": 0.21874220173066616,
+            "place_probability": 0.4583123727864487,
+            "coverage": 0.8721794210799177,
+            "finish": null
+          },
+          {
+            "number": 2,
+            "name": "ランブルスコ",
+            "status": "active",
+            "rank": 3,
+            "score": 56.007813415268245,
+            "probability": 0.12583872097253232,
+            "place_probability": 0.3514361332528439,
+            "coverage": 0.8721794210799177,
+            "finish": null
+          },
+          {
+            "number": 9,
+            "name": "トルネードアイル",
+            "status": "active",
+            "rank": 4,
+            "score": 52.10734867465277,
+            "probability": 0.09702513921326683,
+            "place_probability": 0.30755753744865416,
+            "coverage": 0.8721794210799177,
+            "finish": null
+          },
+          {
+            "number": 1,
+            "name": "コスモアチーブ",
+            "status": "active",
+            "rank": 5,
+            "score": 49.780827078951425,
+            "probability": 0.08308537323576223,
+            "place_probability": 0.2834815274045875,
+            "coverage": 0.8721794210799177,
+            "finish": null
+          },
+          {
+            "number": 7,
+            "name": "サンクレゾン",
+            "status": "active",
+            "rank": 6,
+            "score": 48.548697656026846,
+            "probability": 0.07653335897609347,
+            "place_probability": 0.2713635136589314,
+            "coverage": 0.8679678050349438,
+            "finish": null
+          },
+          {
+            "number": 10,
+            "name": "ストレートブラック",
+            "status": "active",
+            "rank": 7,
+            "score": 43.74103707664382,
+            "probability": 0.055546249915694644,
+            "place_probability": 0.22816115742054785,
+            "coverage": 0.8721794210799177,
+            "finish": null
+          },
+          {
+            "number": 3,
+            "name": "イスキオス",
+            "status": "active",
+            "rank": 8,
+            "score": 41.79538441612845,
+            "probability": 0.048789046376719124,
+            "place_probability": 0.21245321354643562,
+            "coverage": 0.8721794210799177,
+            "finish": null
+          },
+          {
+            "number": 8,
+            "name": "コスモアルペジオ",
+            "status": "active",
+            "rank": 9,
+            "score": 38.56054209855645,
+            "probability": 0.03932457626446369,
+            "place_probability": 0.1884622314473769,
+            "coverage": 0.8721794210799177,
+            "finish": null
+          },
+          {
+            "number": 5,
+            "name": "カーロアヴァンティ",
+            "status": "active",
+            "rank": 10,
+            "score": 27.158851711088623,
+            "probability": 0.018388711688658865,
+            "place_probability": 0.12239158585601331,
+            "coverage": 0.5668620373445292,
+            "finish": null
+          },
+          {
+            "number": 11,
+            "name": "オウケンヴィーナス",
+            "status": "active",
+            "rank": 11,
+            "score": 26.026726972566067,
+            "probability": 0.017051906209092024,
+            "place_probability": 0.11718486138938239,
+            "coverage": 0.8721794210799177,
+            "finish": null
+          }
+        ],
+        "betting": {
+          "label": "上位4頭BOX・馬連＋3連複",
+          "reason": "上位4頭の勝率合計66.1%（基準55%以上）、明確な軸なし",
+          "tickets": [
+            {
+              "kind": "quinella",
+              "numbers": [
+                4,
+                6
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                2,
+                4
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                4,
+                9
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                2,
+                6
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                6,
+                9
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                2,
+                9
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "trio",
+              "numbers": [
+                2,
+                4,
+                6
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "trio",
+              "numbers": [
+                4,
+                6,
+                9
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "trio",
+              "numbers": [
+                2,
+                4,
+                9
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "trio",
+              "numbers": [
+                2,
+                6,
+                9
+              ],
+              "amount": 100
+            }
+          ]
+        },
+        "going_note": null,
+        "leaders": [
+          {
+            "number": 4,
+            "name": "アローメタル",
+            "rank": 1,
+            "probability": 0.21967471541705055
+          },
+          {
+            "number": 6,
+            "name": "ウップヘリーア",
+            "rank": 2,
+            "probability": 0.21874220173066616
+          },
+          {
+            "number": 2,
+            "name": "ランブルスコ",
+            "rank": 3,
+            "probability": 0.12583872097253232
+          }
+        ]
+      },
+      {
+        "race_id": "202605040309",
+        "venue": "東京",
+        "number": 9,
+        "name": "陣馬特別",
+        "start_time": "14:35",
+        "course": "芝",
+        "distance": 2400,
+        "track_condition": "良",
+        "fixed": true,
+        "retrospective": false,
+        "winner": null,
+        "horses": [
+          {
+            "number": 2,
+            "name": "ノクターン",
+            "status": "active",
+            "rank": 1,
+            "score": 64.11174436969007,
+            "probability": 0.21493976345271876,
+            "place_probability": 0.47460719602345885,
+            "coverage": 0.8721794210799177,
+            "finish": null
+          },
+          {
+            "number": 7,
+            "name": "ジュンツバメガエシ",
+            "status": "active",
+            "rank": 2,
+            "score": 62.709603059901056,
+            "probability": 0.19575849508741044,
+            "place_probability": 0.4549893021564543,
+            "coverage": 0.8721794210799177,
+            "finish": null
+          },
+          {
+            "number": 3,
+            "name": "ノラリクラリ",
+            "status": "active",
+            "rank": 3,
+            "score": 54.315261874270206,
+            "probability": 0.11186121888509619,
+            "place_probability": 0.3470330045724731,
+            "coverage": 0.8721794210799177,
+            "finish": null
+          },
+          {
+            "number": 9,
+            "name": "ノーブルクライ",
+            "status": "active",
+            "rank": 4,
+            "score": 53.850784904239745,
+            "probability": 0.10845050074182379,
+            "place_probability": 0.3416118796865123,
+            "coverage": 0.8721794210799177,
+            "finish": null
+          },
+          {
+            "number": 8,
+            "name": "イクリール",
+            "status": "active",
+            "rank": 5,
+            "score": 52.20008022880561,
+            "probability": 0.09714909654187104,
+            "place_probability": 0.3228521971163756,
+            "coverage": 0.8721794210799177,
+            "finish": null
+          },
+          {
+            "number": 6,
+            "name": "キングズトゥルー",
+            "status": "active",
+            "rank": 6,
+            "score": 51.98797487958935,
+            "probability": 0.09578504051976976,
+            "place_probability": 0.3204993621278751,
+            "coverage": 0.8721794210799177,
+            "finish": null
+          },
+          {
+            "number": 5,
+            "name": "レイデラルース",
+            "status": "active",
+            "rank": 7,
+            "score": 47.767634700818846,
+            "probability": 0.07229467735877632,
+            "place_probability": 0.2764243752394948,
+            "coverage": 0.8721794210799177,
+            "finish": null
+          },
+          {
+            "number": 1,
+            "name": "リュクスパトロール",
+            "status": "active",
+            "rank": 8,
+            "score": 43.22567564294766,
+            "probability": 0.053407609568818314,
+            "place_probability": 0.23471515300052231,
+            "coverage": 0.7771949559223501,
+            "finish": null
+          },
+          {
+            "number": 4,
+            "name": "ビップチェイス",
+            "status": "active",
+            "rank": 9,
+            "score": 42.342428185748005,
+            "probability": 0.050353597843715285,
+            "place_probability": 0.22726753007683373,
+            "coverage": 0.8721794210799177,
+            "finish": null
+          }
+        ],
+        "betting": {
+          "label": "上位4頭BOX・馬連＋3連複",
+          "reason": "上位4頭の勝率合計63.1%（基準55%以上）、明確な軸なし",
+          "tickets": [
+            {
+              "kind": "quinella",
+              "numbers": [
+                2,
+                7
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                2,
+                3
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                2,
+                9
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                3,
+                7
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                7,
+                9
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                3,
+                9
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "trio",
+              "numbers": [
+                2,
+                3,
+                7
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "trio",
+              "numbers": [
+                2,
+                7,
+                9
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "trio",
+              "numbers": [
+                2,
+                3,
+                9
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "trio",
+              "numbers": [
+                3,
+                7,
+                9
+              ],
+              "amount": 100
+            }
+          ]
+        },
+        "going_note": null,
+        "leaders": [
+          {
+            "number": 2,
+            "name": "ノクターン",
+            "rank": 1,
+            "probability": 0.21493976345271876
+          },
+          {
+            "number": 7,
+            "name": "ジュンツバメガエシ",
+            "rank": 2,
+            "probability": 0.19575849508741044
+          },
+          {
+            "number": 3,
+            "name": "ノラリクラリ",
+            "rank": 3,
+            "probability": 0.11186121888509619
+          }
+        ]
+      },
+      {
+        "race_id": "202605040310",
+        "venue": "東京",
+        "number": 10,
+        "name": "電話・インターネット発売50周年記念",
+        "start_time": "15:10",
+        "course": "ダート",
+        "distance": 2100,
+        "track_condition": "良",
+        "fixed": true,
+        "retrospective": false,
+        "winner": null,
+        "horses": [
+          {
+            "number": 14,
+            "name": "ボクマダネムイヨ",
+            "status": "active",
+            "rank": 1,
+            "score": 58.835298009626065,
+            "probability": 0.11192733732823817,
+            "place_probability": 0.2621161085193451,
+            "coverage": 0.7905230493383968,
+            "finish": null
+          },
+          {
+            "number": 16,
+            "name": "シャローファースト",
+            "status": "active",
+            "rank": 2,
+            "score": 57.64203643454399,
+            "probability": 0.10336838027122806,
+            "place_probability": 0.2511992462626228,
+            "coverage": 0.7931450294152729,
+            "finish": null
+          },
+          {
+            "number": 7,
+            "name": "コズミックダンサー",
+            "status": "active",
+            "rank": 3,
+            "score": 57.41889060133797,
+            "probability": 0.10184201360991485,
+            "place_probability": 0.24920068718398175,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 9,
+            "name": "レッドリベルタ",
+            "status": "active",
+            "rank": 4,
+            "score": 52.04616665412128,
+            "probability": 0.07118208202975788,
+            "place_probability": 0.20503537462257254,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 1,
+            "name": "マウントバーノン",
+            "status": "active",
+            "rank": 5,
+            "score": 51.906060569157404,
+            "probability": 0.07052030793807654,
+            "place_probability": 0.20398195100553526,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 3,
+            "name": "インナーパッション",
+            "status": "active",
+            "rank": 6,
+            "score": 51.11725774476737,
+            "probability": 0.06690768739238608,
+            "place_probability": 0.19814058753228703,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 12,
+            "name": "タイキインドラ",
+            "status": "active",
+            "rank": 7,
+            "score": 49.10256218611395,
+            "probability": 0.058498483568417796,
+            "place_probability": 0.18389580597304994,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 2,
+            "name": "ユウトザユウト",
+            "status": "active",
+            "rank": 8,
+            "score": 47.52495992012468,
+            "probability": 0.052658483072980385,
+            "place_probability": 0.17339580435506424,
+            "coverage": 0.7931450294152729,
+            "finish": null
+          },
+          {
+            "number": 15,
+            "name": "メイショウジンライ",
+            "status": "active",
+            "rank": 9,
+            "score": 47.49010053441628,
+            "probability": 0.052536249003329046,
+            "place_probability": 0.17317009183322196,
+            "coverage": 0.7931450294152729,
+            "finish": null
+          },
+          {
+            "number": 4,
+            "name": "マッドゲイル",
+            "status": "active",
+            "rank": 10,
+            "score": 47.065763396519806,
+            "probability": 0.05107086847121904,
+            "place_probability": 0.17044399875394234,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 10,
+            "name": "デールエルバハリ",
+            "status": "active",
+            "rank": 11,
+            "score": 46.44502908343052,
+            "probability": 0.04900057136153899,
+            "place_probability": 0.16652697981237155,
+            "coverage": 0.7905230493383968,
+            "finish": null
+          },
+          {
+            "number": 11,
+            "name": "シテフローラル",
+            "status": "active",
+            "rank": 12,
+            "score": 46.43906144587981,
+            "probability": 0.048981080728919546,
+            "place_probability": 0.16648972667832465,
+            "coverage": 0.7977520113582584,
+            "finish": null
+          },
+          {
+            "number": 5,
+            "name": "バタール",
+            "status": "active",
+            "rank": 13,
+            "score": 45.407352712505045,
+            "probability": 0.04572538132417224,
+            "place_probability": 0.16016334396998325,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 8,
+            "name": "ダブルメッセージ",
+            "status": "active",
+            "rank": 14,
+            "score": 44.228935203189266,
+            "probability": 0.042270623566881195,
+            "place_probability": 0.15320940179134246,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 6,
+            "name": "サイモンルモンド",
+            "status": "active",
+            "rank": 15,
+            "score": 42.43384669021086,
+            "probability": 0.0375029575900453,
+            "place_probability": 0.14315368233952558,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 13,
+            "name": "エーデル",
+            "status": "active",
+            "rank": 16,
+            "score": 41.82345543439902,
+            "probability": 0.03600749274289486,
+            "place_probability": 0.1398772093668295,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          }
+        ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計38.8%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": null,
+        "leaders": [
+          {
+            "number": 14,
+            "name": "ボクマダネムイヨ",
+            "rank": 1,
+            "probability": 0.11192733732823817
+          },
+          {
+            "number": 16,
+            "name": "シャローファースト",
+            "rank": 2,
+            "probability": 0.10336838027122806
+          },
+          {
+            "number": 7,
+            "name": "コズミックダンサー",
+            "rank": 3,
+            "probability": 0.10184201360991485
+          }
+        ]
+      },
+      {
+        "race_id": "202605040311",
+        "venue": "東京",
+        "number": 11,
+        "name": "サウジアラビアRC",
+        "start_time": "15:45",
+        "course": "芝",
+        "distance": 1600,
+        "track_condition": "良",
+        "fixed": true,
+        "retrospective": false,
+        "winner": null,
+        "horses": [
+          {
+            "number": 5,
+            "name": "フィリオソラーレ",
+            "status": "active",
+            "rank": 1,
+            "score": 61.360017008078856,
+            "probability": 0.18401376529152974,
+            "place_probability": 0.39906007784776515,
+            "coverage": 0.5587512051630168,
+            "finish": null
+          },
+          {
+            "number": 4,
+            "name": "アゴルディーノ",
+            "status": "active",
+            "rank": 2,
+            "score": 56.82381513853112,
+            "probability": 0.13599214248316951,
+            "place_probability": 0.3437319228060609,
+            "coverage": 0.6548840092084293,
+            "finish": null
+          },
+          {
+            "number": 2,
+            "name": "デミアン",
+            "status": "active",
+            "rank": 3,
+            "score": 52.43100342203401,
+            "probability": 0.10146795088313,
+            "place_probability": 0.2956118769016387,
+            "coverage": 0.5534333372685595,
+            "finish": null
+          },
+          {
+            "number": 6,
+            "name": "ベルウッドディープ",
+            "status": "active",
+            "rank": 4,
+            "score": 52.24341703963559,
+            "probability": 0.10020691867785615,
+            "place_probability": 0.2936800024934099,
+            "coverage": 0.5587512051630168,
+            "finish": null
+          },
+          {
+            "number": 8,
+            "name": "グルーヴェンス",
+            "status": "active",
+            "rank": 5,
+            "score": 50.723807236389,
+            "probability": 0.0905525110227486,
+            "place_probability": 0.2784010289476835,
+            "coverage": 0.6558422859728863,
+            "finish": null
+          },
+          {
+            "number": 9,
+            "name": "ジップスパーク",
+            "status": "active",
+            "rank": 6,
+            "score": 48.721518395240416,
+            "probability": 0.07923704996224963,
+            "place_probability": 0.259268934778592,
+            "coverage": 0.6587512051630168,
+            "finish": null
+          },
+          {
+            "number": 3,
+            "name": "サトノハクマイ",
+            "status": "active",
+            "rank": 7,
+            "score": 47.354311023607224,
+            "probability": 0.07233418462987122,
+            "place_probability": 0.2468483047779934,
+            "coverage": 0.5587512051630168,
+            "finish": null
+          },
+          {
+            "number": 7,
+            "name": "ニシノトラノスケ",
+            "status": "active",
+            "rank": 8,
+            "score": 44.98843336292204,
+            "probability": 0.06177950384744293,
+            "place_probability": 0.2265572578447461,
+            "coverage": 0.5587512051630168,
+            "finish": null
+          },
+          {
+            "number": 1,
+            "name": "ギブリ",
+            "status": "active",
+            "rank": 9,
+            "score": 44.93917105520203,
+            "probability": 0.061576943254293054,
+            "place_probability": 0.22615062988325213,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          },
+          {
+            "number": 11,
+            "name": "ハンサム",
+            "status": "active",
+            "rank": 10,
+            "score": 44.81787641573027,
+            "probability": 0.061081020838820645,
+            "place_probability": 0.22515214162190325,
+            "coverage": 0.6587512051630168,
+            "finish": null
+          },
+          {
+            "number": 10,
+            "name": "アイファーマーリン",
+            "status": "active",
+            "rank": 11,
+            "score": 42.33354629880791,
+            "probability": 0.05175800910888851,
+            "place_probability": 0.20553782209695554,
+            "coverage": 0.6548499203116699,
+            "finish": null
+          }
+        ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計52.2%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": null,
+        "leaders": [
+          {
+            "number": 5,
+            "name": "フィリオソラーレ",
+            "rank": 1,
+            "probability": 0.18401376529152974
+          },
+          {
+            "number": 4,
+            "name": "アゴルディーノ",
+            "rank": 2,
+            "probability": 0.13599214248316951
+          },
+          {
+            "number": 2,
+            "name": "デミアン",
+            "rank": 3,
+            "probability": 0.10146795088313
+          }
+        ]
+      },
+      {
+        "race_id": "202605040312",
+        "venue": "東京",
+        "number": 12,
+        "name": "3歳以上1勝クラス",
+        "start_time": "16:30",
+        "course": "ダート",
+        "distance": 1400,
+        "track_condition": "良",
+        "fixed": true,
+        "retrospective": false,
+        "winner": null,
+        "horses": [
+          {
+            "number": 7,
+            "name": "ロードフロイデ",
+            "status": "active",
+            "rank": 1,
+            "score": 59.27230890023485,
+            "probability": 0.1451603293987138,
+            "place_probability": 0.30236539736974166,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 10,
+            "name": "ゴーゴーパンチ",
+            "status": "active",
+            "rank": 2,
+            "score": 55.352291993191336,
+            "probability": 0.11177684083360864,
+            "place_probability": 0.2635572731519003,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 3,
+            "name": "シュヴァルツシルト",
+            "status": "active",
+            "rank": 3,
+            "score": 51.32240300114218,
+            "probability": 0.0854426272977989,
+            "place_probability": 0.2280525959547981,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 2,
+            "name": "エコロバロン",
+            "status": "active",
+            "rank": 4,
+            "score": 48.50987948097339,
+            "probability": 0.07083431489462093,
+            "place_probability": 0.20579142357942126,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 16,
+            "name": "ラルフテソーロ",
+            "status": "active",
+            "rank": 5,
+            "score": 47.160368524389966,
+            "probability": 0.06473980003997581,
+            "place_probability": 0.1958094727838562,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 13,
+            "name": "フリッシュ",
+            "status": "active",
+            "rank": 6,
+            "score": 45.92436803119038,
+            "probability": 0.059619108014009305,
+            "place_probability": 0.18705013188545427,
+            "coverage": 0.7931450294152729,
+            "finish": null
+          },
+          {
+            "number": 6,
+            "name": "ブルーユンチェリー",
+            "status": "active",
+            "rank": 7,
+            "score": 45.46732483859986,
+            "probability": 0.05782993688482423,
+            "place_probability": 0.1839017452755395,
+            "coverage": 0.7931450294152729,
+            "finish": null
+          },
+          {
+            "number": 9,
+            "name": "マーガレットクレア",
+            "status": "active",
+            "rank": 8,
+            "score": 43.96956490244128,
+            "probability": 0.052334505701426635,
+            "place_probability": 0.17391845491852012,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 11,
+            "name": "スーパーガール",
+            "status": "active",
+            "rank": 9,
+            "score": 43.87290409851035,
+            "probability": 0.051998343628289326,
+            "place_probability": 0.17329145843892357,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 14,
+            "name": "インヴェスター",
+            "status": "active",
+            "rank": 10,
+            "score": 43.271802082366506,
+            "probability": 0.049955789137578296,
+            "place_probability": 0.16943856835604626,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 12,
+            "name": "リアライズタキオン",
+            "status": "active",
+            "rank": 11,
+            "score": 42.94859905077081,
+            "probability": 0.048890911888427875,
+            "place_probability": 0.16739954478711241,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 8,
+            "name": "プレダトゥール",
+            "status": "active",
+            "rank": 12,
+            "score": 41.94721437423916,
+            "probability": 0.04573356763480436,
+            "place_probability": 0.1612243906029862,
+            "coverage": 0.6931450294152729,
+            "finish": null
+          },
+          {
+            "number": 15,
+            "name": "ダイオジェナイト",
+            "status": "active",
+            "rank": 13,
+            "score": 41.20859162241209,
+            "probability": 0.0435361241209297,
+            "place_probability": 0.15680502158150036,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 5,
+            "name": "アイファーファイト",
+            "status": "active",
+            "rank": 14,
+            "score": 39.75361027897826,
+            "probability": 0.03951152007296875,
+            "place_probability": 0.1484261203909338,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 1,
+            "name": "ウルトラハート",
+            "status": "active",
+            "rank": 15,
+            "score": 38.66524910961296,
+            "probability": 0.036746201710908026,
+            "place_probability": 0.14243315949608976,
+            "coverage": 0.7905230493383968,
+            "finish": null
+          },
+          {
+            "number": 4,
+            "name": "トップマジシャン",
+            "status": "active",
+            "rank": 16,
+            "score": 38.31163961364186,
+            "probability": 0.03589007874111542,
+            "place_probability": 0.14053524142717616,
+            "coverage": 0.7034329681914897,
+            "finish": null
+          }
+        ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計41.3%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": null,
+        "leaders": [
+          {
+            "number": 7,
+            "name": "ロードフロイデ",
+            "rank": 1,
+            "probability": 0.1451603293987138
+          },
+          {
+            "number": 10,
+            "name": "ゴーゴーパンチ",
+            "rank": 2,
+            "probability": 0.11177684083360864
+          },
+          {
+            "number": 3,
+            "name": "シュヴァルツシルト",
+            "rank": 3,
+            "probability": 0.0854426272977989
+          }
+        ]
+      },
+      {
+        "race_id": "202608040301",
+        "venue": "京都",
+        "number": 1,
+        "name": "2歳未勝利",
+        "start_time": "09:50",
+        "course": "ダート",
+        "distance": 1800,
+        "track_condition": "良",
+        "fixed": true,
+        "retrospective": false,
+        "winner": null,
+        "horses": [
+          {
+            "number": 2,
+            "name": "リヴァイアサン",
+            "status": "active",
+            "rank": 1,
+            "score": 41.160803762973465,
+            "probability": 0.11697400563073748,
+            "place_probability": 0.2823528951797383,
+            "coverage": 0.7274059968662919,
+            "finish": null
+          },
+          {
+            "number": 8,
+            "name": "フラッシングルビー",
+            "status": "active",
+            "rank": 2,
+            "score": 40.43269413617055,
+            "probability": 0.11143161610010287,
+            "place_probability": 0.27521191912822124,
+            "coverage": 0.741473242912121,
+            "finish": null
+          },
+          {
+            "number": 1,
+            "name": "ダンスコマンド",
+            "status": "active",
+            "rank": 3,
+            "score": 37.889692548002,
+            "probability": 0.09405480600932588,
+            "place_probability": 0.25142588479176037,
+            "coverage": 0.7274059968662919,
+            "finish": null
+          },
+          {
+            "number": 5,
+            "name": "バトゥル",
+            "status": "active",
+            "rank": 4,
+            "score": 34.89213789495638,
+            "probability": 0.07701811686573753,
+            "place_probability": 0.22564024470033928,
+            "coverage": 0.6274059968662918,
+            "finish": null
+          },
+          {
+            "number": 6,
+            "name": "ジョイザモーメント",
+            "status": "active",
+            "rank": 5,
+            "score": 33.27993698224272,
+            "probability": 0.06916954172877683,
+            "place_probability": 0.21274435874737682,
+            "coverage": 0.23392449348861133,
+            "finish": null
+          },
+          {
+            "number": 3,
+            "name": "サンライズビッグ",
+            "status": "active",
+            "rank": 6,
+            "score": 33.01824055914882,
+            "probability": 0.06797324617089713,
+            "place_probability": 0.21071340130553767,
+            "coverage": 0.26059032227019746,
+            "finish": null
+          },
+          {
+            "number": 14,
+            "name": "マコトブリッツ",
+            "status": "active",
+            "rank": 7,
+            "score": 31.764025445369047,
+            "probability": 0.06252083418639283,
+            "place_probability": 0.20121644150415008,
+            "coverage": 0.7274059968662919,
+            "finish": null
+          },
+          {
+            "number": 13,
+            "name": "コンヴィヴィアル",
+            "status": "active",
+            "rank": 8,
+            "score": 31.663874561777238,
+            "probability": 0.06210479018531526,
+            "place_probability": 0.2004747900117188,
+            "coverage": 0.26575677753591925,
+            "finish": null
+          },
+          {
+            "number": 11,
+            "name": "バヤールロック",
+            "status": "active",
+            "rank": 9,
+            "score": 31.45217341177195,
+            "probability": 0.06123443609747198,
+            "place_probability": 0.19891510498914122,
+            "coverage": 0.7274059968662919,
+            "finish": null
+          },
+          {
+            "number": 10,
+            "name": "ジェルメーヌ",
+            "status": "active",
+            "rank": 10,
+            "score": 31.014291462871054,
+            "probability": 0.059472711831890554,
+            "place_probability": 0.19572348179115373,
+            "coverage": 0.27679742166540694,
+            "finish": null
+          },
+          {
+            "number": 4,
+            "name": "レイルジェット",
+            "status": "active",
+            "rank": 11,
+            "score": 30.622459331052237,
+            "probability": 0.057939272754115444,
+            "place_probability": 0.19290654539205887,
+            "coverage": 0.27679742166540694,
+            "finish": null
+          },
+          {
+            "number": 7,
+            "name": "ノヴァアクレイム",
+            "status": "active",
+            "rank": 12,
+            "score": 30.17389175755259,
+            "probability": 0.056232278111911206,
+            "place_probability": 0.18972655901369423,
+            "coverage": 0.27679742166540694,
+            "finish": null
+          },
+          {
+            "number": 12,
+            "name": "エヴァサンライズ",
+            "status": "active",
+            "rank": 13,
+            "score": 29.509559349269406,
+            "probability": 0.053796161037254465,
+            "place_probability": 0.18510386702897338,
+            "coverage": 0.6396081567243342,
+            "finish": null
+          },
+          {
+            "number": 9,
+            "name": "パクスフェリーチェ",
+            "status": "active",
+            "rank": 14,
+            "score": 28.43530947237247,
+            "probability": 0.0500781832900705,
+            "place_probability": 0.17784450641613578,
+            "coverage": 0.27679742166540694,
+            "finish": null
+          }
+        ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計39.9%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": null,
+        "leaders": [
+          {
+            "number": 2,
+            "name": "リヴァイアサン",
+            "rank": 1,
+            "probability": 0.11697400563073748
+          },
+          {
+            "number": 8,
+            "name": "フラッシングルビー",
+            "rank": 2,
+            "probability": 0.11143161610010287
+          },
+          {
+            "number": 1,
+            "name": "ダンスコマンド",
+            "rank": 3,
+            "probability": 0.09405480600932588
+          }
+        ]
+      },
+      {
+        "race_id": "202608040302",
+        "venue": "京都",
+        "number": 2,
+        "name": "2歳未勝利",
+        "start_time": "10:20",
+        "course": "芝",
+        "distance": 1600,
+        "track_condition": "良",
+        "fixed": true,
+        "retrospective": false,
+        "winner": null,
+        "horses": [
+          {
+            "number": 4,
+            "name": "アヴレディール",
+            "status": "active",
+            "rank": 1,
+            "score": 50.82701895368072,
+            "probability": 0.17475859099287985,
+            "place_probability": 0.4241774517380692,
+            "coverage": 0.6602018771028865,
+            "finish": null
+          },
+          {
+            "number": 2,
+            "name": "コンセルノ",
+            "status": "active",
+            "rank": 2,
+            "score": 47.30762309866872,
+            "probability": 0.13821067496044204,
+            "place_probability": 0.3787308352547243,
+            "coverage": 0.6587512051630168,
+            "finish": null
+          },
+          {
+            "number": 5,
+            "name": "ジョリーエピキュア",
+            "status": "active",
+            "rank": 3,
+            "score": 46.510047124545906,
+            "probability": 0.13105373364312106,
+            "place_probability": 0.36888318653568375,
+            "coverage": 0.5587512051630168,
+            "finish": null
+          },
+          {
+            "number": 1,
+            "name": "ダノンキューブ",
+            "status": "active",
+            "rank": 4,
+            "score": 46.2551925343007,
+            "probability": 0.1288458996030505,
+            "place_probability": 0.36577342002866453,
+            "coverage": 0.6548840092084293,
+            "finish": null
+          },
+          {
+            "number": 7,
+            "name": "マリナーヴァレイ",
+            "status": "active",
+            "rank": 5,
+            "score": 44.915848728573444,
+            "probability": 0.11783997105411227,
+            "place_probability": 0.3497297094026633,
+            "coverage": 0.5534333372685595,
+            "finish": null
+          },
+          {
+            "number": 8,
+            "name": "バティック",
+            "status": "active",
+            "rank": 6,
+            "score": 44.15812017653902,
+            "probability": 0.11203510836452919,
+            "place_probability": 0.34087877347385914,
+            "coverage": 0.5534333372685595,
+            "finish": null
+          },
+          {
+            "number": 3,
+            "name": "イーサンマリーン",
+            "status": "active",
+            "rank": 7,
+            "score": 37.83670793297903,
+            "probability": 0.0735073063066359,
+            "place_probability": 0.2735390384875709,
+            "coverage": 0.5587512051630168,
+            "finish": null
+          },
+          {
+            "number": 9,
+            "name": "ルージュプリメーロ",
+            "status": "active",
+            "rank": 8,
+            "score": 36.30112991714978,
+            "probability": 0.06635459013968105,
+            "place_probability": 0.2589281234455246,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          },
+          {
+            "number": 6,
+            "name": "リヴィエラヴィル",
+            "status": "active",
+            "rank": 9,
+            "score": 34.125065006534165,
+            "probability": 0.05739412493554807,
+            "place_probability": 0.23935946163324062,
+            "coverage": 0.5534333372685595,
+            "finish": null
+          }
+        ],
+        "betting": {
+          "label": "上位4頭BOX・馬連＋3連複",
+          "reason": "上位4頭の勝率合計57.3%（基準55%以上）、明確な軸なし",
+          "tickets": [
+            {
+              "kind": "quinella",
+              "numbers": [
+                2,
+                4
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                4,
+                5
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                1,
+                4
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                2,
+                5
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                1,
+                2
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                1,
+                5
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "trio",
+              "numbers": [
+                2,
+                4,
+                5
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "trio",
+              "numbers": [
+                1,
+                2,
+                4
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "trio",
+              "numbers": [
+                1,
+                4,
+                5
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "trio",
+              "numbers": [
+                1,
+                2,
+                5
+              ],
+              "amount": 100
+            }
+          ]
+        },
+        "going_note": null,
+        "leaders": [
+          {
+            "number": 4,
+            "name": "アヴレディール",
+            "rank": 1,
+            "probability": 0.17475859099287985
+          },
+          {
+            "number": 2,
+            "name": "コンセルノ",
+            "rank": 2,
+            "probability": 0.13821067496044204
+          },
+          {
+            "number": 5,
+            "name": "ジョリーエピキュア",
+            "rank": 3,
+            "probability": 0.13105373364312106
+          }
+        ]
+      },
+      {
+        "race_id": "202608040303",
+        "venue": "京都",
+        "number": 3,
+        "name": "2歳未勝利",
+        "start_time": "10:50",
+        "course": "芝",
+        "distance": 1800,
+        "track_condition": "良",
+        "fixed": true,
+        "retrospective": false,
+        "winner": null,
+        "horses": [
+          {
+            "number": 4,
+            "name": "アイオリスパルス",
+            "status": "active",
+            "rank": 1,
+            "score": 52.176759868378696,
+            "probability": 0.24218871648249637,
+            "place_probability": 0.5266366056284384,
+            "coverage": 0.6587512051630168,
+            "finish": null
+          },
+          {
+            "number": 8,
+            "name": "プレシャスタイム",
+            "status": "active",
+            "rank": 2,
+            "score": 49.61025814996165,
+            "probability": 0.20410144055382046,
+            "place_probability": 0.48928991804363675,
+            "coverage": 0.6534333372685596,
+            "finish": null
+          },
+          {
+            "number": 2,
+            "name": "ジャンゴッド",
+            "status": "active",
+            "rank": 3,
+            "score": 42.19374742062955,
+            "probability": 0.12448473267232513,
+            "place_probability": 0.38816859665172015,
+            "coverage": 0.5587512051630168,
+            "finish": null
+          },
+          {
+            "number": 5,
+            "name": "シャーロットタウン",
+            "status": "active",
+            "rank": 4,
+            "score": 40.629177792374605,
+            "probability": 0.11215461802804055,
+            "place_probability": 0.3685713197091707,
+            "coverage": 0.5534333372685595,
+            "finish": null
+          },
+          {
+            "number": 6,
+            "name": "ドーンレーサー",
+            "status": "active",
+            "rank": 5,
+            "score": 39.59835009765302,
+            "probability": 0.10470601761406566,
+            "place_probability": 0.3560375484811498,
+            "coverage": 0.6602018771028865,
+            "finish": null
+          },
+          {
+            "number": 1,
+            "name": "ダイヴ",
+            "status": "active",
+            "rank": 6,
+            "score": 34.86430766407171,
+            "probability": 0.07636723646737713,
+            "place_probability": 0.30247954034972313,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          },
+          {
+            "number": 7,
+            "name": "ロックウイズミー",
+            "status": "active",
+            "rank": 7,
+            "score": 33.6219525198001,
+            "probability": 0.07029706764021135,
+            "place_probability": 0.28952706707341425,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          },
+          {
+            "number": 3,
+            "name": "メイショウリベロ",
+            "status": "active",
+            "rank": 8,
+            "score": 32.607524050681654,
+            "probability": 0.06570017054166338,
+            "place_probability": 0.279289404062747,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          }
+        ],
+        "betting": {
+          "label": "上位4頭BOX・馬連＋3連複",
+          "reason": "上位4頭の勝率合計68.3%（基準55%以上）、明確な軸なし",
+          "tickets": [
+            {
+              "kind": "quinella",
+              "numbers": [
+                4,
+                8
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                2,
+                4
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                4,
+                5
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                2,
+                8
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                5,
+                8
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                2,
+                5
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "trio",
+              "numbers": [
+                2,
+                4,
+                8
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "trio",
+              "numbers": [
+                4,
+                5,
+                8
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "trio",
+              "numbers": [
+                2,
+                4,
+                5
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "trio",
+              "numbers": [
+                2,
+                5,
+                8
+              ],
+              "amount": 100
+            }
+          ]
+        },
+        "going_note": null,
+        "leaders": [
+          {
+            "number": 4,
+            "name": "アイオリスパルス",
+            "rank": 1,
+            "probability": 0.24218871648249637
+          },
+          {
+            "number": 8,
+            "name": "プレシャスタイム",
+            "rank": 2,
+            "probability": 0.20410144055382046
+          },
+          {
+            "number": 2,
+            "name": "ジャンゴッド",
+            "rank": 3,
+            "probability": 0.12448473267232513
+          }
+        ]
+      },
+      {
+        "race_id": "202608040304",
+        "venue": "京都",
+        "number": 4,
+        "name": "3歳以上障害OP",
+        "start_time": "11:20",
+        "course": "障",
+        "distance": 3170,
+        "track_condition": "良",
+        "fixed": false,
+        "retrospective": false,
+        "winner": null,
+        "horses": [],
+        "betting": null,
+        "going_note": null,
+        "leaders": []
+      },
+      {
+        "race_id": "202608040305",
+        "venue": "京都",
+        "number": 5,
+        "name": "2歳新馬",
+        "start_time": "12:10",
+        "course": "芝",
+        "distance": 1600,
+        "track_condition": "良",
+        "fixed": true,
+        "retrospective": false,
+        "winner": null,
+        "horses": [
+          {
+            "number": 8,
+            "name": "キューティボンド",
+            "status": "active",
+            "rank": 1,
+            "score": 57.46588321122254,
+            "probability": 0.11932045104824895,
+            "place_probability": 0.28452263482718787,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          },
+          {
+            "number": 2,
+            "name": "ハニーベル",
+            "status": "active",
+            "rank": 2,
+            "score": 53.716494799258,
+            "probability": 0.09293064965379702,
+            "place_probability": 0.24909685574332702,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          },
+          {
+            "number": 1,
+            "name": "サラサランラン",
+            "status": "active",
+            "rank": 3,
+            "score": 51.64446319347228,
+            "probability": 0.08094080394037745,
+            "place_probability": 0.23116349564604474,
+            "coverage": 0.20590116679456152,
+            "finish": null
+          },
+          {
+            "number": 6,
+            "name": "ドンクラッシュ",
+            "status": "active",
+            "rank": 4,
+            "score": 51.45929315553598,
+            "probability": 0.07994775851084547,
+            "place_probability": 0.22961631657860065,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          },
+          {
+            "number": 4,
+            "name": "アイデア",
+            "status": "active",
+            "rank": 5,
+            "score": 49.93046005837202,
+            "probability": 0.07220080506145854,
+            "place_probability": 0.2171827075763624,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          },
+          {
+            "number": 9,
+            "name": "モズモーク",
+            "status": "active",
+            "rank": 6,
+            "score": 49.541762175130316,
+            "probability": 0.07035388486914193,
+            "place_probability": 0.2141171424238677,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          },
+          {
+            "number": 13,
+            "name": "ワールドプラージュ",
+            "status": "active",
+            "rank": 7,
+            "score": 49.408810908432265,
+            "probability": 0.06973306435520919,
+            "place_probability": 0.21307737016724781,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          },
+          {
+            "number": 3,
+            "name": "クインズアンジェロ",
+            "status": "active",
+            "rank": 8,
+            "score": 48.60946066181467,
+            "probability": 0.06611426743837996,
+            "place_probability": 0.2069194289517626,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          },
+          {
+            "number": 7,
+            "name": "トゥルーライフ",
+            "status": "active",
+            "rank": 9,
+            "score": 48.21085033785484,
+            "probability": 0.06438048429182108,
+            "place_probability": 0.20390805465510942,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          },
+          {
+            "number": 5,
+            "name": "ハクサンゲント",
+            "status": "active",
+            "rank": 10,
+            "score": 47.845988566796066,
+            "probability": 0.06283337806737187,
+            "place_probability": 0.20118590922987062,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          },
+          {
+            "number": 14,
+            "name": "ジョワイエトワール",
+            "status": "active",
+            "rank": 11,
+            "score": 47.402263333471105,
+            "probability": 0.061001883939201106,
+            "place_probability": 0.19791913917350776,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          },
+          {
+            "number": 11,
+            "name": "マリアーナ",
+            "status": "active",
+            "rank": 12,
+            "score": 46.29041567949171,
+            "probability": 0.05664374525283968,
+            "place_probability": 0.18994149974468302,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          },
+          {
+            "number": 10,
+            "name": "テンカ",
+            "status": "active",
+            "rank": 13,
+            "score": 45.47343360732501,
+            "probability": 0.053641128657678734,
+            "place_probability": 0.18426560087819488,
+            "coverage": 0.21348405249591723,
+            "finish": null
+          },
+          {
+            "number": 12,
+            "name": "ドマ",
+            "status": "active",
+            "rank": 14,
+            "score": 44.40634029760652,
+            "probability": 0.0499576949136291,
+            "place_probability": 0.17708384440423303,
+            "coverage": 0.21622631485744645,
+            "finish": null
+          }
+        ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計37.3%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": null,
+        "leaders": [
+          {
+            "number": 8,
+            "name": "キューティボンド",
+            "rank": 1,
+            "probability": 0.11932045104824895
+          },
+          {
+            "number": 2,
+            "name": "ハニーベル",
+            "rank": 2,
+            "probability": 0.09293064965379702
+          },
+          {
+            "number": 1,
+            "name": "サラサランラン",
+            "rank": 3,
+            "probability": 0.08094080394037745
+          }
+        ]
+      },
+      {
+        "race_id": "202608040306",
+        "venue": "京都",
+        "number": 6,
+        "name": "2歳新馬",
+        "start_time": "12:40",
+        "course": "ダート",
+        "distance": 1200,
+        "track_condition": "良",
+        "fixed": true,
+        "retrospective": false,
+        "winner": null,
+        "horses": [
+          {
+            "number": 9,
+            "name": "ライフイズアソング",
+            "status": "active",
+            "rank": 1,
+            "score": 55.2271225408623,
+            "probability": 0.13746742567090597,
+            "place_probability": 0.3410269958309276,
+            "coverage": 0.26059032227019746,
+            "finish": null
+          },
+          {
+            "number": 4,
+            "name": "カンソウシタイナ",
+            "status": "active",
+            "rank": 2,
+            "score": 52.46409175385346,
+            "probability": 0.1143409680666485,
+            "place_probability": 0.31032031818830735,
+            "coverage": 0.27679742166540694,
+            "finish": null
+          },
+          {
+            "number": 7,
+            "name": "ロマノフ",
+            "status": "active",
+            "rank": 3,
+            "score": 52.18352346310784,
+            "probability": 0.11222214895752859,
+            "place_probability": 0.3073240171931444,
+            "coverage": 0.24954967814070977,
+            "finish": null
+          },
+          {
+            "number": 6,
+            "name": "スカイランデヴー",
+            "status": "active",
+            "rank": 4,
+            "score": 50.27124282037353,
+            "probability": 0.09878986351247213,
+            "place_probability": 0.28750204973760835,
+            "coverage": 0.27679742166540694,
+            "finish": null
+          },
+          {
+            "number": 2,
+            "name": "シムサラビン",
+            "status": "active",
+            "rank": 5,
+            "score": 49.80065904775098,
+            "probability": 0.09573871402803243,
+            "place_probability": 0.28278429331808264,
+            "coverage": 0.26059032227019746,
+            "finish": null
+          },
+          {
+            "number": 5,
+            "name": "ヴァルクシェル",
+            "status": "active",
+            "rank": 6,
+            "score": 47.1824154919577,
+            "probability": 0.08040474417280354,
+            "place_probability": 0.2576791920542835,
+            "coverage": 0.27679742166540694,
+            "finish": null
+          },
+          {
+            "number": 1,
+            "name": "マイスターシューズ",
+            "status": "active",
+            "rank": 7,
+            "score": 47.05611264759999,
+            "probability": 0.07973056332874308,
+            "place_probability": 0.25651668021367335,
+            "coverage": 0.27679742166540694,
+            "finish": null
+          },
+          {
+            "number": 3,
+            "name": "メイショウソウハ",
+            "status": "active",
+            "rank": 8,
+            "score": 46.873721864675026,
+            "probability": 0.07876695896176758,
+            "place_probability": 0.25484572702053954,
+            "coverage": 0.27679742166540694,
+            "finish": null
+          },
+          {
+            "number": 11,
+            "name": "カムトゥルー",
+            "status": "active",
+            "rank": 9,
+            "score": 46.85310093270507,
+            "probability": 0.07865875015087823,
+            "place_probability": 0.25465738985214403,
+            "coverage": 0.27679742166540694,
+            "finish": null
+          },
+          {
+            "number": 10,
+            "name": "ワンダリングスター",
+            "status": "active",
+            "rank": 10,
+            "score": 43.459214856365094,
+            "probability": 0.06273125484801823,
+            "place_probability": 0.22523648925207604,
+            "coverage": 0.27679742166540694,
+            "finish": null
+          },
+          {
+            "number": 8,
+            "name": "メイショウビジュー",
+            "status": "active",
+            "rank": 11,
+            "score": 43.07592431523545,
+            "probability": 0.061148608302201694,
+            "place_probability": 0.2221068473392136,
+            "coverage": 0.26059032227019746,
+            "finish": null
+          }
+        ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計46.3%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": null,
+        "leaders": [
+          {
+            "number": 9,
+            "name": "ライフイズアソング",
+            "rank": 1,
+            "probability": 0.13746742567090597
+          },
+          {
+            "number": 4,
+            "name": "カンソウシタイナ",
+            "rank": 2,
+            "probability": 0.1143409680666485
+          },
+          {
+            "number": 7,
+            "name": "ロマノフ",
+            "rank": 3,
+            "probability": 0.11222214895752859
+          }
+        ]
+      },
+      {
+        "race_id": "202608040307",
+        "venue": "京都",
+        "number": 7,
+        "name": "3歳以上1勝クラス",
+        "start_time": "13:10",
+        "course": "ダート",
+        "distance": 1800,
+        "track_condition": "良",
+        "fixed": true,
+        "retrospective": false,
+        "winner": null,
+        "horses": [
+          {
+            "number": 16,
+            "name": "ドリームキャリー",
+            "status": "active",
+            "rank": 1,
+            "score": 61.75867777364241,
+            "probability": 0.13832024138266927,
+            "place_probability": 0.29315932277361795,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 7,
+            "name": "ガールズデイアウト",
+            "status": "active",
+            "rank": 2,
+            "score": 56.17509874391914,
+            "probability": 0.09532889684663484,
+            "place_probability": 0.24054702441493986,
+            "coverage": 0.7931450294152729,
+            "finish": null
+          },
+          {
+            "number": 14,
+            "name": "シュネルアンジュ",
+            "status": "active",
+            "rank": 3,
+            "score": 53.50765365358593,
+            "probability": 0.07979838864283705,
+            "place_probability": 0.21837513497332717,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 13,
+            "name": "レディーゴール",
+            "status": "active",
+            "rank": 4,
+            "score": 51.92648760590041,
+            "probability": 0.07181491914186763,
+            "place_probability": 0.20609309915591,
+            "coverage": 0.6874640725820415,
+            "finish": null
+          },
+          {
+            "number": 15,
+            "name": "ヒメモモアスク",
+            "status": "active",
+            "rank": 5,
+            "score": 50.01337397829582,
+            "probability": 0.06321561436995522,
+            "place_probability": 0.1920552874270744,
+            "coverage": 0.7931450294152729,
+            "finish": null
+          },
+          {
+            "number": 11,
+            "name": "リーチグローリー",
+            "status": "active",
+            "rank": 6,
+            "score": 49.83533687993772,
+            "probability": 0.06246973463159873,
+            "place_probability": 0.19079352999707924,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 6,
+            "name": "オヤツノジカン",
+            "status": "active",
+            "rank": 7,
+            "score": 48.7726118923186,
+            "probability": 0.05819700314485002,
+            "place_probability": 0.18341622024474,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 9,
+            "name": "アンリーベイビー",
+            "status": "active",
+            "rank": 8,
+            "score": 47.89618433811368,
+            "probability": 0.05489407161014646,
+            "place_probability": 0.17752768329627297,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 10,
+            "name": "フェロニエール",
+            "status": "active",
+            "rank": 9,
+            "score": 47.665961649804615,
+            "probability": 0.054057980214090876,
+            "place_probability": 0.17600965922611425,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 4,
+            "name": "エイコーンドリーム",
+            "status": "active",
+            "rank": 10,
+            "score": 47.19877199665372,
+            "probability": 0.05240024156545273,
+            "place_probability": 0.1729654841208607,
+            "coverage": 0.7931450294152729,
+            "finish": null
+          },
+          {
+            "number": 5,
+            "name": "クイーンズホリデー",
+            "status": "active",
+            "rank": 11,
+            "score": 46.77355637850076,
+            "probability": 0.050935671502188924,
+            "place_probability": 0.17023673276673645,
+            "coverage": 0.7931450294152729,
+            "finish": null
+          },
+          {
+            "number": 2,
+            "name": "シャフメラン",
+            "status": "active",
+            "rank": 12,
+            "score": 46.090166434665704,
+            "probability": 0.04866714510313437,
+            "place_probability": 0.16593376132539878,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 12,
+            "name": "アーデルリーベ",
+            "status": "active",
+            "rank": 13,
+            "score": 45.927900792496544,
+            "probability": 0.048143515409613105,
+            "place_probability": 0.1649268441476363,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 8,
+            "name": "オーケーリアン",
+            "status": "active",
+            "rank": 14,
+            "score": 45.6734417680757,
+            "probability": 0.047333700192026776,
+            "place_probability": 0.1633591518787806,
+            "coverage": 0.7931450294152729,
+            "finish": null
+          },
+          {
+            "number": 1,
+            "name": "ブラックドレス",
+            "status": "active",
+            "rank": 15,
+            "score": 43.71701949319776,
+            "probability": 0.04154571419225045,
+            "place_probability": 0.1517577765565475,
+            "coverage": 0.7931450294152729,
+            "finish": null
+          },
+          {
+            "number": 3,
+            "name": "リアンクトワ",
+            "status": "active",
+            "rank": 16,
+            "score": 40.206777788527994,
+            "probability": 0.03287716205068353,
+            "place_probability": 0.1328432876949642,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          }
+        ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計38.5%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": null,
+        "leaders": [
+          {
+            "number": 16,
+            "name": "ドリームキャリー",
+            "rank": 1,
+            "probability": 0.13832024138266927
+          },
+          {
+            "number": 7,
+            "name": "ガールズデイアウト",
+            "rank": 2,
+            "probability": 0.09532889684663484
+          },
+          {
+            "number": 14,
+            "name": "シュネルアンジュ",
+            "rank": 3,
+            "probability": 0.07979838864283705
+          }
+        ]
+      },
+      {
+        "race_id": "202608040308",
+        "venue": "京都",
+        "number": 8,
+        "name": "紫菊賞",
+        "start_time": "13:40",
+        "course": "芝",
+        "distance": 2000,
+        "track_condition": "良",
+        "fixed": true,
+        "retrospective": false,
+        "winner": null,
+        "horses": [
+          {
+            "number": 6,
+            "name": "ドラゴンバルド",
+            "status": "active",
+            "rank": 1,
+            "score": 53.530371290314626,
+            "probability": 0.19927906004774965,
+            "place_probability": 0.5422343730987487,
+            "coverage": 0.6587512051630168,
+            "finish": null
+          },
+          {
+            "number": 3,
+            "name": "ポルトブルー",
+            "status": "active",
+            "rank": 2,
+            "score": 53.38888845967803,
+            "probability": 0.19740825909124993,
+            "place_probability": 0.5400949678597822,
+            "coverage": 0.5534333372685595,
+            "finish": null
+          },
+          {
+            "number": 4,
+            "name": "ゴーイントゥノヴァ",
+            "status": "active",
+            "rank": 3,
+            "score": 51.0943838140948,
+            "probability": 0.1694074888147269,
+            "place_probability": 0.505667694084726,
+            "coverage": 0.6587512051630168,
+            "finish": null
+          },
+          {
+            "number": 5,
+            "name": "ビップヴィーナス",
+            "status": "active",
+            "rank": 4,
+            "score": 49.38508373936016,
+            "probability": 0.15116223300084208,
+            "place_probability": 0.4804873748256735,
+            "coverage": 0.5558422859728863,
+            "finish": null
+          },
+          {
+            "number": 2,
+            "name": "ホウオウワールド",
+            "status": "active",
+            "rank": 5,
+            "score": 49.05724677159395,
+            "probability": 0.14789430348038196,
+            "place_probability": 0.4757164893576977,
+            "coverage": 0.6534333372685596,
+            "finish": null
+          },
+          {
+            "number": 1,
+            "name": "ニシノフランケン",
+            "status": "active",
+            "rank": 6,
+            "score": 47.6720751725106,
+            "probability": 0.1348486555650495,
+            "place_probability": 0.4557991007733718,
+            "coverage": 0.5548840092084293,
+            "finish": null
+          }
+        ],
+        "betting": {
+          "label": "上位4頭BOX・馬連＋3連複",
+          "reason": "上位4頭の勝率合計71.7%（基準55%以上）、明確な軸なし",
+          "tickets": [
+            {
+              "kind": "quinella",
+              "numbers": [
+                3,
+                6
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                4,
+                6
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                5,
+                6
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                3,
+                4
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                3,
+                5
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "quinella",
+              "numbers": [
+                4,
+                5
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "trio",
+              "numbers": [
+                3,
+                4,
+                6
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "trio",
+              "numbers": [
+                3,
+                5,
+                6
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "trio",
+              "numbers": [
+                4,
+                5,
+                6
+              ],
+              "amount": 100
+            },
+            {
+              "kind": "trio",
+              "numbers": [
+                3,
+                4,
+                5
+              ],
+              "amount": 100
+            }
+          ]
+        },
+        "going_note": null,
+        "leaders": [
+          {
+            "number": 6,
+            "name": "ドラゴンバルド",
+            "rank": 1,
+            "probability": 0.19927906004774965
+          },
+          {
+            "number": 3,
+            "name": "ポルトブルー",
+            "rank": 2,
+            "probability": 0.19740825909124993
+          },
+          {
+            "number": 4,
+            "name": "ゴーイントゥノヴァ",
+            "rank": 3,
+            "probability": 0.1694074888147269
+          }
+        ]
+      },
+      {
+        "race_id": "202608040309",
+        "venue": "京都",
+        "number": 9,
+        "name": "3歳以上1勝クラス",
+        "start_time": "14:15",
+        "course": "ダート",
+        "distance": 1400,
+        "track_condition": "良",
+        "fixed": true,
+        "retrospective": false,
+        "winner": null,
+        "horses": [
+          {
+            "number": 2,
+            "name": "アパレイユ",
+            "status": "active",
+            "rank": 1,
+            "score": 51.62794827726594,
+            "probability": 0.09310886393358028,
+            "place_probability": 0.235409581145255,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 9,
+            "name": "オウケンブラッド",
+            "status": "active",
+            "rank": 2,
+            "score": 51.38737092919019,
+            "probability": 0.09162744993968008,
+            "place_probability": 0.23337183772581596,
+            "coverage": 0.7034329681914897,
+            "finish": null
+          },
+          {
+            "number": 4,
+            "name": "マテンロウミラクル",
+            "status": "active",
+            "rank": 3,
+            "score": 49.252300673301626,
+            "probability": 0.07947105613206168,
+            "place_probability": 0.2159465575030512,
+            "coverage": 0.7931450294152729,
+            "finish": null
+          },
+          {
+            "number": 7,
+            "name": "グランデスフィーダ",
+            "status": "active",
+            "rank": 4,
+            "score": 49.211039976149955,
+            "probability": 0.07925275443375805,
+            "place_probability": 0.21562131681560878,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 16,
+            "name": "フィアーブル",
+            "status": "active",
+            "rank": 5,
+            "score": 47.693790639616616,
+            "probability": 0.07162844077656948,
+            "place_probability": 0.20395747594451333,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 10,
+            "name": "サトノロザリー",
+            "status": "active",
+            "rank": 6,
+            "score": 46.550533872690465,
+            "probability": 0.06637198765818278,
+            "place_probability": 0.1955424612674344,
+            "coverage": 0.7034329681914897,
+            "finish": null
+          },
+          {
+            "number": 14,
+            "name": "モズイージス",
+            "status": "active",
+            "rank": 7,
+            "score": 46.09760540980072,
+            "probability": 0.06439782530550342,
+            "place_probability": 0.19229552446977055,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 6,
+            "name": "テーオーパーセル",
+            "status": "active",
+            "rank": 8,
+            "score": 44.25090165894468,
+            "probability": 0.05693818926571716,
+            "place_probability": 0.17955402367050832,
+            "coverage": 0.7007813612210897,
+            "finish": null
+          },
+          {
+            "number": 5,
+            "name": "ケイエイト",
+            "status": "active",
+            "rank": 9,
+            "score": 44.238212262384216,
+            "probability": 0.05689004221628682,
+            "place_probability": 0.1794691835575405,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 12,
+            "name": "エシェックオロワ",
+            "status": "active",
+            "rank": 10,
+            "score": 44.106994585254675,
+            "probability": 0.05639454735282525,
+            "place_probability": 0.1785940096467435,
+            "coverage": 0.7931450294152729,
+            "finish": null
+          },
+          {
+            "number": 3,
+            "name": "チャチャピンク",
+            "status": "active",
+            "rank": 11,
+            "score": 43.16550735685285,
+            "probability": 0.0529636940270447,
+            "place_probability": 0.17242780097433247,
+            "coverage": 0.8008109881146137,
+            "finish": null
+          },
+          {
+            "number": 8,
+            "name": "エナジーガンツ",
+            "status": "active",
+            "rank": 12,
+            "score": 42.423043992502116,
+            "probability": 0.050405943909648226,
+            "place_probability": 0.1677030446493396,
+            "coverage": 0.7034329681914897,
+            "finish": null
+          },
+          {
+            "number": 11,
+            "name": "ウォーターパラディ",
+            "status": "active",
+            "rank": 13,
+            "score": 41.72957983391298,
+            "probability": 0.048128675269718556,
+            "place_probability": 0.16339773608230695,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 1,
+            "name": "デュアルロール",
+            "status": "active",
+            "rank": 14,
+            "score": 40.932766100168706,
+            "probability": 0.04563875488275439,
+            "place_probability": 0.15857663163551303,
+            "coverage": 0.7034329681914897,
+            "finish": null
+          },
+          {
+            "number": 13,
+            "name": "ナムラドロン",
+            "status": "active",
+            "rank": 15,
+            "score": 40.884145847742474,
+            "probability": 0.04549106318679283,
+            "place_probability": 0.158286751770891,
+            "coverage": 0.6874640725820415,
+            "finish": null
+          },
+          {
+            "number": 15,
+            "name": "リアルアルバ",
+            "status": "active",
+            "rank": 16,
+            "score": 39.430971099035034,
+            "probability": 0.04129071170987628,
+            "place_probability": 0.1498460631413759,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          }
+        ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計34.3%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": null,
+        "leaders": [
+          {
+            "number": 2,
+            "name": "アパレイユ",
+            "rank": 1,
+            "probability": 0.09310886393358028
+          },
+          {
+            "number": 9,
+            "name": "オウケンブラッド",
+            "rank": 2,
+            "probability": 0.09162744993968008
+          },
+          {
+            "number": 4,
+            "name": "マテンロウミラクル",
+            "rank": 3,
+            "probability": 0.07947105613206168
+          }
+        ]
+      },
+      {
+        "race_id": "202608040310",
+        "venue": "京都",
+        "number": 10,
+        "name": "宇治川特別",
+        "start_time": "14:50",
+        "course": "芝",
+        "distance": 1400,
+        "track_condition": "良",
+        "fixed": true,
+        "retrospective": false,
+        "winner": null,
+        "horses": [
+          {
+            "number": 11,
+            "name": "マーゴットラヴミー",
+            "status": "active",
+            "rank": 1,
+            "score": 60.445972574047964,
+            "probability": 0.10897223481423353,
+            "place_probability": 0.26569912192936146,
+            "coverage": 0.8721794210799177,
+            "finish": null
+          },
+          {
+            "number": 15,
+            "name": "ワンコールアウェイ",
+            "status": "active",
+            "rank": 2,
+            "score": 59.4823400122868,
+            "probability": 0.1021917502126666,
+            "place_probability": 0.25674603099456245,
+            "coverage": 0.8721794210799177,
+            "finish": null
+          },
+          {
+            "number": 2,
+            "name": "ノボリリア",
+            "status": "active",
+            "rank": 3,
+            "score": 57.84117304259237,
+            "probability": 0.09160078314018569,
+            "place_probability": 0.24208062234239935,
+            "coverage": 0.8721794210799177,
+            "finish": null
+          },
+          {
+            "number": 3,
+            "name": "ブルーサンセット",
+            "status": "active",
+            "rank": 4,
+            "score": 56.23807342077685,
+            "probability": 0.08231608343616106,
+            "place_probability": 0.22845116055628656,
+            "coverage": 0.8721794210799177,
+            "finish": null
+          },
+          {
+            "number": 1,
+            "name": "タガノアンファン",
+            "status": "active",
+            "rank": 5,
+            "score": 55.81183278866699,
+            "probability": 0.08000990751530701,
+            "place_probability": 0.22494085166704797,
+            "coverage": 0.8721794210799177,
+            "finish": null
+          },
+          {
+            "number": 6,
+            "name": "エルハーベン",
+            "status": "active",
+            "rank": 6,
+            "score": 54.207197789369346,
+            "probability": 0.07189270536732942,
+            "place_probability": 0.21214477310185206,
+            "coverage": 0.8721794210799177,
+            "finish": null
+          },
+          {
+            "number": 9,
+            "name": "ヒーローインチーフ",
+            "status": "active",
+            "rank": 7,
+            "score": 52.94269596717847,
+            "probability": 0.06608056522663365,
+            "place_probability": 0.20251772504492138,
+            "coverage": 0.8721794210799177,
+            "finish": null
+          },
+          {
+            "number": 13,
+            "name": "タナスーペルノーバ",
+            "status": "active",
+            "rank": 8,
+            "score": 52.80807063472471,
+            "probability": 0.06549014417340804,
+            "place_probability": 0.20151601014056952,
+            "coverage": 0.8721794210799177,
+            "finish": null
+          },
+          {
+            "number": 14,
+            "name": "キングケープ",
+            "status": "active",
+            "rank": 9,
+            "score": 52.430536618940884,
+            "probability": 0.0638623972863114,
+            "place_probability": 0.1987304160395397,
+            "coverage": 0.8721794210799177,
+            "finish": null
+          },
+          {
+            "number": 12,
+            "name": "テーオーシュタイン",
+            "status": "active",
+            "rank": 10,
+            "score": 51.77045801774124,
+            "probability": 0.061113053578724263,
+            "place_probability": 0.1939427865467474,
+            "coverage": 0.8721794210799177,
+            "finish": null
+          },
+          {
+            "number": 10,
+            "name": "ヤマニンレセディ",
+            "status": "active",
+            "rank": 11,
+            "score": 50.617735142925945,
+            "probability": 0.05659254680028009,
+            "place_probability": 0.18583009467132955,
+            "coverage": 0.8721794210799177,
+            "finish": null
+          },
+          {
+            "number": 7,
+            "name": "アイルドリアン",
+            "status": "active",
+            "rank": 12,
+            "score": 48.0401487312952,
+            "probability": 0.047657413504086664,
+            "place_probability": 0.16879212253389053,
+            "coverage": 0.8721794210799177,
+            "finish": null
+          },
+          {
+            "number": 4,
+            "name": "プチプラージュ",
+            "status": "active",
+            "rank": 13,
+            "score": 44.08545430418879,
+            "probability": 0.036612580297211976,
+            "place_probability": 0.1454260323680108,
+            "coverage": 0.8721794210799177,
+            "finish": null
+          },
+          {
+            "number": 5,
+            "name": "アスゴッド",
+            "status": "active",
+            "rank": 14,
+            "score": 42.920767962709704,
+            "probability": 0.03387733305215823,
+            "place_probability": 0.13914124902292357,
+            "coverage": 0.8721794210799177,
+            "finish": null
+          },
+          {
+            "number": 8,
+            "name": "ウチュウノセカイ",
+            "status": "active",
+            "rank": 15,
+            "score": 41.93875193003922,
+            "probability": 0.031730501595302406,
+            "place_probability": 0.13404100304055816,
+            "coverage": 0.8721794210799177,
+            "finish": null
+          }
+        ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計38.5%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": null,
+        "leaders": [
+          {
+            "number": 11,
+            "name": "マーゴットラヴミー",
+            "rank": 1,
+            "probability": 0.10897223481423353
+          },
+          {
+            "number": 15,
+            "name": "ワンコールアウェイ",
+            "rank": 2,
+            "probability": 0.1021917502126666
+          },
+          {
+            "number": 2,
+            "name": "ノボリリア",
+            "rank": 3,
+            "probability": 0.09160078314018569
+          }
+        ]
+      },
+      {
+        "race_id": "202608040311",
+        "venue": "京都",
+        "number": 11,
+        "name": "御陵S",
+        "start_time": "15:30",
+        "course": "ダート",
+        "distance": 1800,
+        "track_condition": "良",
+        "fixed": true,
+        "retrospective": false,
+        "winner": null,
+        "horses": [
+          {
+            "number": 5,
+            "name": "リベッチオ",
+            "status": "active",
+            "rank": 1,
+            "score": 63.36103916562739,
+            "probability": 0.14082015364608033,
+            "place_probability": 0.3252610374830574,
+            "coverage": 0.7931450294152729,
+            "finish": null
+          },
+          {
+            "number": 1,
+            "name": "ダンツシタン",
+            "status": "active",
+            "rank": 2,
+            "score": 62.86850964611833,
+            "probability": 0.1362713704891952,
+            "place_probability": 0.31983777648836625,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 6,
+            "name": "オリーブグリーン",
+            "status": "active",
+            "rank": 3,
+            "score": 62.02656682252733,
+            "probability": 0.12883322613619483,
+            "place_probability": 0.31072583686658706,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 9,
+            "name": "ラオラシオン",
+            "status": "active",
+            "rank": 4,
+            "score": 55.62527293215624,
+            "probability": 0.08407975572315148,
+            "place_probability": 0.24798703933078073,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 3,
+            "name": "ドラゴン",
+            "status": "active",
+            "rank": 5,
+            "score": 52.59262658140324,
+            "probability": 0.06868902252520079,
+            "place_probability": 0.22219424921570047,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 13,
+            "name": "サンライズケヴィン",
+            "status": "active",
+            "rank": 6,
+            "score": 50.80658755969159,
+            "probability": 0.06097842601772214,
+            "place_probability": 0.20812548881574294,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 11,
+            "name": "サイモンシュバリエ",
+            "status": "active",
+            "rank": 7,
+            "score": 50.53603759370896,
+            "probability": 0.05988843803531824,
+            "place_probability": 0.2060645674950653,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 2,
+            "name": "ミカッテヨンデイイ",
+            "status": "active",
+            "rank": 8,
+            "score": 49.89395634802569,
+            "probability": 0.05737898085103124,
+            "place_probability": 0.2012460782539856,
+            "coverage": 0.7874640725820414,
+            "finish": null
+          },
+          {
+            "number": 4,
+            "name": "ショウサンジョージ",
+            "status": "active",
+            "rank": 9,
+            "score": 49.206550368745454,
+            "probability": 0.05480881198721337,
+            "place_probability": 0.19619934044108914,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 12,
+            "name": "ゲキザル",
+            "status": "active",
+            "rank": 10,
+            "score": 48.95419301148994,
+            "probability": 0.05389443144644646,
+            "place_probability": 0.19437530057460511,
+            "coverage": 0.7931450294152729,
+            "finish": null
+          },
+          {
+            "number": 8,
+            "name": "メイショウコガシラ",
+            "status": "active",
+            "rank": 11,
+            "score": 48.94755403366065,
+            "probability": 0.053870583128751176,
+            "place_probability": 0.19432752058299724,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 10,
+            "name": "ベルダイナフェロー",
+            "status": "active",
+            "rank": 12,
+            "score": 48.831524366181554,
+            "probability": 0.053455484932235335,
+            "place_probability": 0.1934941728006577,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 7,
+            "name": "テーオールビー",
+            "status": "active",
+            "rank": 13,
+            "score": 46.91099048566258,
+            "probability": 0.04703131508145945,
+            "place_probability": 0.18016159165136503,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          }
+        ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計49.0%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": null,
+        "leaders": [
+          {
+            "number": 5,
+            "name": "リベッチオ",
+            "rank": 1,
+            "probability": 0.14082015364608033
+          },
+          {
+            "number": 1,
+            "name": "ダンツシタン",
+            "rank": 2,
+            "probability": 0.1362713704891952
+          },
+          {
+            "number": 6,
+            "name": "オリーブグリーン",
+            "rank": 3,
+            "probability": 0.12883322613619483
+          }
+        ]
+      },
+      {
+        "race_id": "202608040312",
+        "venue": "京都",
+        "number": 12,
+        "name": "3歳以上1勝クラス",
+        "start_time": "16:10",
+        "course": "ダート",
+        "distance": 1400,
+        "track_condition": "良",
+        "fixed": true,
+        "retrospective": false,
+        "winner": null,
+        "horses": [
+          {
+            "number": 8,
+            "name": "テーオーカイザー",
+            "status": "active",
+            "rank": 1,
+            "score": 54.97874749397824,
+            "probability": 0.10490490400152606,
+            "place_probability": 0.2522474925633392,
+            "coverage": 0.8008109881146137,
+            "finish": null
+          },
+          {
+            "number": 5,
+            "name": "ペプチドレオン",
+            "status": "active",
+            "rank": 2,
+            "score": 54.67611302814518,
+            "probability": 0.10280958958319164,
+            "place_probability": 0.24953098248461614,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 12,
+            "name": "ジャカルタバオ",
+            "status": "active",
+            "rank": 3,
+            "score": 52.86398178044469,
+            "probability": 0.09111021091817346,
+            "place_probability": 0.2337787265811089,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 10,
+            "name": "クリノセーラーマン",
+            "status": "active",
+            "rank": 4,
+            "score": 49.52350353221655,
+            "probability": 0.07292061129198273,
+            "place_probability": 0.20698421164619316,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 13,
+            "name": "シャープインサイト",
+            "status": "active",
+            "rank": 5,
+            "score": 48.57735686428923,
+            "probability": 0.06846309824071918,
+            "place_probability": 0.19990444474138333,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 9,
+            "name": "ララバッカナール",
+            "status": "active",
+            "rank": 6,
+            "score": 46.70589159806186,
+            "probability": 0.06043271136403999,
+            "place_probability": 0.1865353642767151,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 6,
+            "name": "レイム",
+            "status": "active",
+            "rank": 7,
+            "score": 46.42361269287816,
+            "probability": 0.05930608671801102,
+            "place_probability": 0.18459033496642036,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 14,
+            "name": "コンテナライン",
+            "status": "active",
+            "rank": 8,
+            "score": 46.28642248184746,
+            "probability": 0.058766145334091524,
+            "place_probability": 0.18365167670178956,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 16,
+            "name": "モズジェネラル",
+            "status": "active",
+            "rank": 9,
+            "score": 45.99308787275208,
+            "probability": 0.057628099590575875,
+            "place_probability": 0.18165917283987842,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 7,
+            "name": "ガビーズブラザー",
+            "status": "active",
+            "rank": 10,
+            "score": 44.942248683319455,
+            "probability": 0.05372907790213119,
+            "place_probability": 0.17468144674119992,
+            "coverage": 0.7931450294152729,
+            "finish": null
+          },
+          {
+            "number": 11,
+            "name": "ダディーズアイル",
+            "status": "active",
+            "rank": 11,
+            "score": 44.20106344251919,
+            "probability": 0.05113872272535093,
+            "place_probability": 0.16990790899249553,
+            "coverage": 0.7034329681914897,
+            "finish": null
+          },
+          {
+            "number": 1,
+            "name": "リテラシー",
+            "status": "active",
+            "rank": 12,
+            "score": 43.28597931941607,
+            "probability": 0.04811222896838184,
+            "place_probability": 0.16417944185117248,
+            "coverage": 0.7904934224448729,
+            "finish": null
+          },
+          {
+            "number": 3,
+            "name": "スレッドザニードル",
+            "status": "active",
+            "rank": 13,
+            "score": 43.20757429245663,
+            "probability": 0.04786140236771907,
+            "place_probability": 0.1636969773688951,
+            "coverage": 0.8034329681914898,
+            "finish": null
+          },
+          {
+            "number": 2,
+            "name": "ゼルダ",
+            "status": "active",
+            "rank": 14,
+            "score": 42.865946948494006,
+            "probability": 0.04678367078758612,
+            "place_probability": 0.16160998539037907,
+            "coverage": 0.7034329681914897,
+            "finish": null
+          },
+          {
+            "number": 15,
+            "name": "テイクイットオール",
+            "status": "active",
+            "rank": 15,
+            "score": 41.13088245763767,
+            "probability": 0.041673409401857466,
+            "place_probability": 0.15138502194087994,
+            "coverage": 0.7977520113582584,
+            "finish": null
+          },
+          {
+            "number": 4,
+            "name": "キアヌ",
+            "status": "active",
+            "rank": 16,
+            "score": 38.23634344447871,
+            "probability": 0.03436003080466189,
+            "place_probability": 0.13565681091353382,
+            "coverage": 0.6931450294152729,
+            "finish": null
+          }
+        ],
+        "betting": {
+          "label": "見送り",
+          "reason": "上位4頭の勝率合計37.2%が基準55%に届かず、1頭軸・2頭軸の条件にも該当しません",
+          "tickets": []
+        },
+        "going_note": null,
+        "leaders": [
+          {
+            "number": 8,
+            "name": "テーオーカイザー",
+            "rank": 1,
+            "probability": 0.10490490400152606
+          },
+          {
+            "number": 5,
+            "name": "ペプチドレオン",
+            "rank": 2,
+            "probability": 0.10280958958319164
+          },
+          {
+            "number": 12,
+            "name": "ジャカルタバオ",
+            "rank": 3,
+            "probability": 0.09111021091817346
+          }
+        ]
+      }
+    ]
+  },
   "2026-10-03": {
     "day": "2026-10-03",
     "generated_at": "2026-10-03T02:54+09:00",
