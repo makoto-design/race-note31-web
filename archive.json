@@ -15382,7 +15382,7 @@
   },
   "2026-10-17": {
     "day": "2026-10-17",
-    "generated_at": "2026-10-17T19:34+09:00",
+    "generated_at": "2026-10-18T18:29+09:00",
     "races": [
       {
         "race_id": "202604040101",
@@ -15395,7 +15395,7 @@
         "track_condition": "良",
         "fixed": true,
         "retrospective": false,
-        "winner": null,
+        "winner": "9",
         "horses": [
           {
             "number": 10,
@@ -15406,7 +15406,7 @@
             "probability": 0.1097864572063857,
             "place_probability": 0.29163405604131254,
             "coverage": 0.6587512051630168,
-            "finish": null
+            "finish": 10
           },
           {
             "number": 6,
@@ -15417,7 +15417,7 @@
             "probability": 0.10752765770666232,
             "place_probability": 0.2884695527300731,
             "coverage": 0.6611601538673435,
-            "finish": null
+            "finish": 5
           },
           {
             "number": 9,
@@ -15428,7 +15428,7 @@
             "probability": 0.10058947575641701,
             "place_probability": 0.27850238431067903,
             "coverage": 0.5587512051630168,
-            "finish": null
+            "finish": 1
           },
           {
             "number": 7,
@@ -15439,7 +15439,7 @@
             "probability": 0.099685246180517,
             "place_probability": 0.27717475402661945,
             "coverage": 0.5602018771028865,
-            "finish": null
+            "finish": 3
           },
           {
             "number": 2,
@@ -15450,7 +15450,7 @@
             "probability": 0.0921045859241459,
             "place_probability": 0.2657663777274938,
             "coverage": 0.5587512051630168,
-            "finish": null
+            "finish": 2
           },
           {
             "number": 11,
@@ -15461,7 +15461,7 @@
             "probability": 0.08871391766427754,
             "place_probability": 0.260493679102589,
             "coverage": 0.6602018771028865,
-            "finish": null
+            "finish": 4
           },
           {
             "number": 3,
@@ -15472,7 +15472,7 @@
             "probability": 0.08170662289102354,
             "place_probability": 0.2492334256994535,
             "coverage": 0.562679003600732,
-            "finish": null
+            "finish": 12
           },
           {
             "number": 8,
@@ -15483,7 +15483,7 @@
             "probability": 0.07688087165601398,
             "place_probability": 0.24117026820187032,
             "coverage": 0.5534333372685595,
-            "finish": null
+            "finish": 6
           },
           {
             "number": 1,
@@ -15494,7 +15494,7 @@
             "probability": 0.06536794617325466,
             "place_probability": 0.22077182054116085,
             "coverage": 0.6534333372685596,
-            "finish": null
+            "finish": 8
           },
           {
             "number": 12,
@@ -15505,7 +15505,7 @@
             "probability": 0.06420403831308903,
             "place_probability": 0.21860810274758022,
             "coverage": 0.5534333372685595,
-            "finish": null
+            "finish": 9
           },
           {
             "number": 5,
@@ -15516,7 +15516,7 @@
             "probability": 0.059900773645369984,
             "place_probability": 0.21042709662006256,
             "coverage": 0.5587512051630168,
-            "finish": null
+            "finish": 11
           },
           {
             "number": 4,
@@ -15527,7 +15527,7 @@
             "probability": 0.05353240688284338,
             "place_probability": 0.19774848225110553,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 7
           }
         ],
         "betting": {
@@ -15569,7 +15569,7 @@
         "track_condition": "良",
         "fixed": true,
         "retrospective": false,
-        "winner": null,
+        "winner": "7",
         "horses": [
           {
             "number": 8,
@@ -15580,7 +15580,7 @@
             "probability": 0.1425805510219623,
             "place_probability": 0.335351704220723,
             "coverage": 0.741473242912121,
-            "finish": null
+            "finish": 7
           },
           {
             "number": 10,
@@ -15591,7 +15591,7 @@
             "probability": 0.11254204780130449,
             "place_probability": 0.2968716690558624,
             "coverage": 0.7396081567243342,
-            "finish": null
+            "finish": 8
           },
           {
             "number": 1,
@@ -15602,7 +15602,7 @@
             "probability": 0.10770517110250366,
             "place_probability": 0.2901205007661185,
             "coverage": 0.7396081567243342,
-            "finish": null
+            "finish": 3
           },
           {
             "number": 4,
@@ -15613,7 +15613,7 @@
             "probability": 0.08891014323630261,
             "place_probability": 0.26208617850414906,
             "coverage": 0.27679742166540694,
-            "finish": null
+            "finish": 4
           },
           {
             "number": 12,
@@ -15624,7 +15624,7 @@
             "probability": 0.07934827389540051,
             "place_probability": 0.24654337467769233,
             "coverage": 0.27679742166540694,
-            "finish": null
+            "finish": 6
           },
           {
             "number": 3,
@@ -15635,7 +15635,7 @@
             "probability": 0.07853038837892905,
             "place_probability": 0.2451676409813295,
             "coverage": 0.7396081567243342,
-            "finish": null
+            "finish": 5
           },
           {
             "number": 6,
@@ -15646,7 +15646,7 @@
             "probability": 0.07777718359629757,
             "place_probability": 0.24389385613944992,
             "coverage": 0.6396081567243342,
-            "finish": null
+            "finish": 9
           },
           {
             "number": 11,
@@ -15657,7 +15657,7 @@
             "probability": 0.0727376818219651,
             "place_probability": 0.23519575403710255,
             "coverage": 0.27679742166540694,
-            "finish": null
+            "finish": 2
           },
           {
             "number": 2,
@@ -15668,7 +15668,7 @@
             "probability": 0.0707023821172105,
             "place_probability": 0.2315921542900381,
             "coverage": 0.7292710830540786,
-            "finish": null
+            "finish": 12
           },
           {
             "number": 9,
@@ -15679,7 +15679,7 @@
             "probability": 0.061264256955519514,
             "place_probability": 0.21412380323052788,
             "coverage": 0.7396081567243342,
-            "finish": null
+            "finish": 11
           },
           {
             "number": 7,
@@ -15690,7 +15690,7 @@
             "probability": 0.05691055765012676,
             "place_probability": 0.20559746227715342,
             "coverage": 0.27679742166540694,
-            "finish": null
+            "finish": 1
           },
           {
             "number": 5,
@@ -15701,7 +15701,7 @@
             "probability": 0.05099136242247794,
             "place_probability": 0.19345590181985306,
             "coverage": 0.27679742166540694,
-            "finish": null
+            "finish": 10
           }
         ],
         "betting": {
@@ -15743,7 +15743,7 @@
         "track_condition": "良",
         "fixed": true,
         "retrospective": false,
-        "winner": null,
+        "winner": "2",
         "horses": [
           {
             "number": 11,
@@ -15754,7 +15754,7 @@
             "probability": 0.10008444086280197,
             "place_probability": 0.25279397333093184,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 10
           },
           {
             "number": 3,
@@ -15765,7 +15765,7 @@
             "probability": 0.09318704965302341,
             "place_probability": 0.24326733948476112,
             "coverage": 0.7931450294152729,
-            "finish": null
+            "finish": 12
           },
           {
             "number": 7,
@@ -15776,7 +15776,7 @@
             "probability": 0.09170616160089406,
             "place_probability": 0.2411725121923935,
             "coverage": 0.7931450294152729,
-            "finish": null
+            "finish": 9
           },
           {
             "number": 12,
@@ -15787,7 +15787,7 @@
             "probability": 0.09133438819931816,
             "place_probability": 0.24064375176723435,
             "coverage": 0.6931450294152729,
-            "finish": null
+            "finish": 5
           },
           {
             "number": 9,
@@ -15798,7 +15798,7 @@
             "probability": 0.07483294250918113,
             "place_probability": 0.2159032947372666,
             "coverage": 0.7874640725820414,
-            "finish": null
+            "finish": 4
           },
           {
             "number": 8,
@@ -15809,7 +15809,7 @@
             "probability": 0.07346359585610153,
             "place_probability": 0.2137269625618861,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 14
           },
           {
             "number": 5,
@@ -15820,7 +15820,7 @@
             "probability": 0.06811613058549326,
             "place_probability": 0.20502139650197304,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 2
           },
           {
             "number": 4,
@@ -15831,7 +15831,7 @@
             "probability": 0.06531530476333201,
             "place_probability": 0.20032214357545106,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 11
           },
           {
             "number": 2,
@@ -15842,7 +15842,7 @@
             "probability": 0.06262672949090323,
             "place_probability": 0.19571425091199002,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 1
           },
           {
             "number": 13,
@@ -15853,7 +15853,7 @@
             "probability": 0.053010526054635784,
             "place_probability": 0.17836482925062727,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 8
           },
           {
             "number": 6,
@@ -15864,7 +15864,7 @@
             "probability": 0.05205477229345242,
             "place_probability": 0.1765583216687832,
             "coverage": 0.7034329681914897,
-            "finish": null
+            "finish": 7
           },
           {
             "number": 14,
@@ -15875,7 +15875,7 @@
             "probability": 0.051284898424661864,
             "place_probability": 0.17509131268295547,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 6
           },
           {
             "number": 1,
@@ -15886,7 +15886,7 @@
             "probability": 0.0484357589838325,
             "place_probability": 0.16956653106280611,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 3
           },
           {
             "number": 10,
@@ -15897,7 +15897,7 @@
             "probability": 0.04200609977368289,
             "place_probability": 0.15648978169465388,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 13
           },
           {
             "number": 15,
@@ -15908,7 +15908,7 @@
             "probability": 0.03254120094868574,
             "place_probability": 0.13536359857628658,
             "coverage": 0.6931450294152729,
-            "finish": null
+            "finish": 15
           }
         ],
         "betting": {
@@ -15950,7 +15950,7 @@
         "track_condition": "良",
         "fixed": true,
         "retrospective": false,
-        "winner": null,
+        "winner": "7",
         "horses": [
           {
             "number": 11,
@@ -15961,7 +15961,7 @@
             "probability": 0.17469151324106222,
             "place_probability": 0.3385219806383054,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 2
           },
           {
             "number": 9,
@@ -15972,7 +15972,7 @@
             "probability": 0.09692552771653312,
             "place_probability": 0.24887131873359755,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 7
           },
           {
             "number": 15,
@@ -15983,7 +15983,7 @@
             "probability": 0.09148482137956733,
             "place_probability": 0.2412412874182947,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 5
           },
           {
             "number": 10,
@@ -15994,7 +15994,7 @@
             "probability": 0.08823050886081463,
             "place_probability": 0.2365599367369537,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 3
           },
           {
             "number": 7,
@@ -16005,7 +16005,7 @@
             "probability": 0.08816825253633881,
             "place_probability": 0.23646948598278156,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 1
           },
           {
             "number": 4,
@@ -16016,7 +16016,7 @@
             "probability": 0.061859258571542536,
             "place_probability": 0.19469457970977738,
             "coverage": 0.8679678050349438,
-            "finish": null
+            "finish": 4
           },
           {
             "number": 12,
@@ -16027,7 +16027,7 @@
             "probability": 0.05913137160474844,
             "place_probability": 0.18987882849459475,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 16
           },
           {
             "number": 1,
@@ -16038,7 +16038,7 @@
             "probability": 0.05533904417583318,
             "place_probability": 0.18299611704518298,
             "coverage": 0.7951709878797403,
-            "finish": null
+            "finish": 9
           },
           {
             "number": 14,
@@ -16049,7 +16049,7 @@
             "probability": 0.04980873470372893,
             "place_probability": 0.17252776528589156,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 6
           },
           {
             "number": 5,
@@ -16060,7 +16060,7 @@
             "probability": 0.04313363357349275,
             "place_probability": 0.15910776233898513,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 11
           },
           {
             "number": 13,
@@ -16071,7 +16071,7 @@
             "probability": 0.040268745950361846,
             "place_probability": 0.1530439175641124,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 15
           },
           {
             "number": 2,
@@ -16082,7 +16082,7 @@
             "probability": 0.036654994192191134,
             "place_probability": 0.14509541674703724,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 13
           },
           {
             "number": 16,
@@ -16093,7 +16093,7 @@
             "probability": 0.034893803078532376,
             "place_probability": 0.14108824557064653,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 10
           },
           {
             "number": 3,
@@ -16104,7 +16104,7 @@
             "probability": 0.03001712417196527,
             "place_probability": 0.1294716907475353,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 12
           },
           {
             "number": 8,
@@ -16115,7 +16115,7 @@
             "probability": 0.029349147127168778,
             "place_probability": 0.1278145670429093,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 8
           },
           {
             "number": 6,
@@ -16126,7 +16126,7 @@
             "probability": 0.020043519116118628,
             "place_probability": 0.10261709994339391,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 14
           }
         ],
         "betting": {
@@ -16168,7 +16168,7 @@
         "track_condition": "良",
         "fixed": true,
         "retrospective": false,
-        "winner": null,
+        "winner": "11",
         "horses": [
           {
             "number": 10,
@@ -16179,7 +16179,7 @@
             "probability": 0.08670486972903717,
             "place_probability": 0.23178531547058834,
             "coverage": 0.27679742166540694,
-            "finish": null
+            "finish": 7
           },
           {
             "number": 1,
@@ -16190,7 +16190,7 @@
             "probability": 0.08159642965054426,
             "place_probability": 0.22424875045519493,
             "coverage": 0.27679742166540694,
-            "finish": null
+            "finish": 5
           },
           {
             "number": 2,
@@ -16201,7 +16201,7 @@
             "probability": 0.07956595838025543,
             "place_probability": 0.22118437397752005,
             "coverage": 0.27679742166540694,
-            "finish": null
+            "finish": 9
           },
           {
             "number": 14,
@@ -16212,7 +16212,7 @@
             "probability": 0.07951526138904996,
             "place_probability": 0.22110734178047067,
             "coverage": 0.27679742166540694,
-            "finish": null
+            "finish": 14
           },
           {
             "number": 3,
@@ -16223,7 +16223,7 @@
             "probability": 0.07466628588386293,
             "place_probability": 0.2136175725387622,
             "coverage": 0.27679742166540694,
-            "finish": null
+            "finish": 2
           },
           {
             "number": 8,
@@ -16234,7 +16234,7 @@
             "probability": 0.06548450840387435,
             "place_probability": 0.19871517077739403,
             "coverage": 0.27679742166540694,
-            "finish": null
+            "finish": 8
           },
           {
             "number": 5,
@@ -16245,7 +16245,7 @@
             "probability": 0.06319367667870852,
             "place_probability": 0.19483416704095746,
             "coverage": 0.27679742166540694,
-            "finish": null
+            "finish": 4
           },
           {
             "number": 12,
@@ -16256,7 +16256,7 @@
             "probability": 0.06314031877052005,
             "place_probability": 0.19474293407614535,
             "coverage": 0.26575677753591925,
-            "finish": null
+            "finish": 11
           },
           {
             "number": 13,
@@ -16267,7 +16267,7 @@
             "probability": 0.06190560169208199,
             "place_probability": 0.1926208642358777,
             "coverage": 0.27679742166540694,
-            "finish": null
+            "finish": 15
           },
           {
             "number": 11,
@@ -16278,7 +16278,7 @@
             "probability": 0.061348828125723995,
             "place_probability": 0.19165701882053995,
             "coverage": 0.26575677753591925,
-            "finish": null
+            "finish": 1
           },
           {
             "number": 15,
@@ -16289,7 +16289,7 @@
             "probability": 0.061123263273966603,
             "place_probability": 0.19126529238273,
             "coverage": 0.27679742166540694,
-            "finish": null
+            "finish": 3
           },
           {
             "number": 7,
@@ -16300,7 +16300,7 @@
             "probability": 0.058053429852911814,
             "place_probability": 0.18586061684097308,
             "coverage": 0.27679742166540694,
-            "finish": null
+            "finish": 13
           },
           {
             "number": 9,
@@ -16311,7 +16311,7 @@
             "probability": 0.057887018403655024,
             "place_probability": 0.18556362267986118,
             "coverage": 0.22459072683277773,
-            "finish": null
+            "finish": 6
           },
           {
             "number": 6,
@@ -16322,7 +16322,7 @@
             "probability": 0.055833941352260955,
             "place_probability": 0.18186412162241725,
             "coverage": 0.24954967814070977,
-            "finish": null
+            "finish": 12
           },
           {
             "number": 4,
@@ -16333,7 +16333,7 @@
             "probability": 0.04998060841354698,
             "place_probability": 0.17093283730056802,
             "coverage": 0.27679742166540694,
-            "finish": null
+            "finish": 10
           }
         ],
         "betting": {
@@ -16375,7 +16375,7 @@
         "track_condition": "良",
         "fixed": true,
         "retrospective": false,
-        "winner": null,
+        "winner": "11",
         "horses": [
           {
             "number": 11,
@@ -16386,7 +16386,7 @@
             "probability": 0.11440794832739021,
             "place_probability": 0.27331070469628715,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 1
           },
           {
             "number": 6,
@@ -16397,7 +16397,7 @@
             "probability": 0.09643412628678961,
             "place_probability": 0.24948972528851887,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 5
           },
           {
             "number": 10,
@@ -16408,7 +16408,7 @@
             "probability": 0.09638787163824812,
             "place_probability": 0.2494253870856033,
             "coverage": 0.8542033891225277,
-            "finish": null
+            "finish": 6
           },
           {
             "number": 3,
@@ -16419,7 +16419,7 @@
             "probability": 0.08958949254879227,
             "place_probability": 0.23977996034390786,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 4
           },
           {
             "number": 15,
@@ -16430,7 +16430,7 @@
             "probability": 0.07996098612021446,
             "place_probability": 0.22542130298588747,
             "coverage": 0.7951709878797403,
-            "finish": null
+            "finish": 2
           },
           {
             "number": 4,
@@ -16441,7 +16441,7 @@
             "probability": 0.0732188951116265,
             "place_probability": 0.21481681923869528,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 8
           },
           {
             "number": 12,
@@ -16452,7 +16452,7 @@
             "probability": 0.06314047417177468,
             "place_probability": 0.19797748648769664,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 7
           },
           {
             "number": 13,
@@ -16463,7 +16463,7 @@
             "probability": 0.06301133276582735,
             "place_probability": 0.19775316250513814,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 11
           },
           {
             "number": 14,
@@ -16474,7 +16474,7 @@
             "probability": 0.059826155496404305,
             "place_probability": 0.19214532195151657,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 15
           },
           {
             "number": 2,
@@ -16485,7 +16485,7 @@
             "probability": 0.059386395837628655,
             "place_probability": 0.19135942911790543,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 3
           },
           {
             "number": 5,
@@ -16496,7 +16496,7 @@
             "probability": 0.05922013847202297,
             "place_probability": 0.19106155394883484,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 10
           },
           {
             "number": 9,
@@ -16507,7 +16507,7 @@
             "probability": 0.04790198229861221,
             "place_probability": 0.16970674311226264,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 12
           },
           {
             "number": 8,
@@ -16518,7 +16518,7 @@
             "probability": 0.03878508906394489,
             "place_probability": 0.15064543804775174,
             "coverage": 0.8542033891225277,
-            "finish": null
+            "finish": 13
           },
           {
             "number": 1,
@@ -16529,7 +16529,7 @@
             "probability": 0.02999184694345908,
             "place_probability": 0.1301256744529159,
             "coverage": 0.8542033891225277,
-            "finish": null
+            "finish": 9
           },
           {
             "number": 7,
@@ -16540,7 +16540,7 @@
             "probability": 0.028737264917264593,
             "place_probability": 0.12698129073707845,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 14
           }
         ],
         "betting": {
@@ -16582,7 +16582,7 @@
         "track_condition": "良",
         "fixed": true,
         "retrospective": false,
-        "winner": null,
+        "winner": "6",
         "horses": [
           {
             "number": 1,
@@ -16593,7 +16593,7 @@
             "probability": 0.09067116849931972,
             "place_probability": 0.23797202548130753,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 4
           },
           {
             "number": 11,
@@ -16604,7 +16604,7 @@
             "probability": 0.08904656143634056,
             "place_probability": 0.23565333491101007,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 10
           },
           {
             "number": 6,
@@ -16615,7 +16615,7 @@
             "probability": 0.08386202675696125,
             "place_probability": 0.22809910327611374,
             "coverage": 0.7904934224448729,
-            "finish": null
+            "finish": 1
           },
           {
             "number": 12,
@@ -16626,7 +16626,7 @@
             "probability": 0.07887230911778757,
             "place_probability": 0.22059211145160806,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 11
           },
           {
             "number": 2,
@@ -16637,7 +16637,7 @@
             "probability": 0.07414543483742367,
             "place_probability": 0.2132482868811572,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 5
           },
           {
             "number": 8,
@@ -16648,7 +16648,7 @@
             "probability": 0.07222063475800612,
             "place_probability": 0.210188616166597,
             "coverage": 0.7931450294152729,
-            "finish": null
+            "finish": 8
           },
           {
             "number": 7,
@@ -16659,7 +16659,7 @@
             "probability": 0.06382969599192052,
             "place_probability": 0.19633618347800985,
             "coverage": 0.7931450294152729,
-            "finish": null
+            "finish": 3
           },
           {
             "number": 10,
@@ -16670,7 +16670,7 @@
             "probability": 0.061842516925065066,
             "place_probability": 0.19292272329010837,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 7
           },
           {
             "number": 9,
@@ -16681,7 +16681,7 @@
             "probability": 0.0612297871894671,
             "place_probability": 0.19185914699428805,
             "coverage": 0.7931450294152729,
-            "finish": null
+            "finish": 12
           },
           {
             "number": 14,
@@ -16692,7 +16692,7 @@
             "probability": 0.05905202450200011,
             "place_probability": 0.18803527670330356,
             "coverage": 0.7874640725820414,
-            "finish": null
+            "finish": 14
           },
           {
             "number": 5,
@@ -16703,7 +16703,7 @@
             "probability": 0.0569948231991436,
             "place_probability": 0.18435809997893884,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 9
           },
           {
             "number": 3,
@@ -16714,7 +16714,7 @@
             "probability": 0.05430676493172792,
             "place_probability": 0.17945285807293943,
             "coverage": 0.7931450294152729,
-            "finish": null
+            "finish": 15
           },
           {
             "number": 13,
@@ -16725,7 +16725,7 @@
             "probability": 0.053546072759568054,
             "place_probability": 0.17804313751987189,
             "coverage": 0.7931450294152729,
-            "finish": null
+            "finish": 6
           },
           {
             "number": 4,
@@ -16736,7 +16736,7 @@
             "probability": 0.05319193627550456,
             "place_probability": 0.1773834969326354,
             "coverage": 0.7931450294152729,
-            "finish": null
+            "finish": 2
           },
           {
             "number": 15,
@@ -16747,7 +16747,7 @@
             "probability": 0.047188242819764206,
             "place_probability": 0.1658555988621112,
             "coverage": 0.7931450294152729,
-            "finish": null
+            "finish": 13
           }
         ],
         "betting": {
@@ -16789,7 +16789,7 @@
         "track_condition": "良",
         "fixed": true,
         "retrospective": false,
-        "winner": null,
+        "winner": "2",
         "horses": [
           {
             "number": 7,
@@ -16800,7 +16800,7 @@
             "probability": 0.10201276146511928,
             "place_probability": 0.23796015232930307,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 17
           },
           {
             "number": 4,
@@ -16811,7 +16811,7 @@
             "probability": 0.09515166250275962,
             "place_probability": 0.22914827296838985,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 2
           },
           {
             "number": 14,
@@ -16822,7 +16822,7 @@
             "probability": 0.08981970083734665,
             "place_probability": 0.2220646456616887,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 11
           },
           {
             "number": 5,
@@ -16833,7 +16833,7 @@
             "probability": 0.08731358135616518,
             "place_probability": 0.21865886721958708,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 15
           },
           {
             "number": 13,
@@ -16844,7 +16844,7 @@
             "probability": 0.06275811007753637,
             "place_probability": 0.18219925824679456,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 3
           },
           {
             "number": 3,
@@ -16855,7 +16855,7 @@
             "probability": 0.06045692554840786,
             "place_probability": 0.17843948540847177,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 8
           },
           {
             "number": 15,
@@ -16866,7 +16866,7 @@
             "probability": 0.05705559379367481,
             "place_probability": 0.17275096027990305,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 16
           },
           {
             "number": 8,
@@ -16877,7 +16877,7 @@
             "probability": 0.05332295436814586,
             "place_probability": 0.166314422333515,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 13
           },
           {
             "number": 16,
@@ -16899,7 +16899,7 @@
             "probability": 0.04526913670477364,
             "place_probability": 0.1516401418071704,
             "coverage": 0.7951709878797403,
-            "finish": null
+            "finish": 12
           },
           {
             "number": 17,
@@ -16910,7 +16910,7 @@
             "probability": 0.0444034651208433,
             "place_probability": 0.14999116480502786,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 9
           },
           {
             "number": 12,
@@ -16921,7 +16921,7 @@
             "probability": 0.04074480828820632,
             "place_probability": 0.1428480887887325,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 14
           },
           {
             "number": 11,
@@ -16932,7 +16932,7 @@
             "probability": 0.040493108406258256,
             "place_probability": 0.14234579962354554,
             "coverage": 0.8603554074358971,
-            "finish": null
+            "finish": 10
           },
           {
             "number": 1,
@@ -16943,7 +16943,7 @@
             "probability": 0.03877827872006576,
             "place_probability": 0.13888406232769038,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 5
           },
           {
             "number": 18,
@@ -16954,7 +16954,7 @@
             "probability": 0.036299687412953606,
             "place_probability": 0.13375178993094694,
             "coverage": 0.7951709878797403,
-            "finish": null
+            "finish": 6
           },
           {
             "number": 2,
@@ -16965,7 +16965,7 @@
             "probability": 0.034355561176033285,
             "place_probability": 0.12961145699076318,
             "coverage": 0.6556944841887273,
-            "finish": null
+            "finish": 1
           },
           {
             "number": 9,
@@ -16976,7 +16976,7 @@
             "probability": 0.030368363336244326,
             "place_probability": 0.12076758538659417,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 4
           },
           {
             "number": 6,
@@ -16987,7 +16987,7 @@
             "probability": 0.02960222519579204,
             "place_probability": 0.11900864678934554,
             "coverage": 0.7951709878797403,
-            "finish": null
+            "finish": 7
           }
         ],
         "betting": {
@@ -17029,7 +17029,7 @@
         "track_condition": "良",
         "fixed": true,
         "retrospective": false,
-        "winner": null,
+        "winner": "3",
         "horses": [
           {
             "number": 1,
@@ -17040,7 +17040,7 @@
             "probability": 0.12763148388795567,
             "place_probability": 0.30019062340006003,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 3
           },
           {
             "number": 11,
@@ -17051,7 +17051,7 @@
             "probability": 0.10587911039532735,
             "place_probability": 0.27212225930398026,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 5
           },
           {
             "number": 5,
@@ -17062,7 +17062,7 @@
             "probability": 0.09930207081134906,
             "place_probability": 0.26299539782921,
             "coverage": 0.8603554074358971,
-            "finish": null
+            "finish": 6
           },
           {
             "number": 4,
@@ -17073,7 +17073,7 @@
             "probability": 0.09074601536074534,
             "place_probability": 0.2506041229244663,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 8
           },
           {
             "number": 14,
@@ -17084,7 +17084,7 @@
             "probability": 0.08174292313378351,
             "place_probability": 0.23685647756923545,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 9
           },
           {
             "number": 3,
@@ -17095,7 +17095,7 @@
             "probability": 0.07674395956963596,
             "place_probability": 0.2288710332005513,
             "coverage": 0.8603554074358971,
-            "finish": null
+            "finish": 1
           },
           {
             "number": 10,
@@ -17106,7 +17106,7 @@
             "probability": 0.07441093361041792,
             "place_probability": 0.22505015064754447,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 11
           },
           {
             "number": 12,
@@ -17117,7 +17117,7 @@
             "probability": 0.0739123913623391,
             "place_probability": 0.22422554851856702,
             "coverage": 0.8603554074358971,
-            "finish": null
+            "finish": 12
           },
           {
             "number": 8,
@@ -17128,7 +17128,7 @@
             "probability": 0.06931938190345728,
             "place_probability": 0.2164878412630622,
             "coverage": 0.8603554074358971,
-            "finish": null
+            "finish": 13
           },
           {
             "number": 9,
@@ -17139,7 +17139,7 @@
             "probability": 0.06665081838366207,
             "place_probability": 0.21186971633662915,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 2
           },
           {
             "number": 13,
@@ -17150,7 +17150,7 @@
             "probability": 0.048336116843530424,
             "place_probability": 0.17725725681604104,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 10
           },
           {
             "number": 6,
@@ -17161,7 +17161,7 @@
             "probability": 0.03147899320771137,
             "place_probability": 0.13909854899074928,
             "coverage": 0.8603554074358971,
-            "finish": null
+            "finish": 14
           },
           {
             "number": 2,
@@ -17172,7 +17172,7 @@
             "probability": 0.02791639290960045,
             "place_probability": 0.12987562213289153,
             "coverage": 0.8603554074358971,
-            "finish": null
+            "finish": 7
           },
           {
             "number": 7,
@@ -17183,7 +17183,7 @@
             "probability": 0.02592940862048441,
             "place_probability": 0.12449540106701237,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 4
           }
         ],
         "betting": {
@@ -17225,7 +17225,7 @@
         "track_condition": "良",
         "fixed": true,
         "retrospective": false,
-        "winner": null,
+        "winner": "10",
         "horses": [
           {
             "number": 3,
@@ -17236,7 +17236,7 @@
             "probability": 0.09995507018843369,
             "place_probability": 0.2517760813432077,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 3
           },
           {
             "number": 2,
@@ -17247,7 +17247,7 @@
             "probability": 0.09534068548244196,
             "place_probability": 0.24545781782146492,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 7
           },
           {
             "number": 11,
@@ -17258,7 +17258,7 @@
             "probability": 0.09090451853931134,
             "place_probability": 0.2392251637497185,
             "coverage": 0.7931450294152729,
-            "finish": null
+            "finish": 13
           },
           {
             "number": 12,
@@ -17269,7 +17269,7 @@
             "probability": 0.07807077606907475,
             "place_probability": 0.22021979264471173,
             "coverage": 0.7034329681914897,
-            "finish": null
+            "finish": 10
           },
           {
             "number": 6,
@@ -17280,7 +17280,7 @@
             "probability": 0.07125684816038196,
             "place_probability": 0.209459550811442,
             "coverage": 0.7931450294152729,
-            "finish": null
+            "finish": 2
           },
           {
             "number": 8,
@@ -17291,7 +17291,7 @@
             "probability": 0.07033636524610387,
             "place_probability": 0.20796595353032743,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 15
           },
           {
             "number": 5,
@@ -17302,7 +17302,7 @@
             "probability": 0.06824054954468006,
             "place_probability": 0.20452748142975619,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 5
           },
           {
             "number": 14,
@@ -17313,7 +17313,7 @@
             "probability": 0.06498531667867147,
             "place_probability": 0.19907844418197415,
             "coverage": 0.6931450294152729,
-            "finish": null
+            "finish": 4
           },
           {
             "number": 7,
@@ -17324,7 +17324,7 @@
             "probability": 0.06296324456212757,
             "place_probability": 0.1956238595545218,
             "coverage": 0.7931450294152729,
-            "finish": null
+            "finish": 8
           },
           {
             "number": 4,
@@ -17335,7 +17335,7 @@
             "probability": 0.055127962228848575,
             "place_probability": 0.18168261431630775,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 11
           },
           {
             "number": 1,
@@ -17346,7 +17346,7 @@
             "probability": 0.05383036373361596,
             "place_probability": 0.17928109500694955,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 6
           },
           {
             "number": 10,
@@ -17357,7 +17357,7 @@
             "probability": 0.05168995122580045,
             "place_probability": 0.17525675627028608,
             "coverage": 0.7931450294152729,
-            "finish": null
+            "finish": 1
           },
           {
             "number": 13,
@@ -17368,7 +17368,7 @@
             "probability": 0.05072069782995822,
             "place_probability": 0.17340760804363933,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 9
           },
           {
             "number": 9,
@@ -17379,7 +17379,7 @@
             "probability": 0.04622956218442261,
             "place_probability": 0.1646060572635934,
             "coverage": 0.7931450294152729,
-            "finish": null
+            "finish": 12
           },
           {
             "number": 15,
@@ -17390,7 +17390,7 @@
             "probability": 0.04034808832612745,
             "place_probability": 0.15243172403209906,
             "coverage": 0.6931450294152729,
-            "finish": null
+            "finish": 14
           }
         ],
         "betting": {
@@ -17432,7 +17432,7 @@
         "track_condition": "良",
         "fixed": true,
         "retrospective": false,
-        "winner": null,
+        "winner": "6",
         "horses": [
           {
             "number": 3,
@@ -17443,7 +17443,7 @@
             "probability": 0.08484062271235053,
             "place_probability": 0.21373639414901546,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 5
           },
           {
             "number": 14,
@@ -17454,7 +17454,7 @@
             "probability": 0.08272720906827093,
             "place_probability": 0.2107987561916917,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 13
           },
           {
             "number": 6,
@@ -17465,7 +17465,7 @@
             "probability": 0.07825588563532654,
             "place_probability": 0.20445349816539746,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 1
           },
           {
             "number": 15,
@@ -17476,7 +17476,7 @@
             "probability": 0.07743573236260527,
             "place_probability": 0.2032696346909202,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 3
           },
           {
             "number": 8,
@@ -17487,7 +17487,7 @@
             "probability": 0.07211715667541593,
             "place_probability": 0.19543259923453238,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 14
           },
           {
             "number": 5,
@@ -17498,7 +17498,7 @@
             "probability": 0.06114182925449394,
             "place_probability": 0.17828440667115747,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 16
           },
           {
             "number": 17,
@@ -17509,7 +17509,7 @@
             "probability": 0.06089622253032325,
             "place_probability": 0.17788389314725814,
             "coverage": 0.7951709878797403,
-            "finish": null
+            "finish": 4
           },
           {
             "number": 13,
@@ -17520,7 +17520,7 @@
             "probability": 0.055918732283097475,
             "place_probability": 0.1695894192255703,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 10
           },
           {
             "number": 16,
@@ -17531,7 +17531,7 @@
             "probability": 0.05341566739597887,
             "place_probability": 0.16528239565534447,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 12
           },
           {
             "number": 2,
@@ -17542,7 +17542,7 @@
             "probability": 0.05301196768916353,
             "place_probability": 0.1645786747203732,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 7
           },
           {
             "number": 12,
@@ -17553,7 +17553,7 @@
             "probability": 0.051196712191528285,
             "place_probability": 0.1613819397785461,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 2
           },
           {
             "number": 1,
@@ -17564,7 +17564,7 @@
             "probability": 0.049414671804646815,
             "place_probability": 0.15819026035603256,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 9
           },
           {
             "number": 10,
@@ -17575,7 +17575,7 @@
             "probability": 0.04415785371000543,
             "place_probability": 0.14844040780502152,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 6
           },
           {
             "number": 9,
@@ -17586,7 +17586,7 @@
             "probability": 0.041075252286025404,
             "place_probability": 0.142466220473445,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 18
           },
           {
             "number": 18,
@@ -17597,7 +17597,7 @@
             "probability": 0.04105246147128928,
             "place_probability": 0.14242128083773997,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 8
           },
           {
             "number": 4,
@@ -17608,7 +17608,7 @@
             "probability": 0.037252323117331246,
             "place_probability": 0.13475728251095234,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 15
           },
           {
             "number": 7,
@@ -17619,7 +17619,7 @@
             "probability": 0.028679030784967776,
             "place_probability": 0.11600688118078485,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 17
           },
           {
             "number": 11,
@@ -17630,7 +17630,7 @@
             "probability": 0.02741066902717944,
             "place_probability": 0.11302605520621684,
             "coverage": 0.7951709878797403,
-            "finish": null
+            "finish": 11
           }
         ],
         "betting": {
@@ -17672,7 +17672,7 @@
         "track_condition": "良",
         "fixed": true,
         "retrospective": false,
-        "winner": null,
+        "winner": "16",
         "horses": [
           {
             "number": 17,
@@ -17683,7 +17683,7 @@
             "probability": 0.11247286842578401,
             "place_probability": 0.24933665748354134,
             "coverage": 0.8603554074358971,
-            "finish": null
+            "finish": 8
           },
           {
             "number": 16,
@@ -17694,7 +17694,7 @@
             "probability": 0.07355310267595508,
             "place_probability": 0.19779280633959173,
             "coverage": 0.8603554074358971,
-            "finish": null
+            "finish": 1
           },
           {
             "number": 4,
@@ -17705,7 +17705,7 @@
             "probability": 0.0680487720950277,
             "place_probability": 0.18944665052614373,
             "coverage": 0.8603554074358971,
-            "finish": null
+            "finish": 14
           },
           {
             "number": 15,
@@ -17716,7 +17716,7 @@
             "probability": 0.06541864436649299,
             "place_probability": 0.18533926352717628,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 6
           },
           {
             "number": 8,
@@ -17727,7 +17727,7 @@
             "probability": 0.06115330076073312,
             "place_probability": 0.17849991306931912,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 3
           },
           {
             "number": 10,
@@ -17738,7 +17738,7 @@
             "probability": 0.059888325146157016,
             "place_probability": 0.17642663634884087,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 10
           },
           {
             "number": 2,
@@ -17749,7 +17749,7 @@
             "probability": 0.05976740407535272,
             "place_probability": 0.17622732712511982,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 13
           },
           {
             "number": 1,
@@ -17760,7 +17760,7 @@
             "probability": 0.05956023681406825,
             "place_probability": 0.1758854016035196,
             "coverage": 0.842379375478507,
-            "finish": null
+            "finish": 7
           },
           {
             "number": 3,
@@ -17771,7 +17771,7 @@
             "probability": 0.05886818116295418,
             "place_probability": 0.1747389305536391,
             "coverage": 0.7951709878797403,
-            "finish": null
+            "finish": 12
           },
           {
             "number": 18,
@@ -17782,7 +17782,7 @@
             "probability": 0.05768476848129312,
             "place_probability": 0.17276307983306882,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 5
           },
           {
             "number": 6,
@@ -17793,7 +17793,7 @@
             "probability": 0.052522051449992994,
             "place_probability": 0.16390301102416732,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 15
           },
           {
             "number": 11,
@@ -17804,7 +17804,7 @@
             "probability": 0.049626774873718575,
             "place_probability": 0.15874948556015553,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 9
           },
           {
             "number": 13,
@@ -17815,7 +17815,7 @@
             "probability": 0.04777669484324549,
             "place_probability": 0.15538062557153917,
             "coverage": 0.7951709878797403,
-            "finish": null
+            "finish": 11
           },
           {
             "number": 12,
@@ -17826,7 +17826,7 @@
             "probability": 0.04190826618663719,
             "place_probability": 0.14426212981238962,
             "coverage": 0.6556944841887273,
-            "finish": null
+            "finish": 4
           },
           {
             "number": 14,
@@ -17837,7 +17837,7 @@
             "probability": 0.041587196167456035,
             "place_probability": 0.1436332546048085,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 2
           },
           {
             "number": 5,
@@ -17848,7 +17848,7 @@
             "probability": 0.03190726420609921,
             "place_probability": 0.12347363288697052,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 18
           },
           {
             "number": 9,
@@ -17859,7 +17859,7 @@
             "probability": 0.03159160676871646,
             "place_probability": 0.1227717713220961,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 17
           },
           {
             "number": 7,
@@ -17870,7 +17870,7 @@
             "probability": 0.02666454150031585,
             "place_probability": 0.11136942280791289,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 16
           }
         ],
         "betting": {
@@ -17912,7 +17912,7 @@
         "track_condition": "良",
         "fixed": true,
         "retrospective": false,
-        "winner": null,
+        "winner": "4",
         "horses": [
           {
             "number": 2,
@@ -17923,7 +17923,7 @@
             "probability": 0.2590156253019661,
             "place_probability": 0.4610300294263471,
             "coverage": 0.7396081567243342,
-            "finish": null
+            "finish": 2
           },
           {
             "number": 3,
@@ -17934,7 +17934,7 @@
             "probability": 0.107038974769506,
             "place_probability": 0.29912646814580046,
             "coverage": 0.6396081567243342,
-            "finish": null
+            "finish": 5
           },
           {
             "number": 4,
@@ -17945,7 +17945,7 @@
             "probability": 0.08479739084241958,
             "place_probability": 0.26447471541122486,
             "coverage": 0.6274059968662918,
-            "finish": null
+            "finish": 1
           },
           {
             "number": 11,
@@ -17956,7 +17956,7 @@
             "probability": 0.08286848196596411,
             "place_probability": 0.26123860853698977,
             "coverage": 0.6507570424629345,
-            "finish": null
+            "finish": 9
           },
           {
             "number": 8,
@@ -17967,7 +17967,7 @@
             "probability": 0.08221015750458135,
             "place_probability": 0.26012463446622924,
             "coverage": 0.7444040926357859,
-            "finish": null
+            "finish": 8
           },
           {
             "number": 12,
@@ -17978,7 +17978,7 @@
             "probability": 0.074866359703674,
             "place_probability": 0.24735139873482487,
             "coverage": 0.7444040926357859,
-            "finish": null
+            "finish": 7
           },
           {
             "number": 5,
@@ -17989,7 +17989,7 @@
             "probability": 0.06409174109386113,
             "place_probability": 0.22732396833413904,
             "coverage": 0.6274059968662918,
-            "finish": null
+            "finish": 11
           },
           {
             "number": 6,
@@ -18000,7 +18000,7 @@
             "probability": 0.0581894251492133,
             "place_probability": 0.2155965475086532,
             "coverage": 0.27679742166540694,
-            "finish": null
+            "finish": 3
           },
           {
             "number": 9,
@@ -18011,7 +18011,7 @@
             "probability": 0.048055830814626756,
             "place_probability": 0.1939416618508459,
             "coverage": 0.6385548826048921,
-            "finish": null
+            "finish": 12
           },
           {
             "number": 7,
@@ -18022,7 +18022,7 @@
             "probability": 0.04703438971665338,
             "place_probability": 0.19163630106805155,
             "coverage": 0.5967352285475387,
-            "finish": null
+            "finish": 10
           },
           {
             "number": 10,
@@ -18033,7 +18033,7 @@
             "probability": 0.04656123696703273,
             "place_probability": 0.1905599796390124,
             "coverage": 0.7396081567243342,
-            "finish": null
+            "finish": 6
           },
           {
             "number": 1,
@@ -18044,7 +18044,7 @@
             "probability": 0.04527038617050156,
             "place_probability": 0.1875956868778813,
             "coverage": 0.6274059968662918,
-            "finish": null
+            "finish": 4
           }
         ],
         "betting": {
@@ -18086,7 +18086,7 @@
         "track_condition": "良",
         "fixed": true,
         "retrospective": false,
-        "winner": null,
+        "winner": "4",
         "horses": [
           {
             "number": 6,
@@ -18097,7 +18097,7 @@
             "probability": 0.15461751999198287,
             "place_probability": 0.38077431800976763,
             "coverage": 0.5534333372685595,
-            "finish": null
+            "finish": 4
           },
           {
             "number": 10,
@@ -18108,7 +18108,7 @@
             "probability": 0.15021284486584763,
             "place_probability": 0.3754009340336847,
             "coverage": 0.663637280365189,
-            "finish": null
+            "finish": 5
           },
           {
             "number": 4,
@@ -18119,7 +18119,7 @@
             "probability": 0.14361358209491284,
             "place_probability": 0.3671484331284783,
             "coverage": 0.6534333372685596,
-            "finish": null
+            "finish": 1
           },
           {
             "number": 9,
@@ -18130,7 +18130,7 @@
             "probability": 0.10306985672020087,
             "place_probability": 0.310151723991558,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 2
           },
           {
             "number": 2,
@@ -18141,7 +18141,7 @@
             "probability": 0.08837045878944964,
             "place_probability": 0.2861272257478892,
             "coverage": 0.6548840092084293,
-            "finish": null
+            "finish": 6
           },
           {
             "number": 8,
@@ -18152,7 +18152,7 @@
             "probability": 0.08003629060365543,
             "place_probability": 0.2714715080629688,
             "coverage": 0.6534333372685596,
-            "finish": null
+            "finish": 3
           },
           {
             "number": 5,
@@ -18163,7 +18163,7 @@
             "probability": 0.07948658479450765,
             "place_probability": 0.27047527804435945,
             "coverage": 0.6602018771028865,
-            "finish": null
+            "finish": 10
           },
           {
             "number": 3,
@@ -18174,7 +18174,7 @@
             "probability": 0.07455748209795875,
             "place_probability": 0.26136600710039426,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 7
           },
           {
             "number": 1,
@@ -18185,7 +18185,7 @@
             "probability": 0.06677111260334165,
             "place_probability": 0.2462770865250341,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 8
           },
           {
             "number": 7,
@@ -18196,7 +18196,7 @@
             "probability": 0.05926426743814267,
             "place_probability": 0.23080748535586587,
             "coverage": 0.5534333372685595,
-            "finish": null
+            "finish": 9
           }
         ],
         "betting": {
@@ -18323,7 +18323,7 @@
         "track_condition": "良",
         "fixed": true,
         "retrospective": false,
-        "winner": null,
+        "winner": "11",
         "horses": [
           {
             "number": 8,
@@ -18334,7 +18334,7 @@
             "probability": 0.15480683048925706,
             "place_probability": 0.35469906157082587,
             "coverage": 0.7274059968662919,
-            "finish": null
+            "finish": 2
           },
           {
             "number": 6,
@@ -18345,7 +18345,7 @@
             "probability": 0.1232572590314515,
             "place_probability": 0.3159286015155137,
             "coverage": 0.7001582533415948,
-            "finish": null
+            "finish": 3
           },
           {
             "number": 11,
@@ -18356,7 +18356,7 @@
             "probability": 0.12048444864736906,
             "place_probability": 0.31223929492436875,
             "coverage": 0.6094503791700323,
-            "finish": null
+            "finish": 1
           },
           {
             "number": 10,
@@ -18367,7 +18367,7 @@
             "probability": 0.09937215154959089,
             "place_probability": 0.2823331147342386,
             "coverage": 0.7274059968662919,
-            "finish": null
+            "finish": 5
           },
           {
             "number": 3,
@@ -18378,7 +18378,7 @@
             "probability": 0.08945129123472084,
             "place_probability": 0.267005886034995,
             "coverage": 0.7396081567243342,
-            "finish": null
+            "finish": 4
           },
           {
             "number": 5,
@@ -18389,7 +18389,7 @@
             "probability": 0.08650585000922108,
             "place_probability": 0.2622732938341816,
             "coverage": 0.7274059968662919,
-            "finish": null
+            "finish": 11
           },
           {
             "number": 12,
@@ -18400,7 +18400,7 @@
             "probability": 0.0734440945897068,
             "place_probability": 0.24013977058392144,
             "coverage": 0.7292710830540786,
-            "finish": null
+            "finish": 8
           },
           {
             "number": 2,
@@ -18411,7 +18411,7 @@
             "probability": 0.07263919063651171,
             "place_probability": 0.23870870514163023,
             "coverage": 0.7507570424629345,
-            "finish": null
+            "finish": 9
           },
           {
             "number": 1,
@@ -18422,7 +18422,7 @@
             "probability": 0.05909884469506774,
             "place_probability": 0.21325257185850535,
             "coverage": 0.7274059968662919,
-            "finish": null
+            "finish": 7
           },
           {
             "number": 4,
@@ -18433,7 +18433,7 @@
             "probability": 0.05370990195796214,
             "place_probability": 0.2022880225786102,
             "coverage": 0.7366897964171054,
-            "finish": null
+            "finish": 6
           },
           {
             "number": 9,
@@ -18444,7 +18444,7 @@
             "probability": 0.033855466852894714,
             "place_probability": 0.15619598403895713,
             "coverage": 0.6274059968662918,
-            "finish": null
+            "finish": 10
           },
           {
             "number": 7,
@@ -18455,7 +18455,7 @@
             "probability": 0.033374670306246426,
             "place_probability": 0.15493569318425218,
             "coverage": 0.6396081567243342,
-            "finish": null
+            "finish": 12
           }
         ],
         "betting": {
@@ -18497,7 +18497,7 @@
         "track_condition": "良",
         "fixed": true,
         "retrospective": false,
-        "winner": null,
+        "winner": "5",
         "horses": [
           {
             "number": 5,
@@ -18508,7 +18508,7 @@
             "probability": 0.10637941873363498,
             "place_probability": 0.24073883451296538,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 1
           },
           {
             "number": 11,
@@ -18519,7 +18519,7 @@
             "probability": 0.07379803630606292,
             "place_probability": 0.19712047340567157,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 16
           },
           {
             "number": 13,
@@ -18530,7 +18530,7 @@
             "probability": 0.07248302612487308,
             "place_probability": 0.19516860622154877,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 4
           },
           {
             "number": 9,
@@ -18541,7 +18541,7 @@
             "probability": 0.06498091697380727,
             "place_probability": 0.18367625037480315,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 7
           },
           {
             "number": 15,
@@ -18552,7 +18552,7 @@
             "probability": 0.06161037559519526,
             "place_probability": 0.1782985633562869,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 3
           },
           {
             "number": 10,
@@ -18563,7 +18563,7 @@
             "probability": 0.058428716213215055,
             "place_probability": 0.1730877381201286,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 6
           },
           {
             "number": 17,
@@ -18574,7 +18574,7 @@
             "probability": 0.0542341561094161,
             "place_probability": 0.1660014942971491,
             "coverage": 0.21348405249591723,
-            "finish": null
+            "finish": 2
           },
           {
             "number": 2,
@@ -18585,7 +18585,7 @@
             "probability": 0.051898357080177614,
             "place_probability": 0.16194006751739726,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 5
           },
           {
             "number": 8,
@@ -18596,7 +18596,7 @@
             "probability": 0.05015011104473834,
             "place_probability": 0.15884238493428138,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 15
           },
           {
             "number": 18,
@@ -18607,7 +18607,7 @@
             "probability": 0.04897276683070612,
             "place_probability": 0.15672702754582568,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 12
           },
           {
             "number": 1,
@@ -18618,7 +18618,7 @@
             "probability": 0.04895065377851076,
             "place_probability": 0.15668706532716473,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 14
           },
           {
             "number": 16,
@@ -18629,7 +18629,7 @@
             "probability": 0.04797163632178066,
             "place_probability": 0.15490908702726017,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 11
           },
           {
             "number": 6,
@@ -18640,7 +18640,7 @@
             "probability": 0.047788163636889744,
             "place_probability": 0.15457396651838107,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 9
           },
           {
             "number": 4,
@@ -18651,7 +18651,7 @@
             "probability": 0.04706270149047011,
             "place_probability": 0.1532428412311439,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 17
           },
           {
             "number": 12,
@@ -18662,7 +18662,7 @@
             "probability": 0.04601433781529094,
             "place_probability": 0.15130188199605804,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 10
           },
           {
             "number": 3,
@@ -18673,7 +18673,7 @@
             "probability": 0.04180381546547468,
             "place_probability": 0.1432870394306647,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 13
           },
           {
             "number": 7,
@@ -18684,7 +18684,7 @@
             "probability": 0.03956398487338565,
             "place_probability": 0.13886862084066873,
             "coverage": 0.21284015111268523,
-            "finish": null
+            "finish": 18
           },
           {
             "number": 14,
@@ -18695,7 +18695,7 @@
             "probability": 0.03790882560637075,
             "place_probability": 0.13552805734260082,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 8
           }
         ],
         "betting": {
@@ -18737,7 +18737,7 @@
         "track_condition": "良",
         "fixed": true,
         "retrospective": false,
-        "winner": null,
+        "winner": "9",
         "horses": [
           {
             "number": 9,
@@ -18748,7 +18748,7 @@
             "probability": 0.17796931695190915,
             "place_probability": 0.4249246340459778,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 1
           },
           {
             "number": 5,
@@ -18770,7 +18770,7 @@
             "probability": 0.12461642677456689,
             "place_probability": 0.35715059984237174,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 5
           },
           {
             "number": 3,
@@ -18781,7 +18781,7 @@
             "probability": 0.12115702146828994,
             "place_probability": 0.3521250675147749,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 3
           },
           {
             "number": 7,
@@ -18792,7 +18792,7 @@
             "probability": 0.11382439589043872,
             "place_probability": 0.3411616177635059,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 2
           },
           {
             "number": 2,
@@ -18803,7 +18803,7 @@
             "probability": 0.08763895533165661,
             "place_probability": 0.29800693802293193,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 8
           },
           {
             "number": 8,
@@ -18814,7 +18814,7 @@
             "probability": 0.08300900574100493,
             "place_probability": 0.2896090487261658,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 6
           },
           {
             "number": 4,
@@ -18825,7 +18825,7 @@
             "probability": 0.08270662725362632,
             "place_probability": 0.2890513165640899,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 7
           },
           {
             "number": 6,
@@ -18836,7 +18836,7 @@
             "probability": 0.08099839942116259,
             "place_probability": 0.2858784113060956,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 4
           }
         ],
         "betting": {
@@ -18963,7 +18963,7 @@
         "track_condition": "良",
         "fixed": true,
         "retrospective": false,
-        "winner": null,
+        "winner": "13",
         "horses": [
           {
             "number": 7,
@@ -18974,7 +18974,7 @@
             "probability": 0.1452866627671712,
             "place_probability": 0.29780887241185455,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 3
           },
           {
             "number": 17,
@@ -18985,7 +18985,7 @@
             "probability": 0.1213874792804883,
             "place_probability": 0.27100018991538705,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 2
           },
           {
             "number": 2,
@@ -18996,7 +18996,7 @@
             "probability": 0.10382447574272416,
             "place_probability": 0.2493205884595966,
             "coverage": 0.8603554074358971,
-            "finish": null
+            "finish": 6
           },
           {
             "number": 13,
@@ -19007,7 +19007,7 @@
             "probability": 0.08533688335808728,
             "place_probability": 0.2242091341080788,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 1
           },
           {
             "number": 4,
@@ -19018,7 +19018,7 @@
             "probability": 0.08304839149901427,
             "place_probability": 0.22090670972442006,
             "coverage": 0.8603554074358971,
-            "finish": null
+            "finish": 11
           },
           {
             "number": 11,
@@ -19029,7 +19029,7 @@
             "probability": 0.07353704940875247,
             "place_probability": 0.2066464276538437,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 7
           },
           {
             "number": 9,
@@ -19040,7 +19040,7 @@
             "probability": 0.06730519869671114,
             "place_probability": 0.1967836252920836,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 13
           },
           {
             "number": 8,
@@ -19051,7 +19051,7 @@
             "probability": 0.0466145692710876,
             "place_probability": 0.16024912532218674,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 8
           },
           {
             "number": 3,
@@ -19062,7 +19062,7 @@
             "probability": 0.03673933418297548,
             "place_probability": 0.14002257551763475,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 4
           },
           {
             "number": 12,
@@ -19073,7 +19073,7 @@
             "probability": 0.03584322099140106,
             "place_probability": 0.1380669052938685,
             "coverage": 0.6556944841887273,
-            "finish": null
+            "finish": 14
           },
           {
             "number": 5,
@@ -19084,7 +19084,7 @@
             "probability": 0.03329083398276176,
             "place_probability": 0.13236838317169508,
             "coverage": 0.6556944841887273,
-            "finish": null
+            "finish": 17
           },
           {
             "number": 14,
@@ -19095,7 +19095,7 @@
             "probability": 0.0332696122872364,
             "place_probability": 0.13232017065099796,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 9
           },
           {
             "number": 15,
@@ -19106,7 +19106,7 @@
             "probability": 0.027729811304701427,
             "place_probability": 0.11920767219740516,
             "coverage": 0.8603554074358971,
-            "finish": null
+            "finish": 5
           },
           {
             "number": 10,
@@ -19117,7 +19117,7 @@
             "probability": 0.025326108697969387,
             "place_probability": 0.11314879481562165,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 10
           },
           {
             "number": 1,
@@ -19128,7 +19128,7 @@
             "probability": 0.02377834757024188,
             "place_probability": 0.10910914682727138,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 16
           },
           {
             "number": 6,
@@ -19139,7 +19139,7 @@
             "probability": 0.022781874040811546,
             "place_probability": 0.10644559745430124,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 18
           },
           {
             "number": 16,
@@ -19150,7 +19150,7 @@
             "probability": 0.018069905061852576,
             "place_probability": 0.09307611404999505,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 12
           },
           {
             "number": 18,
@@ -19161,7 +19161,7 @@
             "probability": 0.016830241856012087,
             "place_probability": 0.0893099671337586,
             "coverage": 0.6556944841887273,
-            "finish": null
+            "finish": 15
           }
         ],
         "betting": {
@@ -19203,7 +19203,7 @@
         "track_condition": "良",
         "fixed": true,
         "retrospective": false,
-        "winner": null,
+        "winner": "5",
         "horses": [
           {
             "number": 10,
@@ -19214,7 +19214,7 @@
             "probability": 0.18019622406447464,
             "place_probability": 0.40258773668572767,
             "coverage": 0.7931450294152729,
-            "finish": null
+            "finish": 6
           },
           {
             "number": 11,
@@ -19225,7 +19225,7 @@
             "probability": 0.17976768658538209,
             "place_probability": 0.40212799964313206,
             "coverage": 0.7977520113582584,
-            "finish": null
+            "finish": 2
           },
           {
             "number": 5,
@@ -19236,7 +19236,7 @@
             "probability": 0.13488258878581588,
             "place_probability": 0.3491017378651623,
             "coverage": 0.7931450294152729,
-            "finish": null
+            "finish": 1
           },
           {
             "number": 7,
@@ -19247,7 +19247,7 @@
             "probability": 0.11674617584613659,
             "place_probability": 0.32437572872005915,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 7
           },
           {
             "number": 4,
@@ -19258,7 +19258,7 @@
             "probability": 0.07392130232720175,
             "place_probability": 0.2549760170991487,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 3
           },
           {
             "number": 2,
@@ -19269,7 +19269,7 @@
             "probability": 0.058798519060238114,
             "place_probability": 0.22516724786441072,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 9
           },
           {
             "number": 1,
@@ -19280,7 +19280,7 @@
             "probability": 0.055204072579237054,
             "place_probability": 0.21750491074261413,
             "coverage": 0.7931450294152729,
-            "finish": null
+            "finish": 5
           },
           {
             "number": 6,
@@ -19291,7 +19291,7 @@
             "probability": 0.054576168695755184,
             "place_probability": 0.2161402547659526,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 11
           },
           {
             "number": 3,
@@ -19302,7 +19302,7 @@
             "probability": 0.05320561169574609,
             "place_probability": 0.21313330475769665,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 4
           },
           {
             "number": 9,
@@ -19313,7 +19313,7 @@
             "probability": 0.04771467693319699,
             "place_probability": 0.2006720468859864,
             "coverage": 0.760770241516897,
-            "finish": null
+            "finish": 8
           },
           {
             "number": 8,
@@ -19324,7 +19324,7 @@
             "probability": 0.0449869734268156,
             "place_probability": 0.1942130149701094,
             "coverage": 0.7931450294152729,
-            "finish": null
+            "finish": 10
           }
         ],
         "betting": {
@@ -19451,7 +19451,7 @@
         "track_condition": "良",
         "fixed": true,
         "retrospective": false,
-        "winner": null,
+        "winner": "6",
         "horses": [
           {
             "number": 3,
@@ -19462,7 +19462,7 @@
             "probability": 0.16886169604590073,
             "place_probability": 0.4188114498325446,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 3
           },
           {
             "number": 4,
@@ -19473,7 +19473,7 @@
             "probability": 0.14882643708271387,
             "place_probability": 0.39413673863962606,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 2
           },
           {
             "number": 9,
@@ -19484,7 +19484,7 @@
             "probability": 0.14539617051518783,
             "place_probability": 0.38968111682271206,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 7
           },
           {
             "number": 7,
@@ -19495,7 +19495,7 @@
             "probability": 0.12793671596258085,
             "place_probability": 0.36582102210002465,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 6
           },
           {
             "number": 5,
@@ -19506,7 +19506,7 @@
             "probability": 0.10807018732533756,
             "place_probability": 0.3359176943370244,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 5
           },
           {
             "number": 8,
@@ -19517,7 +19517,7 @@
             "probability": 0.0909853805604579,
             "place_probability": 0.3073308241650211,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 4
           },
           {
             "number": 6,
@@ -19528,7 +19528,7 @@
             "probability": 0.08638933734365334,
             "place_probability": 0.29910146806629656,
             "coverage": 0.8542033891225277,
-            "finish": null
+            "finish": 1
           },
           {
             "number": 2,
@@ -19539,7 +19539,7 @@
             "probability": 0.08525760875842557,
             "place_probability": 0.2970360888156889,
             "coverage": 0.8542033891225277,
-            "finish": null
+            "finish": 8
           },
           {
             "number": 1,
@@ -19550,7 +19550,7 @@
             "probability": 0.038276466405742386,
             "place_probability": 0.19216359722106224,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 9
           }
         ],
         "betting": {
@@ -19677,7 +19677,7 @@
         "track_condition": "良",
         "fixed": true,
         "retrospective": false,
-        "winner": null,
+        "winner": "7",
         "horses": [
           {
             "number": 8,
@@ -19688,7 +19688,7 @@
             "probability": 0.10454514796798321,
             "place_probability": 0.2831916805658778,
             "coverage": 0.6602018771028865,
-            "finish": null
+            "finish": 11
           },
           {
             "number": 12,
@@ -19699,7 +19699,7 @@
             "probability": 0.10143774723458238,
             "place_probability": 0.27871567588038004,
             "coverage": 0.5587512051630168,
-            "finish": null
+            "finish": 2
           },
           {
             "number": 10,
@@ -19710,7 +19710,7 @@
             "probability": 0.10007106317560528,
             "place_probability": 0.27672229487332867,
             "coverage": 0.6534333372685596,
-            "finish": null
+            "finish": 10
           },
           {
             "number": 11,
@@ -19721,7 +19721,7 @@
             "probability": 0.08976782756415846,
             "place_probability": 0.2611740876985124,
             "coverage": 0.6534333372685596,
-            "finish": null
+            "finish": 6
           },
           {
             "number": 1,
@@ -19732,7 +19732,7 @@
             "probability": 0.08756597085254846,
             "place_probability": 0.2577242055799568,
             "coverage": 0.663637280365189,
-            "finish": null
+            "finish": 8
           },
           {
             "number": 7,
@@ -19743,7 +19743,7 @@
             "probability": 0.08496531497758703,
             "place_probability": 0.25358743469326367,
             "coverage": 0.6602018771028865,
-            "finish": null
+            "finish": 1
           },
           {
             "number": 2,
@@ -19754,7 +19754,7 @@
             "probability": 0.07999261568377698,
             "place_probability": 0.24548070185557813,
             "coverage": 0.6602018771028865,
-            "finish": null
+            "finish": 7
           },
           {
             "number": 4,
@@ -19765,7 +19765,7 @@
             "probability": 0.0762443065169818,
             "place_probability": 0.23918839165268324,
             "coverage": 0.5587512051630168,
-            "finish": null
+            "finish": 5
           },
           {
             "number": 3,
@@ -19776,7 +19776,7 @@
             "probability": 0.07352233562696553,
             "place_probability": 0.23451463246298743,
             "coverage": 0.5534333372685595,
-            "finish": null
+            "finish": 9
           },
           {
             "number": 9,
@@ -19787,7 +19787,7 @@
             "probability": 0.07163633459640818,
             "place_probability": 0.23122217841668374,
             "coverage": 0.6611601538673435,
-            "finish": null
+            "finish": 12
           },
           {
             "number": 6,
@@ -19798,7 +19798,7 @@
             "probability": 0.07097448775780452,
             "place_probability": 0.23005593305218203,
             "coverage": 0.5602018771028865,
-            "finish": null
+            "finish": 4
           },
           {
             "number": 5,
@@ -19809,7 +19809,7 @@
             "probability": 0.05927684804559814,
             "place_probability": 0.2084227832685659,
             "coverage": 0.6611601538673435,
-            "finish": null
+            "finish": 3
           }
         ],
         "betting": {
@@ -19851,7 +19851,7 @@
         "track_condition": "良",
         "fixed": true,
         "retrospective": false,
-        "winner": null,
+        "winner": "4",
         "horses": [
           {
             "number": 3,
@@ -19862,7 +19862,7 @@
             "probability": 0.14358762526225885,
             "place_probability": 0.31887401563309103,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 13
           },
           {
             "number": 10,
@@ -19873,7 +19873,7 @@
             "probability": 0.12477919874006191,
             "place_probability": 0.2965358634545743,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 2
           },
           {
             "number": 5,
@@ -19884,7 +19884,7 @@
             "probability": 0.11061691739643993,
             "place_probability": 0.27836549689248496,
             "coverage": 0.8008109881146137,
-            "finish": null
+            "finish": 4
           },
           {
             "number": 12,
@@ -19895,7 +19895,7 @@
             "probability": 0.09443763124816691,
             "place_probability": 0.25590078141115874,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 10
           },
           {
             "number": 13,
@@ -19906,7 +19906,7 @@
             "probability": 0.07153039572090507,
             "place_probability": 0.22013506588808746,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 6
           },
           {
             "number": 14,
@@ -19917,7 +19917,7 @@
             "probability": 0.06042429519086999,
             "place_probability": 0.200610348204018,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 3
           },
           {
             "number": 8,
@@ -19928,7 +19928,7 @@
             "probability": 0.05824213477078002,
             "place_probability": 0.19656451231524158,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 9
           },
           {
             "number": 1,
@@ -19939,7 +19939,7 @@
             "probability": 0.05728849293850848,
             "place_probability": 0.19477249054549933,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 8
           },
           {
             "number": 11,
@@ -19950,7 +19950,7 @@
             "probability": 0.05603635124073908,
             "place_probability": 0.19239669163214734,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 12
           },
           {
             "number": 2,
@@ -19961,7 +19961,7 @@
             "probability": 0.05077358686370192,
             "place_probability": 0.18210962798874192,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 5
           },
           {
             "number": 4,
@@ -19972,7 +19972,7 @@
             "probability": 0.04645835846612516,
             "place_probability": 0.17327559559074698,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 1
           },
           {
             "number": 6,
@@ -19983,7 +19983,7 @@
             "probability": 0.04565801116420812,
             "place_probability": 0.17159374231741384,
             "coverage": 0.7977520113582584,
-            "finish": null
+            "finish": 14
           },
           {
             "number": 7,
@@ -19994,7 +19994,7 @@
             "probability": 0.0415213467877049,
             "place_probability": 0.16266388652375927,
             "coverage": 0.7931450294152729,
-            "finish": null
+            "finish": 7
           },
           {
             "number": 9,
@@ -20005,7 +20005,7 @@
             "probability": 0.038645654209529604,
             "place_probability": 0.15620188160303508,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 11
           }
         ],
         "betting": {
@@ -20047,7 +20047,7 @@
         "track_condition": "良",
         "fixed": true,
         "retrospective": false,
-        "winner": null,
+        "winner": "13",
         "horses": [
           {
             "number": 4,
@@ -20058,7 +20058,7 @@
             "probability": 0.14089260425887304,
             "place_probability": 0.3163666414948698,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 12
           },
           {
             "number": 5,
@@ -20069,7 +20069,7 @@
             "probability": 0.11864060345339891,
             "place_probability": 0.28935478821188554,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 6
           },
           {
             "number": 7,
@@ -20080,7 +20080,7 @@
             "probability": 0.08679541550824461,
             "place_probability": 0.24501415206160934,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 7
           },
           {
             "number": 9,
@@ -20091,7 +20091,7 @@
             "probability": 0.08612564947618687,
             "place_probability": 0.2439918627914504,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 9
           },
           {
             "number": 14,
@@ -20102,7 +20102,7 @@
             "probability": 0.08427484330902137,
             "place_probability": 0.24114440772650708,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 3
           },
           {
             "number": 10,
@@ -20113,7 +20113,7 @@
             "probability": 0.0803301596615136,
             "place_probability": 0.2349614414935773,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 2
           },
           {
             "number": 11,
@@ -20124,7 +20124,7 @@
             "probability": 0.07924046770905792,
             "place_probability": 0.23322502763751785,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 8
           },
           {
             "number": 6,
@@ -20135,7 +20135,7 @@
             "probability": 0.06042186829416428,
             "place_probability": 0.20099781748515172,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 5
           },
           {
             "number": 13,
@@ -20146,7 +20146,7 @@
             "probability": 0.05440607268983822,
             "place_probability": 0.18963491983369835,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 1
           },
           {
             "number": 12,
@@ -20157,7 +20157,7 @@
             "probability": 0.05419368678693136,
             "place_probability": 0.18922255167370133,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 14
           },
           {
             "number": 1,
@@ -20168,7 +20168,7 @@
             "probability": 0.05066101306976177,
             "place_probability": 0.18224217210804758,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 10
           },
           {
             "number": 2,
@@ -20179,7 +20179,7 @@
             "probability": 0.04507071886897474,
             "place_probability": 0.17068757426981562,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 11
           },
           {
             "number": 8,
@@ -20190,7 +20190,7 @@
             "probability": 0.04052127018045536,
             "place_probability": 0.16076032289679895,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 4
           },
           {
             "number": 3,
@@ -20201,7 +20201,7 @@
             "probability": 0.01842562673357789,
             "place_probability": 0.10239632031536877,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 13
           }
         ],
         "betting": {
@@ -20225,7 +20225,7 @@
               "numerical_rank": 1,
               "assessment": "直前確認：514kg（前走比+6kg）。今年の東京重賞勝利時は510kgで、今回の数字だけで大きく下げる材料とはしない。ただし映像で張り・太めを確認できていない。朝の◎を維持。\n\n◎。数値1位を維持。東京マイルの東京新聞杯、東京1800mのエプソムCを今年勝っており、同競馬場での実績の再現性を軸選定で優先する。安田記念9着でも0.7秒差。父レイデオロ×母父エンパイアメーカー、母の半姉ディアドラという牝系だが、本人の東京実績へ血統を重ねて加点しない。Aカテゴリー計57.017点は10の56.841点と僅差なので能力で圧倒とは判断しない。自身も約4か月の休み明けで仕上がりは未確認。",
               "numerical_explanation": "保存済みbaseline/base_v1.2の数値順位1位、総合76.299点、エンジン推定勝率14.09%。寄与はA1近走14.180、A3芝・ダート19.484、A7クラス11.381、B2騎手×コース6.931点。31項目は使用値×実効係数の合計。A4距離・A6競馬場・C1枠・C2展開・B6斤量は重み0。A21とA22は欠測を50で補完（計5.752点）しており、今回の調教良化を示すものではない。血統A15〜A18の寄与は全馬で計0.18〜0.27点にとどまる。",
-              "finish": null
+              "finish": 12
             },
             {
               "number": 10,
@@ -20235,7 +20235,7 @@
               "numerical_rank": 6,
               "assessment": "直前確認：494kg（前走比-4kg）。良の東京で勝った分倍河原S時496kgとも近く、大幅な馬体減とは扱わない。馬体重を理由に○から下げない。\n\n○。数値6位から2位へ。4との総合差8.428点のうちB2騎手×コース差が5.828点を占め、馬のAカテゴリー合計差は0.176点しかない。関屋記念5馬身差・Rt114に加え、良の東京マイルでも勝利があり不良専用とは扱わない。Iffraaj×Dubawi、母の全弟はBCマイル勝ちMaster Of The Seasで母系にもマイル実績。ただし血統で良馬場G2好走を保証しない。前走56kgから57kg、相手強化、約3か月ぶりが課題。4より実績の再現性の確認が少ないため対抗まで。",
               "numerical_explanation": "保存済みbaseline/base_v1.2の数値順位6位、総合67.871点、エンジン推定勝率8.03%。寄与はA1近走14.010、A3芝・ダート19.484、A7クラス11.050、B2騎手×コース1.103点。31項目は使用値×実効係数の合計。A4距離・A6競馬場・C1枠・C2展開・B6斤量は重み0。A21とA22は欠測を50で補完（計5.752点）しており、今回の調教良化を示すものではない。血統A15〜A18の寄与は全馬で計0.18〜0.27点にとどまる。",
-              "finish": null
+              "finish": 2
             },
             {
               "number": 5,
@@ -20245,7 +20245,7 @@
               "numerical_rank": 2,
               "assessment": "直前確認：492kg（前走比+10kg）。約5か月半ぶりで注意は必要だが、成長・休養明けの戻りか太めかは体重だけでは判断できない。▲据え置きで、積極的な上方修正もしない。\n\n▲。数値2位から3位へ。A1とA7はいずれも組内最上位で、朝日杯FS勝ちと直近マイラーズC勝ちを軽視しない。前で運べる点はスロー時の強み。モーリス×ハーツクライだが、既に本人がマイル重賞を勝っているため血統による再加点はしない。約5か月半ぶりで58kg、4と10より1kg重く、昨年NHKマイルC14着から東京への適性の再確認も必要。休み明けを理由に能力を下位扱いせず、逆転候補を維持する。",
               "numerical_explanation": "保存済みbaseline/base_v1.2の数値順位2位、総合73.720点、エンジン推定勝率11.86%。寄与はA1近走14.750、A3芝・ダート17.860、A7クラス13.700、B2騎手×コース4.068点。31項目は使用値×実効係数の合計。A4距離・A6競馬場・C1枠・C2展開・B6斤量は重み0。A21とA22は欠測を50で補完（計5.752点）しており、今回の調教良化を示すものではない。血統A15〜A18の寄与は全馬で計0.18〜0.27点にとどまる。",
-              "finish": null
+              "finish": 6
             },
             {
               "number": 14,
@@ -20255,7 +20255,7 @@
               "numerical_rank": 5,
               "assessment": "直前確認：486kg（前走比+10kg）。3歳馬で成長の可能性もあるが、成長分と断定する資料もない。外枠・位置取りの懸念を残して△を維持。\n\n△。数値5位から4位へ。東京マイルのサウジRC勝ちに加え、しらさぎSは古馬相手に0.1秒差3着。主力57kgに対し55kgで出走することを支持材料にする。ただし前走は53kgで、前走比では2kg増えており単純な斤量有利の拡大とは言わない。モズアスコット×フレンチデピュティという血統より本人の同条件実績を優先。外枠から後方になって届かない展開が課題で、頭固定にはしない。",
               "numerical_explanation": "保存済みbaseline/base_v1.2の数値順位5位、総合68.590点、エンジン推定勝率8.43%。寄与はA1近走14.092、A3芝・ダート17.535、A7クラス11.547、B2騎手×コース1.980点。31項目は使用値×実効係数の合計。A4距離・A6競馬場・C1枠・C2展開・B6斤量は重み0。A21とA22は欠測を50で補完（計5.752点）しており、今回の調教良化を示すものではない。血統A15〜A18の寄与は全馬で計0.18〜0.27点にとどまる。",
-              "finish": null
+              "finish": 3
             },
             {
               "number": 1,
@@ -20265,7 +20265,7 @@
               "numerical_rank": 11,
               "assessment": "直前確認：476kg（前走比+2kg）。大きな増減ではなく、☆を維持。単勝は前回記録13.7倍から15:29表示16.0倍だが、オッズ上昇を能力上昇の根拠にはしない。\n\n☆。数値11位から5位へ。しらさぎS4着0.1秒差、京成杯AH4着0.2秒差の直近内容を、着順だけで大敗と扱わない。A3の芝3着内実績比率は4着惜敗を拾いにくく、A11の改善傾向60.02も寄与は0.110点にとどまるため、改善の内容をAI側で評価する。サートゥルナーリア×ジャスタウェイは確認したが、母系の比較成績を未精査なので血統を理由に大幅上昇させない。東京での重賞好走実績と内枠の進路確保に不確実性があり穴相手まで。",
               "numerical_explanation": "保存済みbaseline/base_v1.2の数値順位11位、総合60.956点、エンジン推定勝率5.07%。寄与はA1近走11.887、A3芝・ダート15.309、A7クラス10.999、B2騎手×コース2.035点。31項目は使用値×実効係数の合計。A4距離・A6競馬場・C1枠・C2展開・B6斤量は重み0。A21とA22は欠測を50で補完（計5.752点）しており、今回の調教良化を示すものではない。血統A15〜A18の寄与は全馬で計0.18〜0.27点にとどまる。",
-              "finish": null
+              "finish": 10
             },
             {
               "number": 7,
@@ -20275,7 +20275,7 @@
               "numerical_rank": 3,
               "assessment": "次点6位。数値3位から下げるが能力否定ではない。東京マイル3勝、昨年マイルCS3着、今年東京新聞杯0.1秒差3着は今回でも通用する実績。一方、直近はマイラーズC13着0.5秒差、安田記念13着1.0秒差で、復調を確認できる今回の追切・パドック材料がない。13着という着順だけで大敗とはしないが、直近の内容を重視して1を5頭目に選ぶ。ドレフォン産駒でも本人の芝実績があるためダート血統として減点しない。",
               "numerical_explanation": "保存済みbaseline/base_v1.2の数値順位3位、総合69.032点、エンジン推定勝率8.68%。寄与はA1近走12.637、A3芝・ダート19.484、A7クラス12.440、B2騎手×コース2.970点。31項目は使用値×実効係数の合計。A4距離・A6競馬場・C1枠・C2展開・B6斤量は重み0。A21とA22は欠測を50で補完（計5.752点）しており、今回の調教良化を示すものではない。血統A15〜A18の寄与は全馬で計0.18〜0.27点にとどまる。",
-              "finish": null
+              "finish": 7
             },
             {
               "number": 8,
@@ -20285,7 +20285,7 @@
               "numerical_rank": 13,
               "assessment": "7位。数値13位から見直す。A7は12.904点と高い一方、A3は10.315点で、3着内率中心の芝評価が重い。NHKマイルC2着の同舞台実績と近走のG2・G3での4〜6着を考えると、13位相当の絶対的な能力不足とは扱えない。2000mからマイルへの短縮は改善仮説だが今回有利になるか未確認。折り合いと脚を使う位置の不確実性があるため、1・7より下の次点とし5頭枠には入れない。",
               "numerical_explanation": "保存済みbaseline/base_v1.2の数値順位13位、総合57.606点、エンジン推定勝率4.05%。寄与はA1近走11.483、A3芝・ダート10.315、A7クラス12.904、B2騎手×コース2.399点。31項目は使用値×実効係数の合計。A4距離・A6競馬場・C1枠・C2展開・B6斤量は重み0。A21とA22は欠測を50で補完（計5.752点）しており、今回の調教良化を示すものではない。血統A15〜A18の寄与は全馬で計0.18〜0.27点にとどまる。",
-              "finish": null
+              "finish": 4
             },
             {
               "number": 9,
@@ -20295,7 +20295,7 @@
               "numerical_rank": 4,
               "assessment": "8位。数値4位から下げる。しらさぎS2着0.1秒差のマイル重賞実績は支持するが、前走中京記念9着0.7秒差で、同条件での近走の安定性には課題。A3が上限100で4や10と同じ寄与19.484点でも、同じ能力や今回の展開適性を意味しない。ロードカナロア×サクラバクシンオーという配合だけで府中マイル向きを断定しない。流れて差しが決まる場合の上昇余地はあるが、今回の平均〜やや遅め想定では上位5頭から外す。",
               "numerical_explanation": "保存済みbaseline/base_v1.2の数値順位4位、総合68.916点、エンジン推定勝率8.61%。寄与はA1近走12.438、A3芝・ダート19.484、A7クラス11.254、B2騎手×コース3.503点。31項目は使用値×実効係数の合計。A4距離・A6競馬場・C1枠・C2展開・B6斤量は重み0。A21とA22は欠測を50で補完（計5.752点）しており、今回の調教良化を示すものではない。血統A15〜A18の寄与は全馬で計0.18〜0.27点にとどまる。",
-              "finish": null
+              "finish": 9
             },
             {
               "number": 11,
@@ -20305,7 +20305,7 @@
               "numerical_rank": 7,
               "assessment": "9位。数値7位から下げる。重賞3着はあるが、関屋記念では10に0.9秒差で、今回は同じ57kgの対戦となり逆転の積極材料を確認できていない。良馬場で前走の着差が再現するとは断定しないものの、G2の相手強化を考慮し相手筆頭までは上げない。A3上限100は今回の相手関係を直接示さない。ハーツクライ×Street Cryから距離適性を決め付けず本人の戦績を優先。",
               "numerical_explanation": "保存済みbaseline/base_v1.2の数値順位7位、総合67.666点、エンジン推定勝率7.92%。寄与はA1近走13.299、A3芝・ダート19.484、A7クラス10.798、B2騎手×コース1.622点。31項目は使用値×実効係数の合計。A4距離・A6競馬場・C1枠・C2展開・B6斤量は重み0。A21とA22は欠測を50で補完（計5.752点）しており、今回の調教良化を示すものではない。血統A15〜A18の寄与は全馬で計0.18〜0.27点にとどまる。",
-              "finish": null
+              "finish": 8
             },
             {
               "number": 6,
@@ -20315,7 +20315,7 @@
               "numerical_rank": 8,
               "assessment": "10位。数値8位から下げる。鳴尾記念勝ちの能力はあるが直近は2000m中心で、前走函館記念11着。今回マイルへの短縮をプラスとする根拠は不十分で、7歳という年齢だけを大幅減点の理由にもしない。A4距離・A6競馬場の重み0という数値モデルの制約を踏まえ、東京マイルでの再現性を上位馬より低く置く。",
               "numerical_explanation": "保存済みbaseline/base_v1.2の数値順位8位、総合63.599点、エンジン推定勝率6.04%。寄与はA1近走11.776、A3芝・ダート16.366、A7クラス11.050、B2騎手×コース2.970点。31項目は使用値×実効係数の合計。A4距離・A6競馬場・C1枠・C2展開・B6斤量は重み0。A21とA22は欠測を50で補完（計5.752点）しており、今回の調教良化を示すものではない。血統A15〜A18の寄与は全馬で計0.18〜0.27点にとどまる。",
-              "finish": null
+              "finish": 5
             },
             {
               "number": 12,
@@ -20325,7 +20325,7 @@
               "numerical_rank": 10,
               "assessment": "11位。数値10位から一つ下げる。逃げ候補として展開の鍵を握る。東京マイルの条件戦勝ちはあるが近3走はオープン・重賞で7〜11着。前走ダービー卿CTは55kgで0.4秒差8着、今回は57kgかつ半年ぶり。楽に先手を取れば残る余地はあるが、それを確定情報として順位を上げない。A3上限100でも重賞での先行粘りを保証しない。",
               "numerical_explanation": "保存済みbaseline/base_v1.2の数値順位10位、総合61.967点、エンジン推定勝率5.42%。寄与はA1近走11.251、A3芝・ダート19.484、A7クラス10.056、B2騎手×コース0.894点。31項目は使用値×実効係数の合計。A4距離・A6競馬場・C1枠・C2展開・B6斤量は重み0。A21とA22は欠測を50で補完（計5.752点）しており、今回の調教良化を示すものではない。血統A15〜A18の寄与は全馬で計0.18〜0.27点にとどまる。",
-              "finish": null
+              "finish": 14
             },
             {
               "number": 2,
@@ -20335,7 +20335,7 @@
               "numerical_rank": 12,
               "assessment": "12位据え置き。条件戦連勝の上昇は認めるが、直近は1400mで今回はマイルG2へ相手が強化され約半年ぶり。A11は使用値100でも寄与0.184点で、数値モデルが成長を強く反映しているわけではない。ただし成長を見込むだけで既存の重賞好走馬を上回る根拠はないため、今回は上位候補に上げない。",
               "numerical_explanation": "保存済みbaseline/base_v1.2の数値順位12位、総合59.202点、エンジン推定勝率4.51%。寄与はA1近走11.314、A3芝・ダート16.886、A7クラス10.056、B2騎手×コース1.410点。31項目は使用値×実効係数の合計。A4距離・A6競馬場・C1枠・C2展開・B6斤量は重み0。A21とA22は欠測を50で補完（計5.752点）しており、今回の調教良化を示すものではない。血統A15〜A18の寄与は全馬で計0.18〜0.27点にとどまる。",
-              "finish": null
+              "finish": 11
             },
             {
               "number": 13,
@@ -20345,7 +20345,7 @@
               "numerical_rank": 9,
               "assessment": "13位。数値9位から下げる。青葉賞勝ちによるA7の過去実績はあるが、復帰後は新潟大賞典15着、宝塚記念17着。実績のある2400mから大きく異なる1600mで、現時点の速さと状態を裏付ける材料がない。過去の格を無視せずとも、今回はその格がマイルで再現するという仮説には乗れない。",
               "numerical_explanation": "保存済みbaseline/base_v1.2の数値順位9位、総合62.026点、エンジン推定勝率5.44%。寄与はA1近走9.581、A3芝・ダート17.860、A7クラス12.051、B2騎手×コース1.565点。31項目は使用値×実効係数の合計。A4距離・A6競馬場・C1枠・C2展開・B6斤量は重み0。A21とA22は欠測を50で補完（計5.752点）しており、今回の調教良化を示すものではない。血統A15〜A18の寄与は全馬で計0.18〜0.27点にとどまる。",
-              "finish": null
+              "finish": 1
             },
             {
               "number": 3,
@@ -20355,7 +20355,7 @@
               "numerical_rank": 14,
               "assessment": "14位据え置き。近走A1が4.873点で他馬との差が大きい。直近4走の芝競走で13、13、14、17着と不振が続いており、芝1600mの今回で上昇を裏付ける当日材料がない。血統だけで巻き返しを期待せず、買い目から外す。",
               "numerical_explanation": "保存済みbaseline/base_v1.2の数値順位14位、総合45.785点、エンジン推定勝率1.84%。寄与はA1近走4.873、A3芝・ダート9.229、A7クラス10.521、B2騎手×コース1.870点。31項目は使用値×実効係数の合計。A4距離・A6競馬場・C1枠・C2展開・B6斤量は重み0。A21とA22は欠測を50で補完（計5.752点）しており、今回の調教良化を示すものではない。血統A15〜A18の寄与は全馬で計0.18〜0.27点にとどまる。",
-              "finish": null
+              "finish": 13
             }
           ],
           "summary": "富士Sの直前再評価。◎4トロヴァトーレ、○10アンパドゥ、▲5アドマイヤズーム、△14エコロアルバ、☆1ファンダムで朝の順位・買い目を維持。新たに馬体重、15:29表示の単勝、馬連・3連複オッズ、当日東京芝8R・9Rの通過順を確認した。5と14の+10kgは注意材料だが、体重だけで太めと判断せず順位は入れ替えない。",
@@ -20601,7 +20601,7 @@
         "track_condition": "良",
         "fixed": true,
         "retrospective": false,
-        "winner": null,
+        "winner": "2",
         "horses": [
           {
             "number": 7,
@@ -20612,7 +20612,7 @@
             "probability": 0.14101139364300327,
             "place_probability": 0.31652218168075746,
             "coverage": 0.8008109881146137,
-            "finish": null
+            "finish": 2
           },
           {
             "number": 5,
@@ -20623,7 +20623,7 @@
             "probability": 0.12904811675987574,
             "place_probability": 0.3023511768698028,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 3
           },
           {
             "number": 2,
@@ -20634,7 +20634,7 @@
             "probability": 0.09784029983613077,
             "place_probability": 0.26130442734674075,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 1
           },
           {
             "number": 9,
@@ -20645,7 +20645,7 @@
             "probability": 0.08523404329947176,
             "place_probability": 0.2426388334279287,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 6
           },
           {
             "number": 12,
@@ -20656,7 +20656,7 @@
             "probability": 0.0848289248518087,
             "place_probability": 0.2420148678879953,
             "coverage": 0.7034329681914897,
-            "finish": null
+            "finish": 4
           },
           {
             "number": 6,
@@ -20667,7 +20667,7 @@
             "probability": 0.07977500335300232,
             "place_probability": 0.2340924338647575,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 9
           },
           {
             "number": 14,
@@ -20678,7 +20678,7 @@
             "probability": 0.06953801838857562,
             "place_probability": 0.2171872049845207,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 5
           },
           {
             "number": 8,
@@ -20689,7 +20689,7 @@
             "probability": 0.060340901877836674,
             "place_probability": 0.2008608728086227,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 13
           },
           {
             "number": 3,
@@ -20700,7 +20700,7 @@
             "probability": 0.050150911450505896,
             "place_probability": 0.18122555766482265,
             "coverage": 0.7931450294152729,
-            "finish": null
+            "finish": 11
           },
           {
             "number": 4,
@@ -20711,7 +20711,7 @@
             "probability": 0.044767278119485485,
             "place_probability": 0.17005121281355656,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 8
           },
           {
             "number": 11,
@@ -20722,7 +20722,7 @@
             "probability": 0.04446987147088357,
             "place_probability": 0.1694153399205351,
             "coverage": 0.7034329681914897,
-            "finish": null
+            "finish": 7
           },
           {
             "number": 1,
@@ -20733,7 +20733,7 @@
             "probability": 0.0406415796557438,
             "place_probability": 0.16103927100903448,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 12
           },
           {
             "number": 10,
@@ -20744,7 +20744,7 @@
             "probability": 0.03907939687077252,
             "place_probability": 0.157513078492355,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 14
           },
           {
             "number": 13,
@@ -20755,7 +20755,7 @@
             "probability": 0.033274260422903906,
             "place_probability": 0.14378354122857043,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 10
           }
         ],
         "betting": {
@@ -20779,7 +20779,7 @@
               "numerical_rank": 2,
               "assessment": "◎。数値2位から1位。直近のダート1400mは現級で3着・3着・3着、勝ち馬との差は0.5秒・0.2秒・0.2秒。前走12着は芝1200mなので、今回のダート能力低下の直接証拠にはしない。先行から中団まで位置を変えて好走できる点を評価する。A群合計41.254点は7番の36.765点より上で、馬自身の項目も支持。ロードカナロア産駒という血統の一般論より本人の実績を優先。474kg(-2)。勝ち切りの裏付けは連続3着ほど強くなく、3着内の軸としての評価。東京ダート1400mでの同じ再現性は保証できない。",
               "numerical_explanation": "数値2位・60.91点、エンジン推定勝率12.90%。A1近走実績は使用値55.85×係数0.17571＝9.813点（出走馬平均比+2.005点）。A2上がり3Fは使用値63.71×係数0.05025＝3.202点（出走馬平均比+0.679点）。A7クラス実績は使用値66.38×係数0.14057＝9.331点（出走馬平均比+1.301点）。B3騎手×距離は使用値68.64×係数0.18489＝12.692点（出走馬平均比+5.287点）。A22/A23は全馬補完で計9.828点、実測の調教による優劣ではない。C2は全馬5.5点で順位差がなく、A4距離とC1枠は係数0。AIの自信度・勝率としてこの推定値を転用しない。",
-              "finish": null
+              "finish": 3
             },
             {
               "number": 2,
@@ -20789,7 +20789,7 @@
               "numerical_rank": 3,
               "assessment": "○。数値3位から2位。5月の東京ダート1400m勝ちは12番に0.9秒先着。休み明けの前走は同条件の現級4着で、叩き2走目の今回は対抗。勝ち馬から1.6秒離れており、僅差の4着とは評価しない。56kg、514kg(-4)。良馬場の同条件での内容を重視し、芝での着順はダートの直接評価に混ぜない。上積みは見込みであり調教やパドックで確認した事実ではない。",
               "numerical_explanation": "数値3位・56.76点、エンジン推定勝率9.78%。A1近走実績は使用値51.64×係数0.17571＝9.074点（出走馬平均比+1.265点）。A2上がり3Fは使用値60.86×係数0.05025＝3.058点（出走馬平均比+0.536点）。A7クラス実績は使用値58.54×係数0.14057＝8.229点（出走馬平均比+0.199点）。B3騎手×距離は使用値55.78×係数0.18489＝10.314点（出走馬平均比+2.909点）。A22/A23は全馬補完で計9.828点、実測の調教による優劣ではない。C2は全馬5.5点で順位差がなく、A4距離とC1枠は係数0。AIの自信度・勝率としてこの推定値を転用しない。",
-              "finish": null
+              "finish": 1
             },
             {
               "number": 12,
@@ -20799,7 +20799,7 @@
               "numerical_rank": 5,
               "assessment": "▲。数値5位から3位。東京ダート1400mで直近3着・1着、先行できる脚質を評価。今回の相手では前に行ける可能性があり、流れが落ち着けば上位2頭を逆転する余地もある。ただし前走は重馬場の1勝クラスで、良馬場の現級に時計を直接転用しない。約4か月ぶり・初昇級という不確定要素があり、同条件で先着された2番を上に取る。500kg(+6)。父モズアスコット・母父ゴールドアリュールだけで加点を重ねず、本人のダート実績を主根拠とする。",
               "numerical_explanation": "数値5位・54.62点、エンジン推定勝率8.48%。A1近走実績は使用値55.05×係数0.17571＝9.674点（出走馬平均比+1.866点）。A2上がり3Fは使用値30.29×係数0.05025＝1.522点（出走馬平均比-1.001点）。A7クラス実績は使用値43.33×係数0.14057＝6.091点（出走馬平均比-1.938点）。B3騎手×距離は使用値61.54×係数0.18489＝11.378点（出走馬平均比+3.974点）。A22/A23は全馬補完で計9.828点、実測の調教による優劣ではない。C2は全馬5.5点で順位差がなく、A4距離とC1枠は係数0。AIの自信度・勝率としてこの推定値を転用しない。",
-              "finish": null
+              "finish": 4
             },
             {
               "number": 7,
@@ -20809,7 +20809,7 @@
               "numerical_rank": 1,
               "assessment": "△。数値1位から4位。B3騎手×距離だけで18.489点あり、5番との総合差1.330点よりB3差5.797点の方が大きい。騎手の数値優位を馬自身の1400m実績と同一視しない。過去16走を確認すると1400mは初。ただし東京ダート1600mの現級2着はあり、父ドリームバレンチノはJBCスプリント勝ちで短縮を不適性と決めつける理由はない。距離短縮で変わる余地を残して買い目に含める。476kg(+18)は現級2着時と同じで、増加だけで太めと断定しない。短距離の追走と休み明けの状態は未確認。",
               "numerical_explanation": "数値1位・62.24点、エンジン推定勝率14.10%。A1近走実績は使用値41.51×係数0.17571＝7.294点（出走馬平均比-0.514点）。A2上がり3Fは使用値46.57×係数0.05025＝2.340点（出走馬平均比-0.182点）。A7クラス実績は使用値58.83×係数0.14057＝8.270点（出走馬平均比+0.240点）。B3騎手×距離は使用値100.00×係数0.18489＝18.489点（出走馬平均比+11.085点）。A22/A23は全馬補完で計9.828点、実測の調教による優劣ではない。C2は全馬5.5点で順位差がなく、A4距離とC1枠は係数0。AIの自信度・勝率としてこの推定値を転用しない。",
-              "finish": null
+              "finish": 2
             },
             {
               "number": 11,
@@ -20819,7 +20819,7 @@
               "numerical_rank": 11,
               "assessment": "☆・穴候補。数値11位から5位。東京良ダート1400mの現級で5月に3着0.4秒差、次走も7着0.7秒差。B3の2.389点という低さだけで、本人の同条件の実績まで否定しない。前に負荷がかかれば差し込み候補。ただし3着は牝馬限定戦で、今回は混合戦かつ約4か月半ぶり。474kg(+2)。軸にはせず相手5頭目に残す判断。血統はキズナ×母父Smart Strikeだが、本人の実績を超えて適性を保証する根拠にはしない。",
               "numerical_explanation": "数値11位・44.93点、エンジン推定勝率4.45%。A1近走実績は使用値48.52×係数0.17571＝8.525点（出走馬平均比+0.717点）。A2上がり3Fは使用値47.71×係数0.05025＝2.398点（出走馬平均比-0.125点）。A7クラス実績は使用値48.82×係数0.14057＝6.863点（出走馬平均比-1.167点）。B3騎手×距離は使用値12.92×係数0.18489＝2.389点（出走馬平均比-5.016点）。A22/A23は全馬補完で計9.828点、実測の調教による優劣ではない。C2は全馬5.5点で順位差がなく、A4距離とC1枠は係数0。AIの自信度・勝率としてこの推定値を転用しない。",
-              "finish": null
+              "finish": 7
             },
             {
               "number": 9,
@@ -20829,7 +20829,7 @@
               "numerical_rank": 4,
               "assessment": "6番手。数値4位から下げる。東京ダート1400mの現級で7着でも0.4秒差という内容は残す。ただしその一戦は重馬場で、前走の阪神良1400mは12着1.9秒差。8歳という年齢そのものや着順だけで切らず、今回に近い良馬場での近走と同条件好走の11番を比較して次点とした。流れが速くなれば浮上余地があり、5頭に絞ることで漏らすリスクを残す。",
               "numerical_explanation": "数値4位・54.69点、エンジン推定勝率8.52%。A1近走実績は使用値51.73×係数0.17571＝9.089点（出走馬平均比+1.281点）。A2上がり3Fは使用値61.43×係数0.05025＝3.087点（出走馬平均比+0.564点）。A7クラス実績は使用値68.00×係数0.14057＝9.559点（出走馬平均比+1.529点）。B3騎手×距離は使用値45.86×係数0.18489＝8.480点（出走馬平均比+1.076点）。A22/A23は全馬補完で計9.828点、実測の調教による優劣ではない。C2は全馬5.5点で順位差がなく、A4距離とC1枠は係数0。AIの自信度・勝率としてこの推定値を転用しない。",
-              "finish": null
+              "finish": 6
             },
             {
               "number": 14,
@@ -20839,7 +20839,7 @@
               "numerical_rank": 7,
               "assessment": "7番手。数値順位維持。A1・A7の寄与は大きいが、直近は東京ダート1400mの現級11着2.4秒差で2番にも後れた。同条件の1勝クラス勝ちはあるものの、クラス差を区別する。476kg(-10)は5月勝利時478kgに近いが、それだけで復調とは断定しない。前に行ければ展開利の候補だが主力より優先度を下げる。",
               "numerical_explanation": "数値7位・51.64点、エンジン推定勝率6.95%。A1近走実績は使用値58.16×係数0.17571＝10.219点（出走馬平均比+2.410点）。A2上がり3Fは使用値46.79×係数0.05025＝2.351点（出走馬平均比-0.172点）。A7クラス実績は使用値71.67×係数0.14057＝10.074点（出走馬平均比+2.044点）。B3騎手×距離は使用値20.52×係数0.18489＝3.795点（出走馬平均比-3.610点）。A22/A23は全馬補完で計9.828点、実測の調教による優劣ではない。C2は全馬5.5点で順位差がなく、A4距離とC1枠は係数0。AIの自信度・勝率としてこの推定値を転用しない。",
-              "finish": null
+              "finish": 5
             },
             {
               "number": 8,
@@ -20849,7 +20849,7 @@
               "numerical_rank": 8,
               "assessment": "8番手で数値順位維持。前走は京都ダート1400mの現級6着1.1秒差、後方からの競馬。直近の1200m大敗からは内容改善があるが、東京で同等以上に走れる裏付けや差しが届く展開の確証がない。前が崩れた場合の候補として記録し、上位5頭には入れない。",
               "numerical_explanation": "数値8位・49.51点、エンジン推定勝率6.03%。A1近走実績は使用値36.18×係数0.17571＝6.357点（出走馬平均比-1.452点）。A2上がり3Fは使用値45.71×係数0.05025＝2.297点（出走馬平均比-0.225点）。A7クラス実績は使用値65.25×係数0.14057＝9.172点（出走馬平均比+1.142点）。B3騎手×距離は使用値38.01×係数0.18489＝7.027点（出走馬平均比-0.377点）。A22/A23は全馬補完で計9.828点、実測の調教による優劣ではない。C2は全馬5.5点で順位差がなく、A4距離とC1枠は係数0。AIの自信度・勝率としてこの推定値を転用しない。",
-              "finish": null
+              "finish": 13
             },
             {
               "number": 4,
@@ -20859,7 +20859,7 @@
               "numerical_rank": 10,
               "assessment": "9番手。数値10位から微上げ。7月の現級1200m4着0.5秒差は残すが、近2走は10着・15着で後方のまま。父ヘニーヒューズという血統だけで反転を見込まず、1400mへの延長で追走が楽になる可能性は未検証の仮説とする。466kg(+8)の中身も未確認。",
               "numerical_explanation": "数値10位・45.03点、エンジン推定勝率4.48%。A1近走実績は使用値35.57×係数0.17571＝6.251点（出走馬平均比-1.557点）。A2上がり3Fは使用値57.43×係数0.05025＝2.886点（出走馬平均比+0.363点）。A7クラス実績は使用値49.85×係数0.14057＝7.008点（出走馬平均比-1.022点）。B3騎手×距離は使用値22.04×係数0.18489＝4.075点（出走馬平均比-3.329点）。A22/A23は全馬補完で計9.828点、実測の調教による優劣ではない。C2は全馬5.5点で順位差がなく、A4距離とC1枠は係数0。AIの自信度・勝率としてこの推定値を転用しない。",
-              "finish": null
+              "finish": 8
             },
             {
               "number": 6,
@@ -20869,7 +20869,7 @@
               "numerical_rank": 6,
               "assessment": "10番手。数値6位から下げる。B3寄与11.808点が大きい一方、前走の現級ダート1400mは先行して8着1.6秒差。今回も前に行ける可能性はあるが、近走の中央現級で上位に迫った根拠が弱い。地方の勝利と中央2勝クラスの通用を分け、騎手項目の高さだけでは主力にしない。",
               "numerical_explanation": "数値6位・53.70点、エンジン推定勝率7.98%。A1近走実績は使用値34.36×係数0.17571＝6.038点（出走馬平均比-1.771点）。A2上がり3Fは使用値27.14×係数0.05025＝1.364点（出走馬平均比-1.159点）。A7クラス実績は使用値66.76×係数0.14057＝9.384点（出走馬平均比+1.354点）。B3騎手×距離は使用値63.87×係数0.18489＝11.808点（出走馬平均比+4.404点）。A22/A23は全馬補完で計9.828点、実測の調教による優劣ではない。C2は全馬5.5点で順位差がなく、A4距離とC1枠は係数0。AIの自信度・勝率としてこの推定値を転用しない。",
-              "finish": null
+              "finish": 9
             },
             {
               "number": 1,
@@ -20879,7 +20879,7 @@
               "numerical_rank": 12,
               "assessment": "11番手。数値12位から微上げ。先行歴はあるが、6月の東京1400m現級は逃げて11着1.8秒差。前走1200m8着から大幅に上向く確かな材料は未確認。父エスポワールシチーのダート血統だけで本人の同条件凡走を上書きしない。454kg(+10)だけを加減点の決め手にしない。",
               "numerical_explanation": "数値12位・43.58点、エンジン推定勝率4.06%。A1近走実績は使用値44.02×係数0.17571＝7.735点（出走馬平均比-0.074点）。A2上がり3Fは使用値51.71×係数0.05025＝2.599点（出走馬平均比+0.076点）。A7クラス実績は使用値43.33×係数0.14057＝6.091点（出走馬平均比-1.938点）。B3騎手×距離は使用値16.67×係数0.18489＝3.082点（出走馬平均比-4.323点）。A22/A23は全馬補完で計9.828点、実測の調教による優劣ではない。C2は全馬5.5点で順位差がなく、A4距離とC1枠は係数0。AIの自信度・勝率としてこの推定値を転用しない。",
-              "finish": null
+              "finish": 12
             },
             {
               "number": 10,
@@ -20889,7 +20889,7 @@
               "numerical_rank": 13,
               "assessment": "12番手。数値13位から微上げ。過去に現級1400mで0.9秒差の9着があり完全に無理とはしないが、直近の上位実績は主力より薄い。約半年ぶりで490kg(+16)。増加の良し悪しを確認できず、復帰初戦からの変わり身を主軸にしない。",
               "numerical_explanation": "数値13位・43.00点、エンジン推定勝率3.91%。A1近走実績は使用値34.04×係数0.17571＝5.982点（出走馬平均比-1.827点）。A2上がり3Fは使用値44.57×係数0.05025＝2.240点（出走馬平均比-0.283点）。A7クラス実績は使用値43.96×係数0.14057＝6.179点（出走馬平均比-1.851点）。B3騎手×距離は使用値24.34×係数0.18489＝4.501点（出走馬平均比-2.904点）。A22/A23は全馬補完で計9.828点、実測の調教による優劣ではない。C2は全馬5.5点で順位差がなく、A4距離とC1枠は係数0。AIの自信度・勝率としてこの推定値を転用しない。",
-              "finish": null
+              "finish": 14
             },
             {
               "number": 3,
@@ -20899,7 +20899,7 @@
               "numerical_rank": 9,
               "assessment": "13番手。数値9位から下げる。近走の現級1200mは8～11着。55kgの減量は事実だが、休み明け・延長で通用する裏付けは乏しい。母シュガーハートという良血だけで今回のダート1400mを上位にする根拠にはしない。",
               "numerical_explanation": "数値9位・46.74点、エンジン推定勝率5.02%。A1近走実績は使用値45.04×係数0.17571＝7.914点（出走馬平均比+0.106点）。A2上がり3Fは使用値57.43×係数0.05025＝2.886点（出走馬平均比+0.363点）。A7クラス実績は使用値71.67×係数0.14057＝10.074点（出走馬平均比+2.044点）。B3騎手×距離は使用値15.46×係数0.18489＝2.858点（出走馬平均比-4.546点）。A22/A23は全馬補完で計9.828点、実測の調教による優劣ではない。C2は全馬5.5点で順位差がなく、A4距離とC1枠は係数0。AIの自信度・勝率としてこの推定値を転用しない。",
-              "finish": null
+              "finish": 11
             },
             {
               "number": 13,
@@ -20909,7 +20909,7 @@
               "numerical_rank": 14,
               "assessment": "14番手で数値順位維持。近走の現級で大きな着差が続き、今回の1400mで反転する具体的な根拠が不足。ブリンカー着用は確認したが初装着か効果が出るかは未確認で、改善したものとして評価しない。",
               "numerical_explanation": "数値14位・40.58点、エンジン推定勝率3.33%。A1近走実績は使用値30.46×係数0.17571＝5.352点（出走馬平均比-2.457点）。A2上がり3Fは使用値61.43×係数0.05025＝3.087点（出走馬平均比+0.564点）。A7クラス実績は使用値43.33×係数0.14057＝6.091点（出走馬平均比-1.938点）。B3騎手×距離は使用値15.00×係数0.18489＝2.773点（出走馬平均比-4.631点）。A22/A23は全馬補完で計9.828点、実測の調教による優劣ではない。C2は全馬5.5点で順位差がなく、A4距離とC1枠は係数0。AIの自信度・勝率としてこの推定値を転用しない。",
-              "finish": null
+              "finish": 10
             }
           ],
           "summary": "◎5ダノンキラウェア、○2ショーリバース、▲12タイキブリッツェン、△7バルダンツァ、☆11ベルブリエ。現級ダート1400mで3戦連続3着の5を3着内の軸とする。数値1位7の騎手項目への偏りを分けて検討し、同条件実績のある11を穴候補に残す。勝ち切りや的中に強い確信があるレースではない。",
@@ -21084,7 +21084,7 @@
         "track_condition": "良",
         "fixed": true,
         "retrospective": false,
-        "winner": null,
+        "winner": "2",
         "horses": [
           {
             "number": 3,
@@ -21095,7 +21095,7 @@
             "probability": 0.1546932430558245,
             "place_probability": 0.3807050074946955,
             "coverage": 0.7274059968662919,
-            "finish": null
+            "finish": 3
           },
           {
             "number": 7,
@@ -21106,7 +21106,7 @@
             "probability": 0.1355778335873145,
             "place_probability": 0.3565997697674639,
             "coverage": 0.7396081567243342,
-            "finish": null
+            "finish": 7
           },
           {
             "number": 2,
@@ -21117,7 +21117,7 @@
             "probability": 0.12332499815027256,
             "place_probability": 0.33995766524896925,
             "coverage": 0.7396081567243342,
-            "finish": null
+            "finish": 1
           },
           {
             "number": 1,
@@ -21128,7 +21128,7 @@
             "probability": 0.11431181493551096,
             "place_probability": 0.3270373351750158,
             "coverage": 0.7473224529430147,
-            "finish": null
+            "finish": 5
           },
           {
             "number": 4,
@@ -21139,7 +21139,7 @@
             "probability": 0.10275671316771748,
             "place_probability": 0.30952402667408896,
             "coverage": 0.6351202930849724,
-            "finish": null
+            "finish": 4
           },
           {
             "number": 6,
@@ -21150,7 +21150,7 @@
             "probability": 0.0943257877992397,
             "place_probability": 0.2959894132814801,
             "coverage": 0.7274059968662919,
-            "finish": null
+            "finish": 6
           },
           {
             "number": 9,
@@ -21161,7 +21161,7 @@
             "probability": 0.09262316110714407,
             "place_probability": 0.2931710778635097,
             "coverage": 0.6292710830540786,
-            "finish": null
+            "finish": 2
           },
           {
             "number": 8,
@@ -21172,7 +21172,7 @@
             "probability": 0.0799893776320702,
             "place_probability": 0.2712633667979247,
             "coverage": 0.7292710830540786,
-            "finish": null
+            "finish": 9
           },
           {
             "number": 5,
@@ -21183,7 +21183,7 @@
             "probability": 0.05249581593658777,
             "place_probability": 0.21585202809146642,
             "coverage": 0.7274059968662919,
-            "finish": null
+            "finish": 8
           },
           {
             "number": 10,
@@ -21194,7 +21194,7 @@
             "probability": 0.04990125462831824,
             "place_probability": 0.2099003096053857,
             "coverage": 0.27679742166540694,
-            "finish": null
+            "finish": 10
           }
         ],
         "betting": {
@@ -21236,7 +21236,7 @@
         "track_condition": "良",
         "fixed": true,
         "retrospective": false,
-        "winner": null,
+        "winner": "7",
         "horses": [
           {
             "number": 1,
@@ -21247,7 +21247,7 @@
             "probability": 0.21687131104623686,
             "place_probability": 0.4432142466934622,
             "coverage": 0.663637280365189,
-            "finish": null
+            "finish": 3
           },
           {
             "number": 5,
@@ -21258,7 +21258,7 @@
             "probability": 0.17303922265494556,
             "place_probability": 0.3984812165848784,
             "coverage": 0.5587512051630168,
-            "finish": null
+            "finish": 7
           },
           {
             "number": 6,
@@ -21269,7 +21269,7 @@
             "probability": 0.11198324727807864,
             "place_probability": 0.32061114567472715,
             "coverage": 0.6587512051630168,
-            "finish": null
+            "finish": 2
           },
           {
             "number": 9,
@@ -21280,7 +21280,7 @@
             "probability": 0.10758968494406114,
             "place_probability": 0.3140501603305281,
             "coverage": 0.5597094819274738,
-            "finish": null
+            "finish": 4
           },
           {
             "number": 11,
@@ -21291,7 +21291,7 @@
             "probability": 0.08949007723371158,
             "place_probability": 0.28519525627862385,
             "coverage": 0.6543916140330166,
-            "finish": null
+            "finish": 6
           },
           {
             "number": 7,
@@ -21302,7 +21302,7 @@
             "probability": 0.07301144151077253,
             "place_probability": 0.2558542831423045,
             "coverage": 0.5587512051630168,
-            "finish": null
+            "finish": 1
           },
           {
             "number": 10,
@@ -21313,7 +21313,7 @@
             "probability": 0.06303988995574758,
             "place_probability": 0.23629896200068864,
             "coverage": 0.6534333372685596,
-            "finish": null
+            "finish": 5
           },
           {
             "number": 4,
@@ -21324,7 +21324,7 @@
             "probability": 0.049005661371145474,
             "place_probability": 0.2057782238436731,
             "coverage": 0.6621866084253193,
-            "finish": null
+            "finish": 9
           },
           {
             "number": 2,
@@ -21335,7 +21335,7 @@
             "probability": 0.042561268488328974,
             "place_probability": 0.19026922443958882,
             "coverage": 0.5534333372685595,
-            "finish": null
+            "finish": 10
           },
           {
             "number": 8,
@@ -21346,7 +21346,7 @@
             "probability": 0.03731658652648116,
             "place_probability": 0.17676608123258136,
             "coverage": 0.5587512051630168,
-            "finish": null
+            "finish": 11
           },
           {
             "number": 3,
@@ -21357,7 +21357,7 @@
             "probability": 0.03609160899049059,
             "place_probability": 0.17348119977894433,
             "coverage": 0.6534333372685596,
-            "finish": null
+            "finish": 8
           }
         ],
         "betting": {
@@ -21484,7 +21484,7 @@
         "track_condition": "良",
         "fixed": true,
         "retrospective": false,
-        "winner": null,
+        "winner": "4",
         "horses": [
           {
             "number": 5,
@@ -21495,7 +21495,7 @@
             "probability": 0.26741773029713223,
             "place_probability": 0.5469319479343717,
             "coverage": 0.5587512051630168,
-            "finish": null
+            "finish": 2
           },
           {
             "number": 7,
@@ -21506,7 +21506,7 @@
             "probability": 0.16450707286183355,
             "place_probability": 0.4422272773992202,
             "coverage": 0.6587512051630168,
-            "finish": null
+            "finish": 7
           },
           {
             "number": 6,
@@ -21517,7 +21517,7 @@
             "probability": 0.11974388441945744,
             "place_probability": 0.37948767422868523,
             "coverage": 0.6534333372685596,
-            "finish": null
+            "finish": 5
           },
           {
             "number": 4,
@@ -21528,7 +21528,7 @@
             "probability": 0.1164978926857213,
             "place_probability": 0.37433885456800464,
             "coverage": 0.6587512051630168,
-            "finish": null
+            "finish": 1
           },
           {
             "number": 2,
@@ -21539,7 +21539,7 @@
             "probability": 0.09701695444816019,
             "place_probability": 0.34129014568174165,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 6
           },
           {
             "number": 3,
@@ -21550,7 +21550,7 @@
             "probability": 0.08243052655907834,
             "place_probability": 0.3137208392555475,
             "coverage": 0.6587512051630168,
-            "finish": null
+            "finish": 8
           },
           {
             "number": 8,
@@ -21561,7 +21561,7 @@
             "probability": 0.07844684659228857,
             "place_probability": 0.3056908319812088,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 3
           },
           {
             "number": 1,
@@ -21572,7 +21572,7 @@
             "probability": 0.0739390921363284,
             "place_probability": 0.29631242895122,
             "coverage": 0.5587512051630168,
-            "finish": null
+            "finish": 4
           }
         ],
         "betting": {
@@ -21699,7 +21699,7 @@
         "track_condition": "良",
         "fixed": false,
         "retrospective": false,
-        "winner": null,
+        "winner": "5",
         "horses": [],
         "betting": null,
         "going_note": null,
@@ -21717,7 +21717,7 @@
         "track_condition": "良",
         "fixed": true,
         "retrospective": false,
-        "winner": null,
+        "winner": "1",
         "horses": [
           {
             "number": 2,
@@ -21728,7 +21728,7 @@
             "probability": 0.18449585868730609,
             "place_probability": 0.45516901338819715,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 2
           },
           {
             "number": 3,
@@ -21739,7 +21739,7 @@
             "probability": 0.14664494316478144,
             "place_probability": 0.40856296589412733,
             "coverage": 0.21284015111268523,
-            "finish": null
+            "finish": 5
           },
           {
             "number": 8,
@@ -21750,7 +21750,7 @@
             "probability": 0.13929967727810644,
             "place_probability": 0.39852416022444725,
             "coverage": 0.21284015111268523,
-            "finish": null
+            "finish": 4
           },
           {
             "number": 5,
@@ -21761,7 +21761,7 @@
             "probability": 0.11421334374118952,
             "place_probability": 0.3612312508910178,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 8
           },
           {
             "number": 1,
@@ -21772,7 +21772,7 @@
             "probability": 0.10876938355541567,
             "place_probability": 0.35243903175957514,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 1
           },
           {
             "number": 6,
@@ -21783,7 +21783,7 @@
             "probability": 0.10600011343637768,
             "place_probability": 0.3478585156962458,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 7
           },
           {
             "number": 4,
@@ -21794,7 +21794,7 @@
             "probability": 0.1036423777890614,
             "place_probability": 0.34389880693609365,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 3
           },
           {
             "number": 7,
@@ -21805,7 +21805,7 @@
             "probability": 0.09693430234776178,
             "place_probability": 0.33231625521029606,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 6
           }
         ],
         "betting": {
@@ -21932,7 +21932,7 @@
         "track_condition": "良",
         "fixed": true,
         "retrospective": false,
-        "winner": null,
+        "winner": "4",
         "horses": [
           {
             "number": 6,
@@ -21943,7 +21943,7 @@
             "probability": 0.10863583926918355,
             "place_probability": 0.2559246652536008,
             "coverage": 0.27679742166540694,
-            "finish": null
+            "finish": 5
           },
           {
             "number": 13,
@@ -21954,7 +21954,7 @@
             "probability": 0.08730075517120242,
             "place_probability": 0.2274371923174529,
             "coverage": 0.27679742166540694,
-            "finish": null
+            "finish": 9
           },
           {
             "number": 4,
@@ -21965,7 +21965,7 @@
             "probability": 0.07524153036616844,
             "place_probability": 0.20967145256769834,
             "coverage": 0.27679742166540694,
-            "finish": null
+            "finish": 1
           },
           {
             "number": 1,
@@ -21976,7 +21976,7 @@
             "probability": 0.07478739960950956,
             "place_probability": 0.20897455876399146,
             "coverage": 0.27679742166540694,
-            "finish": null
+            "finish": 15
           },
           {
             "number": 12,
@@ -21987,7 +21987,7 @@
             "probability": 0.07350958583675317,
             "place_probability": 0.20700193359570163,
             "coverage": 0.27679742166540694,
-            "finish": null
+            "finish": 11
           },
           {
             "number": 2,
@@ -21998,7 +21998,7 @@
             "probability": 0.06117039978898378,
             "place_probability": 0.18697799468387924,
             "coverage": 0.27679742166540694,
-            "finish": null
+            "finish": 14
           },
           {
             "number": 10,
@@ -22009,7 +22009,7 @@
             "probability": 0.05953134719759045,
             "place_probability": 0.18417084821098914,
             "coverage": 0.27679742166540694,
-            "finish": null
+            "finish": 2
           },
           {
             "number": 7,
@@ -22020,7 +22020,7 @@
             "probability": 0.0579566445289837,
             "place_probability": 0.18143762213730455,
             "coverage": 0.27679742166540694,
-            "finish": null
+            "finish": 12
           },
           {
             "number": 15,
@@ -22031,7 +22031,7 @@
             "probability": 0.056008203914100274,
             "place_probability": 0.17800447964469418,
             "coverage": 0.27679742166540694,
-            "finish": null
+            "finish": 10
           },
           {
             "number": 9,
@@ -22042,7 +22042,7 @@
             "probability": 0.05550093504001104,
             "place_probability": 0.1771010815587582,
             "coverage": 0.27679742166540694,
-            "finish": null
+            "finish": 6
           },
           {
             "number": 8,
@@ -22053,7 +22053,7 @@
             "probability": 0.05282762050348807,
             "place_probability": 0.17227189601029677,
             "coverage": 0.27679742166540694,
-            "finish": null
+            "finish": 3
           },
           {
             "number": 3,
@@ -22064,7 +22064,7 @@
             "probability": 0.051304542603251374,
             "place_probability": 0.1694671663417222,
             "coverage": 0.27679742166540694,
-            "finish": null
+            "finish": 13
           },
           {
             "number": 5,
@@ -22075,7 +22075,7 @@
             "probability": 0.048829546396544105,
             "place_probability": 0.16482193080498214,
             "coverage": 0.24954967814070977,
-            "finish": null
+            "finish": 4
           },
           {
             "number": 14,
@@ -22086,7 +22086,7 @@
             "probability": 0.04785542278014784,
             "place_probability": 0.1629625415241937,
             "coverage": 0.27679742166540694,
-            "finish": null
+            "finish": 16
           },
           {
             "number": 16,
@@ -22097,7 +22097,7 @@
             "probability": 0.047208735579194784,
             "place_probability": 0.16171808426482415,
             "coverage": 0.27679742166540694,
-            "finish": null
+            "finish": 8
           },
           {
             "number": 11,
@@ -22108,7 +22108,7 @@
             "probability": 0.04233149141488755,
             "place_probability": 0.15205655231991005,
             "coverage": 0.27679742166540694,
-            "finish": null
+            "finish": 7
           }
         ],
         "betting": {
@@ -22150,7 +22150,7 @@
         "track_condition": "良",
         "fixed": true,
         "retrospective": false,
-        "winner": null,
+        "winner": "7",
         "horses": [
           {
             "number": 8,
@@ -22161,7 +22161,7 @@
             "probability": 0.2175279475674638,
             "place_probability": 0.45347519679266124,
             "coverage": 0.7931450294152729,
-            "finish": null
+            "finish": 3
           },
           {
             "number": 4,
@@ -22172,7 +22172,7 @@
             "probability": 0.14619337033465593,
             "place_probability": 0.375428879182116,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 2
           },
           {
             "number": 7,
@@ -22183,7 +22183,7 @@
             "probability": 0.11161995045686093,
             "place_probability": 0.32772283588324563,
             "coverage": 0.6905230493383968,
-            "finish": null
+            "finish": 1
           },
           {
             "number": 1,
@@ -22194,7 +22194,7 @@
             "probability": 0.11113262457986596,
             "place_probability": 0.32698754092475507,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 7
           },
           {
             "number": 9,
@@ -22205,7 +22205,7 @@
             "probability": 0.08235011547791372,
             "place_probability": 0.2795824288208474,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 5
           },
           {
             "number": 2,
@@ -22216,7 +22216,7 @@
             "probability": 0.07950803012858992,
             "place_probability": 0.274409618715421,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 4
           },
           {
             "number": 3,
@@ -22227,7 +22227,7 @@
             "probability": 0.07420917722999777,
             "place_probability": 0.2644818355093492,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 6
           },
           {
             "number": 6,
@@ -22238,7 +22238,7 @@
             "probability": 0.07015193027231574,
             "place_probability": 0.2566126455930459,
             "coverage": 0.6185402251517819,
-            "finish": null
+            "finish": 10
           },
           {
             "number": 5,
@@ -22249,7 +22249,7 @@
             "probability": 0.06378468745879981,
             "place_probability": 0.24374750332394288,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 8
           },
           {
             "number": 10,
@@ -22260,7 +22260,7 @@
             "probability": 0.04352216649353642,
             "place_probability": 0.19755151525461515,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 9
           }
         ],
         "betting": {
@@ -22387,7 +22387,7 @@
         "track_condition": "良",
         "fixed": true,
         "retrospective": false,
-        "winner": null,
+        "winner": "7",
         "horses": [
           {
             "number": 3,
@@ -22398,7 +22398,7 @@
             "probability": 0.23572798659328023,
             "place_probability": 0.5513458297256679,
             "coverage": 0.5611601538673435,
-            "finish": null
+            "finish": 2
           },
           {
             "number": 6,
@@ -22409,7 +22409,7 @@
             "probability": 0.17117561874485515,
             "place_probability": 0.48055612610616705,
             "coverage": 0.563637280365189,
-            "finish": null
+            "finish": 3
           },
           {
             "number": 7,
@@ -22420,7 +22420,7 @@
             "probability": 0.1685524670813747,
             "place_probability": 0.4772191818190097,
             "coverage": 0.6548840092084293,
-            "finish": null
+            "finish": 1
           },
           {
             "number": 2,
@@ -22431,7 +22431,7 @@
             "probability": 0.15417977582798745,
             "place_probability": 0.45815700698588946,
             "coverage": 0.5587512051630168,
-            "finish": null
+            "finish": 5
           },
           {
             "number": 4,
@@ -22442,7 +22442,7 @@
             "probability": 0.13635125915024446,
             "place_probability": 0.4324935106547818,
             "coverage": 0.5573611357062748,
-            "finish": null
+            "finish": 7
           },
           {
             "number": 1,
@@ -22453,7 +22453,7 @@
             "probability": 0.08104016738006269,
             "place_probability": 0.3337536406914014,
             "coverage": 0.5587512051630168,
-            "finish": null
+            "finish": 4
           },
           {
             "number": 5,
@@ -22464,7 +22464,7 @@
             "probability": 0.05297272522219541,
             "place_probability": 0.26647470401708273,
             "coverage": 0.21622631485744645,
-            "finish": null
+            "finish": 6
           }
         ],
         "betting": {
@@ -22591,7 +22591,7 @@
         "track_condition": "良",
         "fixed": true,
         "retrospective": false,
-        "winner": null,
+        "winner": "7",
         "horses": [
           {
             "number": 11,
@@ -22602,7 +22602,7 @@
             "probability": 0.11837678898271664,
             "place_probability": 0.27015077364236195,
             "coverage": 0.6931450294152729,
-            "finish": null
+            "finish": 2
           },
           {
             "number": 9,
@@ -22613,7 +22613,7 @@
             "probability": 0.1054796285463407,
             "place_probability": 0.25404381341342963,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 15
           },
           {
             "number": 16,
@@ -22624,7 +22624,7 @@
             "probability": 0.08749654072170435,
             "place_probability": 0.22966307335874198,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 8
           },
           {
             "number": 14,
@@ -22635,7 +22635,7 @@
             "probability": 0.08349089420428538,
             "place_probability": 0.22387588752808896,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 3
           },
           {
             "number": 8,
@@ -22646,7 +22646,7 @@
             "probability": 0.06785412525865457,
             "place_probability": 0.19977220308440882,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 9
           },
           {
             "number": 5,
@@ -22657,7 +22657,7 @@
             "probability": 0.059728922650016905,
             "place_probability": 0.18612186054452587,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 4
           },
           {
             "number": 15,
@@ -22668,7 +22668,7 @@
             "probability": 0.05823372240358954,
             "place_probability": 0.1835109598693199,
             "coverage": 0.7977520113582584,
-            "finish": null
+            "finish": 14
           },
           {
             "number": 4,
@@ -22679,7 +22679,7 @@
             "probability": 0.057760930937149325,
             "place_probability": 0.18267848679595983,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 5
           },
           {
             "number": 7,
@@ -22690,7 +22690,7 @@
             "probability": 0.057480525535750567,
             "place_probability": 0.18218316839102455,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 1
           },
           {
             "number": 12,
@@ -22701,7 +22701,7 @@
             "probability": 0.05310642452911581,
             "place_probability": 0.17429675762249805,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 7
           },
           {
             "number": 6,
@@ -22712,7 +22712,7 @@
             "probability": 0.04628453292171088,
             "place_probability": 0.16133560860599652,
             "coverage": 0.8008109881146137,
-            "finish": null
+            "finish": 12
           },
           {
             "number": 1,
@@ -22723,7 +22723,7 @@
             "probability": 0.043997697438660666,
             "place_probability": 0.15678713851793719,
             "coverage": 0.7931450294152729,
-            "finish": null
+            "finish": 11
           },
           {
             "number": 2,
@@ -22734,7 +22734,7 @@
             "probability": 0.042126480893272596,
             "place_probability": 0.15298074609308487,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 16
           },
           {
             "number": 13,
@@ -22745,7 +22745,7 @@
             "probability": 0.04063424446709732,
             "place_probability": 0.14988738490942272,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 10
           },
           {
             "number": 3,
@@ -22756,7 +22756,7 @@
             "probability": 0.040408633577891366,
             "place_probability": 0.14941505394899035,
             "coverage": 0.7931450294152729,
-            "finish": null
+            "finish": 6
           },
           {
             "number": 10,
@@ -22767,7 +22767,7 @@
             "probability": 0.03753990693204337,
             "place_probability": 0.1432970836742093,
             "coverage": 0.7034329681914897,
-            "finish": null
+            "finish": 13
           }
         ],
         "betting": {
@@ -22809,7 +22809,7 @@
         "track_condition": "良",
         "fixed": true,
         "retrospective": false,
-        "winner": null,
+        "winner": "6",
         "horses": [
           {
             "number": 7,
@@ -22820,7 +22820,7 @@
             "probability": 0.22354948010956954,
             "place_probability": 0.4867609456471431,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 3
           },
           {
             "number": 6,
@@ -22831,7 +22831,7 @@
             "probability": 0.18186867716698155,
             "place_probability": 0.443428604612123,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 1
           },
           {
             "number": 9,
@@ -22842,7 +22842,7 @@
             "probability": 0.14369973176701614,
             "place_probability": 0.39646641806843275,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 6
           },
           {
             "number": 3,
@@ -22853,7 +22853,7 @@
             "probability": 0.11006512337656323,
             "place_probability": 0.34721894224953326,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 8
           },
           {
             "number": 8,
@@ -22864,7 +22864,7 @@
             "probability": 0.10535129109809342,
             "place_probability": 0.33956602552243964,
             "coverage": 0.8603554074358971,
-            "finish": null
+            "finish": 7
           },
           {
             "number": 1,
@@ -22875,7 +22875,7 @@
             "probability": 0.07938621615165183,
             "place_probability": 0.29313305036907555,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 5
           },
           {
             "number": 2,
@@ -22886,7 +22886,7 @@
             "probability": 0.07153892119314263,
             "place_probability": 0.2773831702141591,
             "coverage": 0.8586707610179076,
-            "finish": null
+            "finish": 2
           },
           {
             "number": 5,
@@ -22897,7 +22897,7 @@
             "probability": 0.046270164830072756,
             "place_probability": 0.2189573162732532,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 4
           },
           {
             "number": 4,
@@ -22908,7 +22908,7 @@
             "probability": 0.03827039430690885,
             "place_probability": 0.1970855270438404,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 9
           }
         ],
         "betting": {
@@ -23035,7 +23035,7 @@
         "track_condition": "良",
         "fixed": true,
         "retrospective": false,
-        "winner": null,
+        "winner": "10",
         "horses": [
           {
             "number": 7,
@@ -23046,7 +23046,7 @@
             "probability": 0.13858074719606156,
             "place_probability": 0.30131851026768874,
             "coverage": 0.7931450294152729,
-            "finish": null
+            "finish": 12
           },
           {
             "number": 6,
@@ -23057,7 +23057,7 @@
             "probability": 0.08999987525098654,
             "place_probability": 0.23964778952844018,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 4
           },
           {
             "number": 14,
@@ -23068,7 +23068,7 @@
             "probability": 0.08591508769448966,
             "place_probability": 0.23369266826819424,
             "coverage": 0.7931450294152729,
-            "finish": null
+            "finish": 10
           },
           {
             "number": 12,
@@ -23079,7 +23079,7 @@
             "probability": 0.07952840497572353,
             "place_probability": 0.2240718146944194,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 7
           },
           {
             "number": 15,
@@ -23090,7 +23090,7 @@
             "probability": 0.06959143086382559,
             "place_probability": 0.20826123534047714,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 5
           },
           {
             "number": 11,
@@ -23101,7 +23101,7 @@
             "probability": 0.06505049605505893,
             "place_probability": 0.20064993693647104,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 11
           },
           {
             "number": 3,
@@ -23112,7 +23112,7 @@
             "probability": 0.06349854218375932,
             "place_probability": 0.1979870856328682,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 6
           },
           {
             "number": 2,
@@ -23123,7 +23123,7 @@
             "probability": 0.06324469771242523,
             "place_probability": 0.19754842275568535,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 15
           },
           {
             "number": 9,
@@ -23134,7 +23134,7 @@
             "probability": 0.06182312721524668,
             "place_probability": 0.1950752798612908,
             "coverage": 0.7931450294152729,
-            "finish": null
+            "finish": 3
           },
           {
             "number": 5,
@@ -23145,7 +23145,7 @@
             "probability": 0.05796381349854029,
             "place_probability": 0.18821356374696663,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 2
           },
           {
             "number": 1,
@@ -23156,7 +23156,7 @@
             "probability": 0.05213483375372334,
             "place_probability": 0.17740431187779707,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 8
           },
           {
             "number": 8,
@@ -23167,7 +23167,7 @@
             "probability": 0.05198544128237502,
             "place_probability": 0.17711965584295233,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 9
           },
           {
             "number": 4,
@@ -23178,7 +23178,7 @@
             "probability": 0.04547353521053261,
             "place_probability": 0.16429884801655814,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 13
           },
           {
             "number": 10,
@@ -23189,7 +23189,7 @@
             "probability": 0.04146210834346717,
             "place_probability": 0.15595603292698787,
             "coverage": 0.8034329681914898,
-            "finish": null
+            "finish": 1
           },
           {
             "number": 13,
@@ -23200,7 +23200,7 @@
             "probability": 0.0337478587637846,
             "place_probability": 0.13875484430320323,
             "coverage": 0.7931450294152729,
-            "finish": null
+            "finish": 14
           }
         ],
         "betting": {
@@ -23242,7 +23242,7 @@
         "track_condition": "良",
         "fixed": true,
         "retrospective": false,
-        "winner": null,
+        "winner": "5",
         "horses": [
           {
             "number": 1,
@@ -23253,7 +23253,7 @@
             "probability": 0.10544979575782226,
             "place_probability": 0.24143637667356482,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 6
           },
           {
             "number": 5,
@@ -23264,7 +23264,7 @@
             "probability": 0.07984534985779458,
             "place_probability": 0.20748123751248432,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 1
           },
           {
             "number": 4,
@@ -23275,7 +23275,7 @@
             "probability": 0.07708100022337204,
             "place_probability": 0.20349387216658577,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 7
           },
           {
             "number": 14,
@@ -23286,7 +23286,7 @@
             "probability": 0.0668908883622166,
             "place_probability": 0.1881295700820441,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 16
           },
           {
             "number": 17,
@@ -23297,7 +23297,7 @@
             "probability": 0.06641314561905844,
             "place_probability": 0.1873813159915381,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 18
           },
           {
             "number": 8,
@@ -23308,7 +23308,7 @@
             "probability": 0.06547588512069401,
             "place_probability": 0.18590552139890473,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 17
           },
           {
             "number": 15,
@@ -23319,7 +23319,7 @@
             "probability": 0.06477368748400138,
             "place_probability": 0.1847929562712555,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 15
           },
           {
             "number": 7,
@@ -23330,7 +23330,7 @@
             "probability": 0.05966769002745029,
             "place_probability": 0.17651663933613312,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 2
           },
           {
             "number": 6,
@@ -23341,7 +23341,7 @@
             "probability": 0.05263719551574474,
             "place_probability": 0.16453024582888967,
             "coverage": 0.8603554074358971,
-            "finish": null
+            "finish": 8
           },
           {
             "number": 13,
@@ -23352,7 +23352,7 @@
             "probability": 0.052189653092607896,
             "place_probability": 0.1637416595955165,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 5
           },
           {
             "number": 11,
@@ -23363,7 +23363,7 @@
             "probability": 0.048270095560663445,
             "place_probability": 0.15669126607648617,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 13
           },
           {
             "number": 3,
@@ -23374,7 +23374,7 @@
             "probability": 0.04677986442808255,
             "place_probability": 0.15393915542939504,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 11
           },
           {
             "number": 18,
@@ -23385,7 +23385,7 @@
             "probability": 0.046516929980643155,
             "place_probability": 0.15344926595925423,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 12
           },
           {
             "number": 10,
@@ -23396,7 +23396,7 @@
             "probability": 0.04439974496805009,
             "place_probability": 0.1494556691867316,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 2
           },
           {
             "number": 2,
@@ -23407,7 +23407,7 @@
             "probability": 0.03778315295878001,
             "place_probability": 0.13635788354809444,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 10
           },
           {
             "number": 12,
@@ -23418,7 +23418,7 @@
             "probability": 0.03654592849562779,
             "place_probability": 0.13379295210562483,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 4
           },
           {
             "number": 9,
@@ -23429,7 +23429,7 @@
             "probability": 0.027881141689865642,
             "place_probability": 0.11456983720687007,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 14
           },
           {
             "number": 16,
@@ -23440,7 +23440,7 @@
             "probability": 0.021398850857525062,
             "place_probability": 0.09833457563062722,
             "coverage": 0.8721794210799177,
-            "finish": null
+            "finish": 9
           }
         ],
         "betting": {
@@ -23464,7 +23464,7 @@
               "numerical_rank": 14,
               "assessment": "◎。数値14位から1位へ。前走は昇級初戦の阪神芝1400mで0.1秒差2着、今回の4番に0.2秒先着。未勝利勝ちだけの馬より現級の裏付けを重視する。中団から運べた点も先行馬が多い今回は合うという判断。京都芝1600mでも3着があり、京都未経験ではない。422kg増減なし。父インディチャンプの名前だけで加点せず、本人の1400～1600m実績を主根拠とする。数値より大きい引き上げであり、検証済みの改善ではない。",
               "numerical_explanation": "数値14位・49.03点、エンジン推定勝率4.44%。A1近走実績は使用値42.85×係数0.17539＝7.515点（出走馬平均比-0.656点）。A3芝・ダート適性は使用値77.78×係数0.19484＝15.154点（出走馬平均比+0.593点）。A7クラス実績は使用値38.70×係数0.14031＝5.430点（出走馬平均比-1.516点）。B2騎手×コースは使用値17.95×係数0.06931＝1.244点（出走馬平均比-1.226点）。A21/A22は全馬補完で計5.752点、実際の調教評価ではない。距離・競馬場・枠・展開の係数は0。点数の低さをそのまま不適性と扱わない。",
-              "finish": null
+              "finish": 2
             },
             {
               "number": 4,
@@ -23474,7 +23474,7 @@
               "numerical_rank": 3,
               "assessment": "○。数値3位から2位へ。直近の芝1400mは現級3着同タイム、4着0.3秒差。A2とA7にも裏付けがあり、実際の末脚と現級の再現性を評価。前走は10番より後方からで、逆転余地はある。ただし追い込みが届くか、内枠から進路を確保できるかは不確定。464kg増減なし。",
               "numerical_explanation": "数値3位・57.31点、エンジン推定勝率7.71%。A1近走実績は使用値47.99×係数0.17539＝8.418点（出走馬平均比+0.246点）。A3芝・ダート適性は使用値90.48×係数0.19484＝17.628点（出走馬平均比+3.067点）。A7クラス実績は使用値66.62×係数0.14031＝9.348点（出走馬平均比+2.402点）。B2騎手×コースは使用値32.08×係数0.06931＝2.223点（出走馬平均比-0.247点）。A21/A22は全馬補完で計5.752点、実際の調教評価ではない。距離・競馬場・枠・展開の係数は0。点数の低さをそのまま不適性と扱わない。",
-              "finish": null
+              "finish": 7
             },
             {
               "number": 1,
@@ -23484,7 +23484,7 @@
               "numerical_rank": 1,
               "assessment": "▲。数値1位から3位へ。前走は芝1400mを後方から差し切り、今回も流れが速くなれば末脚を使える。母ラルケットは芝1400mのサフラン賞勝ち、半兄ステルヴィオなどの牝系も芝のスピードを支持。ただし血統で現級通用を保証せず、初昇級なので現級好走済みの10・4を上に取る。508kgは前走比+8で、成長か余裕残しかは未確認。1番枠で詰まるリスクもある。",
               "numerical_explanation": "数値1位・62.01点、エンジン推定勝率10.54%。A1近走実績は使用値54.94×係数0.17539＝9.636点（出走馬平均比+1.464点）。A3芝・ダート適性は使用値100.00×係数0.19484＝19.484点（出走馬平均比+4.922点）。A7クラス実績は使用値41.21×係数0.14031＝5.782点（出走馬平均比-1.165点）。B2騎手×コースは使用値73.68×係数0.06931＝5.107点（出走馬平均比+2.637点）。A21/A22は全馬補完で計5.752点、実際の調教評価ではない。距離・競馬場・枠・展開の係数は0。点数の低さをそのまま不適性と扱わない。",
-              "finish": null
+              "finish": 6
             },
             {
               "number": 7,
@@ -23494,7 +23494,7 @@
               "numerical_rank": 8,
               "assessment": "△。数値8位から4位へ。京都芝1400mで5番を下して勝ち、続く阪神の重芝1600mでも昇級して2着。今回に近い条件での勝利と現級連対を評価する。父ダノンプレミアム・母父Dubawiという血統だけに頼らず、良馬場の京都1400m実績を根拠とする。約4か月ぶり、444kg(-4)。休み明けの仕上がりは不明で、先行争いに巻き込まれる可能性もあるため軸にはしない。",
               "numerical_explanation": "数値8位・53.46点、エンジン推定勝率5.97%。A1近走実績は使用値51.58×係数0.17539＝9.047点（出走馬平均比+0.875点）。A3芝・ダート適性は使用値77.78×係数0.19484＝15.154点（出走馬平均比+0.593点）。A7クラス実績は使用値42.82×係数0.14031＝6.008点（出走馬平均比-0.938点）。B2騎手×コースは使用値52.81×係数0.06931＝3.660点（出走馬平均比+1.190点）。A21/A22は全馬補完で計5.752点、実際の調教評価ではない。距離・競馬場・枠・展開の係数は0。点数の低さをそのまま不適性と扱わない。",
-              "finish": null
+              "finish": 2
             },
             {
               "number": 6,
@@ -23504,7 +23504,7 @@
               "numerical_rank": 9,
               "assessment": "☆。数値9位から5位へ。チューリップ賞G2で4着・公式レーティング107、君子蘭賞2着という過去の格を残す。A7寄与は今回の18頭で最大。前走休み明け6着0.6秒差からの2走目で、今回444kgは君子蘭賞2着時と同じ。ただし絞れて良化したとは断定しない。全9走は1600～1800mで1400mは初。短縮は不適性の証拠ではないが、追走に対応できるか未確認で相手5番手にする。",
               "numerical_explanation": "数値9位・51.58点、エンジン推定勝率5.26%。A1近走実績は使用値45.77×係数0.17539＝8.027点（出走馬平均比-0.144点）。A3芝・ダート適性は使用値64.29×係数0.19484＝12.525点（出走馬平均比-2.036点）。A7クラス実績は使用値72.56×係数0.14031＝10.181点（出走馬平均比+3.235点）。B2騎手×コースは使用値17.71×係数0.06931＝1.227点（出走馬平均比-1.243点）。A21/A22は全馬補完で計5.752点、実際の調教評価ではない。距離・競馬場・枠・展開の係数は0。点数の低さをそのまま不適性と扱わない。",
-              "finish": null
+              "finish": 8
             },
             {
               "number": 14,
@@ -23514,7 +23514,7 @@
               "numerical_rank": 4,
               "assessment": "6番手。数値4位から6位へ。フィリーズレビューG2の6着0.4秒差・レーティング103、京都1400mのりんどう賞3着は評価する。近2走も現級0.3～0.4秒差で能力不足と切らない。一方、今回は51kgから54kg、外目の枠に入り、逃げ・先行の競合が複数いる想定。前に負荷がかかる展開を採用して5頭の買い目からは僅差で外す。競り合わず好位を取れるなら、この判断が外れる可能性がある。",
               "numerical_explanation": "数値4位・55.18点、エンジン推定勝率6.69%。A1近走実績は使用値54.30×係数0.17539＝9.524点（出走馬平均比+1.353点）。A3芝・ダート適性は使用値53.85×係数0.19484＝10.491点（出走馬平均比-4.070点）。A7クラス実績は使用値66.83×係数0.14031＝9.377点（出走馬平均比+2.431点）。B2騎手×コースは使用値63.92×係数0.06931＝4.430点（出走馬平均比+1.960点）。A21/A22は全馬補完で計5.752点、実際の調教評価ではない。距離・競馬場・枠・展開の係数は0。点数の低さをそのまま不適性と扱わない。",
-              "finish": null
+              "finish": 16
             },
             {
               "number": 18,
@@ -23524,7 +23524,7 @@
               "numerical_rank": 13,
               "assessment": "7番手。数値13位から引き上げる。京都芝1400mの現級2着同タイムというコース実績は明確で、B2の低い寄与だけで能力を否定しない。約4か月ぶり・大外・480kg(-12)の状態確認ができず、軸候補より優先度を下げる。体重減そのものを不調と断定せず、差しが届く展開の次点候補。",
               "numerical_explanation": "数値13位・49.73点、エンジン推定勝率4.65%。A1近走実績は使用値51.27×係数0.17539＝8.992点（出走馬平均比+0.821点）。A3芝・ダート適性は使用値72.22×係数0.19484＝14.072点（出走馬平均比-0.490点）。A7クラス実績は使用値42.82×係数0.14031＝6.008点（出走馬平均比-0.938点）。B2騎手×コースは使用値10.77×係数0.06931＝0.746点（出走馬平均比-1.724点）。A21/A22は全馬補完で計5.752点、実際の調教評価ではない。距離・競馬場・枠・展開の係数は0。点数の低さをそのまま不適性と扱わない。",
-              "finish": null
+              "finish": 12
             },
             {
               "number": 15,
@@ -23534,7 +23534,7 @@
               "numerical_rank": 7,
               "assessment": "8番手。数値7位から1つ下げる。近2走の現級芝1600mはともに4着0.4秒差で安定。短縮で変わる余地はあるが、先行馬が多い中で外枠から位置を取る負担も想定する。B2寄与が大きいが、騎手の実績だけで上位5頭に入れず、1400mで現級好走した10・4などを優先。458kg増減なし。",
               "numerical_explanation": "数値7位・54.70点、エンジン推定勝率6.48%。A1近走実績は使用値43.06×係数0.17539＝7.553点（出走馬平均比-0.619点）。A3芝・ダート適性は使用値69.23×係数0.19484＝13.489点（出走馬平均比-1.073点）。A7クラス実績は使用値42.30×係数0.14031＝5.936点（出走馬平均比-1.011点）。B2騎手×コースは使用値88.89×係数0.06931＝6.161点（出走馬平均比+3.691点）。A21/A22は全馬補完で計5.752点、実際の調教評価ではない。距離・競馬場・枠・展開の係数は0。点数の低さをそのまま不適性と扱わない。",
-              "finish": null
+              "finish": 15
             },
             {
               "number": 13,
@@ -23544,7 +23544,7 @@
               "numerical_rank": 10,
               "assessment": "9番手。数値10位から微上げ。芝1400mの未勝利勝ちと京都同距離2着があり、前走の現級7着も0.5秒差。着順だけで大敗扱いしない。53kgは材料だが、440kg(+12)の中身は不明。上位との現級実績比較で相手5頭には入れない。",
               "numerical_explanation": "数値10位・51.46点、エンジン推定勝率5.22%。A1近走実績は使用値51.95×係数0.17539＝9.112点（出走馬平均比+0.940点）。A3芝・ダート適性は使用値73.33×係数0.19484＝14.288点（出走馬平均比-0.273点）。A7クラス実績は使用値40.66×係数0.14031＝5.706点（出走馬平均比-1.241点）。B2騎手×コースは使用値19.32×係数0.06931＝1.339点（出走馬平均比-1.131点）。A21/A22は全馬補完で計5.752点、実際の調教評価ではない。距離・競馬場・枠・展開の係数は0。点数の低さをそのまま不適性と扱わない。",
-              "finish": null
+              "finish": 5
             },
             {
               "number": 5,
@@ -23554,7 +23554,7 @@
               "numerical_rank": 2,
               "assessment": "10番手。数値2位から下げる。京都1400mの未勝利で連続2着があり、距離適性は否定しない。前走1200m未勝利勝ちから約4か月ぶりの昇級で、逃げ・先行勢が多い今回は現級実績馬を優先する。休み明けだけで下げたのではなく、数値で強く出ている未勝利での安定性と現級への通用を区別した判断。498kg(-2)。",
               "numerical_explanation": "数値2位・57.83点、エンジン推定勝率7.98%。A1近走実績は使用値59.44×係数0.17539＝10.425点（出走馬平均比+2.253点）。A3芝・ダート適性は使用値100.00×係数0.19484＝19.484点（出走馬平均比+4.922点）。A7クラス実績は使用値58.69×係数0.14031＝8.235点（出走馬平均比+1.289点）。B2騎手×コースは使用値28.21×係数0.06931＝1.955点（出走馬平均比-0.515点）。A21/A22は全馬補完で計5.752点、実際の調教評価ではない。距離・競馬場・枠・展開の係数は0。点数の低さをそのまま不適性と扱わない。",
-              "finish": null
+              "finish": 1
             },
             {
               "number": 12,
@@ -23564,7 +23564,7 @@
               "numerical_rank": 16,
               "assessment": "11番手。数値16位から上げる。前走の芝1400m現級5着は0.3秒差、上がり33.5。地方ダート実績をそのまま芝能力に転用せず、直近の中央芝の内容を評価。4番との同一レースでは0.3秒後ろで、現級での再現性は4番より薄いため次点以下。",
               "numerical_explanation": "数値16位・46.11点、エンジン推定勝率3.65%。A1近走実績は使用値44.95×係数0.17539＝7.884点（出走馬平均比-0.288点）。A3芝・ダート適性は使用値71.43×係数0.19484＝13.917点（出走馬平均比-0.644点）。A7クラス実績は使用値42.75×係数0.14031＝5.998点（出走馬平均比-0.948点）。B2騎手×コースは使用値29.27×係数0.06931＝2.029点（出走馬平均比-0.441点）。A21/A22は全馬補完で計5.752点、実際の調教評価ではない。距離・競馬場・枠・展開の係数は0。点数の低さをそのまま不適性と扱わない。",
-              "finish": null
+              "finish": 4
             },
             {
               "number": 3,
@@ -23574,7 +23574,7 @@
               "numerical_rank": 12,
               "assessment": "12番手で数値順位維持。前走の芝1400m現級9着は0.4秒差で、着順ほど差はない。2走前のダート15着を今回の芝の決定的な減点材料にはしない。ただし先行馬が多い今回は位置取りの競合があり、現級での上位実績は主力候補より弱い。",
               "numerical_explanation": "数値12位・49.81点、エンジン推定勝率4.68%。A1近走実績は使用値42.71×係数0.17539＝7.492点（出走馬平均比-0.680点）。A3芝・ダート適性は使用値91.67×係数0.19484＝17.860点（出走馬平均比+3.299点）。A7クラス実績は使用値42.82×係数0.14031＝6.008点（出走馬平均比-0.938点）。B2騎手×コースは使用値20.59×係数0.06931＝1.427点（出走馬平均比-1.043点）。A21/A22は全馬補完で計5.752点、実際の調教評価ではない。距離・競馬場・枠・展開の係数は0。点数の低さをそのまま不適性と扱わない。",
-              "finish": null
+              "finish": 11
             },
             {
               "number": 2,
@@ -23584,7 +23584,7 @@
               "numerical_rank": 15,
               "assessment": "13番手。数値15位から上げる。京都1400mの現級4着0.5秒差と末脚はあり、近2走のマイル凡走から戻る条件は見直せる。54kgも事実。ただし内で後方に置かれた場合の進路リスクがあり、現級好走の頻度で上位5頭に及ばないと判断。",
               "numerical_explanation": "数値15位・46.61点、エンジン推定勝率3.78%。A1近走実績は使用値41.79×係数0.17539＝7.330点（出走馬平均比-0.842点）。A3芝・ダート適性は使用値53.85×係数0.19484＝10.491点（出走馬平均比-4.070点）。A7クラス実績は使用値56.37×係数0.14031＝7.909点（出走馬平均比+0.963点）。B2騎手×コースは使用値23.33×係数0.06931＝1.617点（出走馬平均比-0.853点）。A21/A22は全馬補完で計5.752点、実際の調教評価ではない。距離・競馬場・枠・展開の係数は0。点数の低さをそのまま不適性と扱わない。",
-              "finish": null
+              "finish": 10
             },
             {
               "number": 16,
@@ -23594,7 +23594,7 @@
               "numerical_rank": 18,
               "assessment": "14番手。数値18位から上げる。前走の中央芝1400mは0.4秒差7着で、地方ダートの戦績だけで評価するより芝の通用可能性はある。今回58kgで前走56kgから増え、外枠。直近1走の好内容だけで主力まで引き上げない。",
               "numerical_explanation": "数値18位・38.08点、エンジン推定勝率2.14%。A1近走実績は使用値38.07×係数0.17539＝6.677点（出走馬平均比-1.494点）。A3芝・ダート適性は使用値33.33×係数0.19484＝6.495点（出走馬平均比-8.067点）。A7クラス実績は使用値33.25×係数0.14031＝4.665点（出走馬平均比-2.282点）。B2騎手×コースは使用値37.84×係数0.06931＝2.622点（出走馬平均比+0.153点）。A21/A22は全馬補完で計5.752点、実際の調教評価ではない。距離・競馬場・枠・展開の係数は0。点数の低さをそのまま不適性と扱わない。",
-              "finish": null
+              "finish": 9
             },
             {
               "number": 17,
@@ -23604,7 +23604,7 @@
               "numerical_rank": 5,
               "assessment": "15番手。数値5位から下げる。近走の勝利は1200m未勝利で、現級1200m8着0.6秒差。過去に京都1400m経験はあるが未勝利7着。今回は大外寄りからの延長で、他の現級1400m好走馬を優先する。476kg(+20)は成長か余裕残しか不明で、この増量だけを降格理由にしない。",
               "numerical_explanation": "数値5位・55.07点、エンジン推定勝率6.64%。A1近走実績は使用値53.74×係数0.17539＝9.426点（出走馬平均比+1.255点）。A3芝・ダート適性は使用値90.00×係数0.19484＝17.535点（出走馬平均比+2.974点）。A7クラス実績は使用値42.30×係数0.14031＝5.936点（出走馬平均比-1.011点）。B2騎手×コースは使用値31.58×係数0.06931＝2.189点（出走馬平均比-0.281点）。A21/A22は全馬補完で計5.752点、実際の調教評価ではない。距離・競馬場・枠・展開の係数は0。点数の低さをそのまま不適性と扱わない。",
-              "finish": null
+              "finish": 18
             },
             {
               "number": 8,
@@ -23614,7 +23614,7 @@
               "numerical_rank": 6,
               "assessment": "16番手。数値6位から下げる。A3などの過去実績は残すが、近2走の芝1500～1600mは先行して大きく失速している。今回も先行争いに巻き込まれた場合の懸念がある。ブリンカー着用は確認したが初装着か、改善するかは未確認。改善を断定して買い目には入れない。",
               "numerical_explanation": "数値6位・54.86点、エンジン推定勝率6.55%。A1近走実績は使用値31.11×係数0.17539＝5.457点（出走馬平均比-2.715点）。A3芝・ダート適性は使用値88.24×係数0.19484＝17.191点（出走馬平均比+2.630点）。A7クラス実績は使用値56.77×係数0.14031＝7.966点（出走馬平均比+1.019点）。B2騎手×コースは使用値52.50×係数0.06931＝3.639点（出走馬平均比+1.169点）。A21/A22は全馬補完で計5.752点、実際の調教評価ではない。距離・競馬場・枠・展開の係数は0。点数の低さをそのまま不適性と扱わない。",
-              "finish": null
+              "finish": 17
             },
             {
               "number": 11,
@@ -23624,7 +23624,7 @@
               "numerical_rank": 11,
               "assessment": "17番手。数値11位から下げる。直近の現級1200mは先行して16着1.1秒差。今回は1400mに延長、52kgから54kgとなり、先行争いが多い想定も課題。未勝利での逃げ切り能力は認めるが、今回の条件で反転する裏付けを確認できていない。",
               "numerical_explanation": "数値11位・50.28点、エンジン推定勝率4.83%。A1近走実績は使用値48.16×係数0.17539＝8.447点（出走馬平均比+0.276点）。A3芝・ダート適性は使用値77.78×係数0.19484＝15.154点（出走馬平均比+0.593点）。A7クラス実績は使用値42.82×係数0.14031＝6.008点（出走馬平均比-0.938点）。B2騎手×コースは使用値20.69×係数0.06931＝1.434点（出走馬平均比-1.036点）。A21/A22は全馬補完で計5.752点、実際の調教評価ではない。距離・競馬場・枠・展開の係数は0。点数の低さをそのまま不適性と扱わない。",
-              "finish": null
+              "finish": 13
             },
             {
               "number": 9,
@@ -23634,7 +23634,7 @@
               "numerical_rank": 17,
               "assessment": "18番手。数値17位から1つ下げる。地方3勝と中央芝の評価を分ける。中央の芝マイルで近走上位に届かず、今回は短縮と休み明けで変化の可能性はあるものの、それだけで現級好走馬を逆転する根拠にはしない。498kg(+12)の状態は不明。",
               "numerical_explanation": "数値17位・42.05点、エンジン推定勝率2.79%。A1近走実績は使用値34.94×係数0.17539＝6.128点（出走馬平均比-2.043点）。A3芝・ダート適性は使用値60.00×係数0.19484＝11.690点（出走馬平均比-2.871点）。A7クラス実績は使用値60.83×係数0.14031＝8.536点（出走馬平均比+1.589点）。B2騎手×コースは使用値20.34×係数0.06931＝1.410点（出走馬平均比-1.060点）。A21/A22は全馬補完で計5.752点、実際の調教評価ではない。距離・競馬場・枠・展開の係数は0。点数の低さをそのまま不適性と扱わない。",
-              "finish": null
+              "finish": 14
             }
           ],
           "summary": "◎10ムーンライトダイヤ、○4ヴァージル、▲1カルロット、△7キシャール、☆6グランドオーパス。現級1400mで直近好走した10・4を中心に、1の差し脚、7の京都1400m勝ち、6の重賞実績を残す。数値の上位は1・5・4・14・17で、今回は現級実績と想定展開を読み直したAI判断。混戦で抜けた軸とは言わない。",
