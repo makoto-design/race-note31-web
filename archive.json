@@ -1,7 +1,7 @@
 {
   "2026-11-01": {
     "day": "2026-11-01",
-    "generated_at": "2026-11-01T13:07+09:00",
+    "generated_at": "2026-11-01T13:09+09:00",
     "races": [
       {
         "race_id": "202605041101",
@@ -4274,7 +4274,7 @@
         "start_time": "15:40",
         "course": "芝",
         "distance": 2000,
-        "track_condition": "",
+        "track_condition": "良",
         "fixed": true,
         "retrospective": false,
         "winner": null,
